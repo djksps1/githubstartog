@@ -11,6 +11,9 @@ on:
         description: 'Reason for manual run'
         required: false
         default: 'Manual trigger'
+  schedule:
+    - cron: '0 16 * * *' # 每天 UTC 时间 16:00，即北京时间次日凌晨 0:00
+
 jobs:
   build-and-compile:
     runs-on: ubuntu-latest
