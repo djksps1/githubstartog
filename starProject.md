@@ -1,3 +1,33 @@
+### [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor)
+- **Description:** telegram群消息监测与定时发送消息和邮件通知
+
+### [emby-keeper/emby-keeper](https://github.com/emby-keeper/emby-keeper)
+- **Description:** Embykeeper 是一个用于 Emby 签到和保号的自动执行工具
+
+### [Totoro-Li/subconverter](https://github.com/Totoro-Li/subconverter)
+- **Description:** Utility to convert between various subscription format
+
+### [nvbn/thefuck](https://github.com/nvbn/thefuck)
+- **Description:** Magnificent app which corrects your previous console command.
+
+### [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
+- **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+
+### [hekmon8/Homeassistant-server-mcp](https://github.com/hekmon8/Homeassistant-server-mcp)
+- **Description:** A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.
+
+### [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root)
+- **Description:** Ultimate list of best android root apps, rooting guides,  tips , tricks and tools.
+
+### [ccbikai/Sink](https://github.com/ccbikai/Sink)
+- **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+
+### [beilunyang/moemail](https://github.com/beilunyang/moemail)
+- **Description:** 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
+
+### [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
+- **Description:** 属于大学生群体的真·青年大学习
+
 ### [Mran/githubstartog](https://github.com/Mran/githubstartog)
 - **Description:** 将你的星标项目做成前端页面
 
@@ -59,9 +89,6 @@
 ### [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
 - **Description:** A service that can convert ChatGPT on the web to OpenAI API format.
 
-### [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor)
-- **Description:** telegram群消息监测与定时发送消息和邮件通知
-
 ### [h88782481/Chat-Share](https://github.com/h88782481/Chat-Share)
 - **Description:** 基于LQ的chat2api项目，搭建一个共享站，方便给自己的小伙伴们使用
 
@@ -70,7 +97,7 @@
 ### [yangtb2024/OneTimeMessagePHP](https://github.com/yangtb2024/OneTimeMessagePHP)
 
 ### [fangyuan99/cookie-share](https://github.com/fangyuan99/cookie-share)
-- **Description:** Cookie-share is a Chrome/Edge/Firefox extension that allows users to send and receive cookies between different devices or browsers. It can be used for multi-account switching, sharing video memberships, co-renting planets, and other scenarios. A self-hosted Cloudflare Worker ensures data security.
+- **Description:** Cookie-share is a extension/script that allows users to send and receive cookies between different devices or browsers. It can be used for multi-account switching, sharing video memberships, co-renting planets, and other scenarios. A self-hosted Cloudflare Worker ensures data security.
 
 ### [BBD-YZZ/week-passwd](https://github.com/BBD-YZZ/week-passwd)
 - **Description:** FTP,SSH,MYSQL,MSSQL等弱口令爆破工具！
@@ -151,7 +178,7 @@
 - **Description:** ACL4SSR 订阅地址转换链接生成(前端)
 
 ### [hengyoush/kyanos](https://github.com/hengyoush/kyanos)
-- **Description:** Kyanos is an ebpf based networking analysis tool. It can visualize the time packets spend in the kernel, analyze requests/responses in command line, and more...
+- **Description:** Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses in command line, calculates various aggregated metrics, makes troubleshooting more efficient.
 
 ### [katyjohn124/code-for-artifacts](https://github.com/katyjohn124/code-for-artifacts)
 - **Description:** chatgpt code for preview ,support html+css+js\react(jsx)+css\vue\python code
@@ -168,7 +195,7 @@
 - **Description:** Switch hosts quickly!
 
 ### [datehoer/hot-rank-web](https://github.com/datehoer/hot-rank-web)
-- **Description:** hot rank
+- **Description:** hot today news rank
 
 ### [datehoer/hotToday](https://github.com/datehoer/hotToday)
 
@@ -793,7 +820,7 @@
 - **Description:** 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 
 ### [Crogram/SiteHub](https://github.com/Crogram/SiteHub)
-- **Description:** 程江网址导航系统
+- **Description:** 程江®网址导航系统
 
 ### [zyronon/douyin](https://github.com/zyronon/douyin)
 - **Description:**  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
@@ -850,7 +877,7 @@
 - **Description:** 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
 
 ### [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
-- **Description:** 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
+- **Description:** 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、探索版、K1思考模型、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 
 ### [cxOrz/chaoxing-signin](https://github.com/cxOrz/chaoxing-signin)
 - **Description:** 超星学习通签到：支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测、QQ机器人签到与推送。
