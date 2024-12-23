@@ -1,3 +1,6 @@
+### [snjyor/my-cv](https://github.com/snjyor/my-cv)
+- **Description:** 轻松部署拥有个人域名的在线简历
+
 ### [Coooolfan/treer](https://github.com/Coooolfan/treer)
 - **Description:** 不只是在圣诞节种树
 
@@ -425,7 +428,7 @@
 - **Description:** Serv00控制面板自动登录脚本
 
 ### [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs)
-- **Description:** VPS融合怪服务器测评项目-GO重构版本
+- **Description:** VPS融合怪服务器测评项目-GO重构版本(VPS Fusion Monster Server Test Script)
 
 ### [share121/inter-knot](https://github.com/share121/inter-knot)
 - **Description:** 绳网
