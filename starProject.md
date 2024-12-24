@@ -1,3 +1,5 @@
+### [woheller69/TimeLapseCamera](https://github.com/woheller69/TimeLapseCamera)
+
 ### [snjyor/my-cv](https://github.com/snjyor/my-cv)
 - **Description:** 轻松部署拥有个人域名的在线简历
 
@@ -184,7 +186,7 @@
 - **Description:** ACL4SSR 订阅地址转换链接生成(前端)
 
 ### [hengyoush/kyanos](https://github.com/hengyoush/kyanos)
-- **Description:** Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses in command line, calculates various aggregated metrics, makes troubleshooting more efficient.
+- **Description:** Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
 
 ### [katyjohn124/code-for-artifacts](https://github.com/katyjohn124/code-for-artifacts)
 - **Description:** chatgpt code for preview ,support html+css+js\react(jsx)+css\vue\python code
