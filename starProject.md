@@ -1,3 +1,6 @@
+### [OxOOo/ProxyPoolWithUI](https://github.com/OxOOo/ProxyPoolWithUI)
+- **Description:** Python编写的HTTP代理池，集成WEB管理界面，无外部数据库依赖，可直接运行，兼容Windows,Linux和macOS。Free Proxy Pool with Web UI on Windows, Linux, and macOS. 
+
 ### [Meatbuns666/Stripe-Demo](https://github.com/Meatbuns666/Stripe-Demo)
 - **Description:** A Stripe-Demo
 
