@@ -1,3 +1,6 @@
+### [petercat-ai/petercat](https://github.com/petercat-ai/petercat)
+- **Description:** A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
+
 ### [OxOOo/ProxyPoolWithUI](https://github.com/OxOOo/ProxyPoolWithUI)
 - **Description:** Python编写的HTTP代理池，集成WEB管理界面，无外部数据库依赖，可直接运行，兼容Windows,Linux和macOS。Free Proxy Pool with Web UI on Windows, Linux, and macOS. 
 
@@ -362,7 +365,7 @@
 - **Description:** yet another rss reader
 
 ### [WAADRI/ChaoXing_node_signin](https://github.com/WAADRI/ChaoXing_node_signin)
-- **Description:** 学习通在线自动签到系统签到节点接入脚本，用于自行部署可接入学习通在线自动签到系统的签到节点，该脚本需配合学习通在线自动签到系统使用，网址：https://cx.waadri.top/
+- **Description:** 学习通在线自动签到系统第三方节点接入程序，用于自行部署可接入学习通在线自动签到系统的第三方节点，该程序需配合学习通在线自动签到系统使用，网址：https://cx.waadri.top/
 
 ### [EDtunnel-rev/Real-Address-Generator](https://github.com/EDtunnel-rev/Real-Address-Generator)
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
