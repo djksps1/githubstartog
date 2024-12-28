@@ -1,3 +1,6 @@
+### [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
+- **Description:** A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
+
 ### [petercat-ai/petercat](https://github.com/petercat-ai/petercat)
 - **Description:** A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
 
@@ -962,7 +965,7 @@
 - **Description:** 基于Unity开源框架GameFramewrk实现的一款塔防游戏Demo
 
 ### [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-- **Description:** A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- **Description:** A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 
 ### [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing)
 - **Description:** 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
