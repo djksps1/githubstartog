@@ -1,3 +1,9 @@
+### [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension)
+- **Description:** Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
+
+### [snakeying/GPT-Telegram-Worker](https://github.com/snakeying/GPT-Telegram-Worker)
+- **Description:** A multi-model AI Telegram bot powered by Cloudflare Workers, supporting various APIs including OpenAI, Claude, and Azure. Developed in TypeScript with a modular design for easy expansion.基于 Cloudflare Workers 的多模型 AI Telegram 机器人，支持 OpenAI、Claude、Azure 等多个 API，采用 TypeScript 开发，模块化设计便于扩展。
+
 ### [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
 - **Description:** A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
@@ -286,9 +292,6 @@
 - **Description:** Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ### [hd9211/Tvbox1](https://github.com/hd9211/Tvbox1)
-
-### [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension)
-- **Description:** Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 
 ### [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China)
 - **Description:** 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
