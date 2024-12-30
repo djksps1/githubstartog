@@ -1,3 +1,9 @@
+### [cinit/TMoe](https://github.com/cinit/TMoe)
+- **Description:** An Xposed module for Telegram clients
+
+### [yueliu1999/Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs)
+- **Description:** Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses.
+
 ### [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension)
 - **Description:** Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 
@@ -110,7 +116,7 @@
 - **Description:** A simple dashboard for nezha.
 
 ### [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
-- **Description:** 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
+- **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
 
 ### [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
 - **Description:** A service that can convert ChatGPT on the web to OpenAI API format.
@@ -297,7 +303,7 @@
 - **Description:** 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
 
 ### [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot)
-- **Description:** 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡备案查询，⚡手机号归属地查询，⚡WHOIS信息查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛美女视频，⚡美女图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，⚡检测广告，🌱自动群发，👯Ai回复，😄自定义程度丰富，小白也可轻松上手！
+- **Description:** 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复，⚡视频号解析，😄自定义程度丰富，小白也可轻松上手！
 
 ### [geekscloud/ql-script](https://github.com/geekscloud/ql-script)
 - **Description:** 一些花里胡哨不知道干什么的东西
