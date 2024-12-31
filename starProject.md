@@ -893,9 +893,6 @@
 ### [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs)
 - **Description:** Generate Subtitles & Diarize Speakers in Davinci Resolve using AI.
 
-### [WeChatAPIs/WechatBotCMD](https://github.com/WeChatAPIs/WechatBotCMD)
-- **Description:** 微信机器人WechatBotCMD是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
-
 ### [Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install)
 - **Description:** 针对 LiteLoaderQQNT 的安装脚本
 
