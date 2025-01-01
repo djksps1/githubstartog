@@ -1,3 +1,9 @@
+### [Ackites/Nrfr](https://github.com/Ackites/Nrfr)
+- **Description:** 🌍 免 Root 的 SIM 卡国家码修改工具 | 解锁运营商限制，优化信号显示，突破区域限制
+
+### [TrueMyst/BeatPrints](https://github.com/TrueMyst/BeatPrints)
+- **Description:** ☕ BeatPrints, create eye-catching, Pinterest-style music posters effortlessly.
+
 ### [cinit/TMoe](https://github.com/cinit/TMoe)
 - **Description:** An Xposed module for Telegram clients
 
