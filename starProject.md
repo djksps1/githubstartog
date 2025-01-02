@@ -1,3 +1,11 @@
+### [xchenya/linux.do](https://github.com/xchenya/linux.do)
+
+### [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts)
+- **Description:** LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架谷歌扩展商店。
+
+### [Kamikadze4GAME/cloudflare-bypasser](https://github.com/Kamikadze4GAME/cloudflare-bypasser)
+- **Description:** A simple Node.js module to bypass Cloudflare anti-DDOS page
+
 ### [Ackites/Nrfr](https://github.com/Ackites/Nrfr)
 - **Description:** 🌍 免 Root 的 SIM 卡国家码修改工具 | 解锁运营商限制，优化信号显示，突破区域限制
 
