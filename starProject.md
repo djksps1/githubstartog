@@ -1,7 +1,7 @@
 ### [xchenya/linux.do](https://github.com/xchenya/linux.do)
 
 ### [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts)
-- **Description:** LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架谷歌扩展商店。
+- **Description:** LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
 
 ### [Kamikadze4GAME/cloudflare-bypasser](https://github.com/Kamikadze4GAME/cloudflare-bypasser)
 - **Description:** A simple Node.js module to bypass Cloudflare anti-DDOS page
