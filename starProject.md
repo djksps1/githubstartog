@@ -1,3 +1,6 @@
+### [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme)
+- **Description:** 语燕拼音输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
+
 ### [xchenya/linux.do](https://github.com/xchenya/linux.do)
 
 ### [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts)
@@ -224,7 +227,7 @@
 - **Description:** ACL4SSR 订阅地址转换链接生成(前端)
 
 ### [hengyoush/kyanos](https://github.com/hengyoush/kyanos)
-- **Description:** Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
+- **Description:** Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
 
 ### [katyjohn124/code-for-artifacts](https://github.com/katyjohn124/code-for-artifacts)
 - **Description:** chatgpt code for preview ,support html+css+js\react(jsx)+css\vue\python code
