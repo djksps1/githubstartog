@@ -1,3 +1,6 @@
+### [ttm533/v2nodes](https://github.com/ttm533/v2nodes)
+- **Description:** 自动获取免费网站的节点信息
+
 ### [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme)
 - **Description:** 语燕拼音输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
 
@@ -10,7 +13,7 @@
 - **Description:** A simple Node.js module to bypass Cloudflare anti-DDOS page
 
 ### [Ackites/Nrfr](https://github.com/Ackites/Nrfr)
-- **Description:** 🌍 免 Root 的 SIM 卡国家码修改工具 | 解锁运营商限制，优化信号显示，突破区域限制
+- **Description:** 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，优化信号显示，突破区域限制
 
 ### [TrueMyst/BeatPrints](https://github.com/TrueMyst/BeatPrints)
 - **Description:** ☕ BeatPrints, create eye-catching, Pinterest-style music posters effortlessly.
@@ -52,9 +55,6 @@
 
 ### [emby-keeper/emby-keeper](https://github.com/emby-keeper/emby-keeper)
 - **Description:** Embykeeper 是一个用于 Emby 签到和保号的自动执行工具
-
-### [Totoro-Li/subconverter](https://github.com/Totoro-Li/subconverter)
-- **Description:** Utility to convert between various subscription format
 
 ### [nvbn/thefuck](https://github.com/nvbn/thefuck)
 - **Description:** Magnificent app which corrects your previous console command.
