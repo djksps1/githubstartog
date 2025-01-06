@@ -1,3 +1,5 @@
+### [bestruirui/mihomo-check](https://github.com/bestruirui/mihomo-check)
+
 ### [ttm533/v2nodes](https://github.com/ttm533/v2nodes)
 - **Description:** 自动获取免费网站的节点信息
 
@@ -66,7 +68,7 @@
 - **Description:** A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.
 
 ### [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root)
-- **Description:** Ultimate list of best android root apps, rooting guides,  tips , tricks and tools.
+- **Description:** A curated collection of best Android root apps, Magisk modules, LSPosed modules and tools,tricks and guides.
 
 ### [ccbikai/Sink](https://github.com/ccbikai/Sink)
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
@@ -1015,7 +1017,7 @@
 - **Description:** An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 
 ### [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- **Description:** This repo includes ChatGPT prompt curation to use ChatGPT better.
+- **Description:** This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 ### [CofbroTeam/Doraemon](https://github.com/CofbroTeam/Doraemon)
 - **Description:** ⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！
