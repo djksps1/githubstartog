@@ -1,7 +1,17 @@
+### [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+- **Description:** 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+
+### [Cunninger/ocr-based-deepseek](https://github.com/Cunninger/ocr-based-deepseek)
+- **Description:** 基于deepseek 的OCR
+
+### [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)
+- **Description:** CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+
 ### [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - **Description:** 😎 Awesome lists about all kinds of interesting topics
 
 ### [bestruirui/mihomo-check](https://github.com/bestruirui/mihomo-check)
+- **Description:** 节点可用性检测
 
 ### [geekcomputers/Python](https://github.com/geekcomputers/Python)
 - **Description:** My Python Examples
@@ -412,9 +422,6 @@
 
 ### [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack)
 - **Description:** 非付费会员，fofa数据采集工具
-
-### [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)
-- **Description:** CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
 ### [nopdan/rose](https://github.com/nopdan/rose)
 - **Description:** IME User Dictionary Converter. 输入法用户词库转换工具
