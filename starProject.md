@@ -11,7 +11,7 @@
 - **Description:** 😎 Awesome lists about all kinds of interesting topics
 
 ### [bestruirui/mihomo-check](https://github.com/bestruirui/mihomo-check)
-- **Description:** 节点可用性检测
+- **Description:** 节点合并，测试，重命名，管理工具
 
 ### [geekcomputers/Python](https://github.com/geekcomputers/Python)
 - **Description:** My Python Examples
@@ -84,7 +84,7 @@
 - **Description:** A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.
 
 ### [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root)
-- **Description:** A curated collection of best Android root apps, Magisk modules, LSPosed modules and tools,tricks and guides.
+- **Description:** A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 
 ### [ccbikai/Sink](https://github.com/ccbikai/Sink)
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
