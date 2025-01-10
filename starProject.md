@@ -1,3 +1,6 @@
+### [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
+- **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+
 ### [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 - **Description:** 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 
@@ -76,9 +79,6 @@
 
 ### [nvbn/thefuck](https://github.com/nvbn/thefuck)
 - **Description:** Magnificent app which corrects your previous console command.
-
-### [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
-- **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
 ### [hekmon8/Homeassistant-server-mcp](https://github.com/hekmon8/Homeassistant-server-mcp)
 - **Description:** A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.
