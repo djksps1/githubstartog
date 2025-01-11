@@ -1,5 +1,11 @@
+### [thedevs-network/kutt](https://github.com/thedevs-network/kutt)
+- **Description:** Free Modern URL Shortener.
+
+### [hellodk34/jpg2gif](https://github.com/hellodk34/jpg2gif)
+- **Description:** 把telegram导出的jpg/jpeg/png静态表情图片转换成微信能够导入的.gif文件
+
 ### [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
-- **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+- **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
 ### [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 - **Description:** 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
@@ -274,9 +280,6 @@
 
 ### [openspug/spug](https://github.com/openspug/spug)
 - **Description:** 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-
-### [hellodk34/jpg2gif](https://github.com/hellodk34/jpg2gif)
-- **Description:** 把telegram导出的jpg/jpeg/png静态表情图片转换成微信能够导入的.gif文件
 
 ### [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX)
 - **Description:** A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
