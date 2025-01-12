@@ -1,3 +1,11 @@
+### [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
+- **Description:** auto sign cursor
+
+### [ttttupup/wxhelper](https://github.com/ttttupup/wxhelper)
+- **Description:** Hook  WeChat  / 微信逆向
+
+### [ddgksf2013/EmbyToolbox](https://github.com/ddgksf2013/EmbyToolbox)
+
 ### [thedevs-network/kutt](https://github.com/thedevs-network/kutt)
 - **Description:** Free Modern URL Shortener.
 
