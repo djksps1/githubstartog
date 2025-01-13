@@ -1010,8 +1010,8 @@
 ### [DrFlower/TowerDefense-GameFramework-Demo](https://github.com/DrFlower/TowerDefense-GameFramework-Demo)
 - **Description:** 基于Unity开源框架GameFramewrk实现的一款塔防游戏Demo
 
-### [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-- **Description:** A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
+### [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
+- **Description:** ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 ### [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing)
 - **Description:** 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
