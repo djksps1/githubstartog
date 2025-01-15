@@ -268,7 +268,7 @@
 - **Description:** Pure Front-End API Testing Tool
 
 ### [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex)
-- **Description:** Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），OpenAI/ChatGPT代理，Github加速，在线代理。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker.
+- **Description:** Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），OpenAI/ChatGPT代理，Github加速，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker. Now you can deploy this project on different platforms.
 
 ### [TeamPropaganda/autohitter](https://github.com/TeamPropaganda/autohitter)
 
