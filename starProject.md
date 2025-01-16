@@ -1,3 +1,9 @@
+### [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker)
+- **Description:** 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
+
+### [vbskycn/iptv](https://github.com/vbskycn/iptv)
+- **Description:** iptv最新可用直播源iptv4/iptv6。直播电视系统，这里有折腾好了的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
+
 ### [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 - **Description:** auto sign cursor
 
@@ -268,7 +274,7 @@
 - **Description:** Pure Front-End API Testing Tool
 
 ### [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex)
-- **Description:** Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），OpenAI/ChatGPT代理，Github加速，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker. Now you can deploy this project on different platforms.
+- **Description:** Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms.
 
 ### [TeamPropaganda/autohitter](https://github.com/TeamPropaganda/autohitter)
 
@@ -388,9 +394,6 @@
 
 ### [move132/Url-Shorten-Worker](https://github.com/move132/Url-Shorten-Worker)
 - **Description:** 使用 Cloudflare Worker 创建的 URL 缩短器, 支持保存历史记录和二维码查看
-
-### [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker)
-- **Description:** 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
 
 ### [PC6live/bilibili-joybook-tampermonkey](https://github.com/PC6live/bilibili-joybook-tampermonkey)
 - **Description:** Bilibili 共享大会员
