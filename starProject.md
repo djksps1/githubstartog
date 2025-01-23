@@ -1,3 +1,5 @@
+### [thuhollow2/myconfig](https://github.com/thuhollow2/myconfig)
+
 ### [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS)
 - **Description:** Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 
@@ -232,7 +234,7 @@
 - **Description:** test2pic
 
 ### [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste)
-- **Description:** 基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、密码保护、文件上传等功能
+- **Description:** 基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
 
 ### [hmhm2022/gpt-cursor-auto](https://github.com/hmhm2022/gpt-cursor-auto)
 - **Description:** Python脚本 一键获取 ChatGpt 的 Access Token，Cursor Pro 自动保活
