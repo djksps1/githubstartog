@@ -281,7 +281,7 @@
 ### [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex)
 - **Description:** Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms.
 
-### [TeamPropaganda/autohitter](https://github.com/TeamPropaganda/autohitter)
+### [TeamPropaganda/YourMom](https://github.com/TeamPropaganda/YourMom)
 
 ### [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)
 - **Description:** Switch hosts quickly!
