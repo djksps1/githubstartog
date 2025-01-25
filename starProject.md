@@ -27,7 +27,7 @@
 - **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
 ### [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-- **Description:** 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+- **Description:** 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 
 ### [Cunninger/ocr-based-deepseek](https://github.com/Cunninger/ocr-based-deepseek)
 - **Description:** 基于deepseek 的OCR
