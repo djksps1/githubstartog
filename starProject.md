@@ -1,3 +1,15 @@
+### [KaringX/karing](https://github.com/KaringX/karing)
+- **Description:** Simple & Powerful proxy utility, Support routing rules for clash/sing-box
+
+### [localsend/localsend](https://github.com/localsend/localsend)
+- **Description:** An open-source cross-platform alternative to AirDrop
+
+### [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
+- **Description:** 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+### [guioalis/miaogejqr](https://github.com/guioalis/miaogejqr)
+- **Description:** 喵哥AI群管机器人
+
 ### [carlliuxx/shortcuts_for_android](https://github.com/carlliuxx/shortcuts_for_android)
 - **Description:** 为安卓设备打造快捷指令，用语音实现自动化操作！
 
@@ -825,7 +837,7 @@
 - **Description:** 微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.
 
 ### [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)
-- **Description:** 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
+- **Description:** 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、DeepSeek、Claude、Gemini、ChatGLM、文心一言、讯飞星火，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
 
 ### [ZYYO666/homepage](https://github.com/ZYYO666/homepage)
 - **Description:** 我的个人主页，homepage,个人引导页,简约主页,个人导航
