@@ -56,8 +56,8 @@
 ### [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - **Description:** 😎 Awesome lists about all kinds of interesting topics
 
-### [bestruirui/mihomo-check](https://github.com/bestruirui/mihomo-check)
-- **Description:** 节点合并，测试，重命名，管理工具
+### [bestruirui/subs-check](https://github.com/bestruirui/subs-check)
+- **Description:** 订阅转换合并，节点可用性，测速，重命名，合并工具
 
 ### [geekcomputers/Python](https://github.com/geekcomputers/Python)
 - **Description:** My Python Examples
@@ -422,7 +422,7 @@
 - **Description:** Bilibili 共享大会员
 
 ### [omegaee/my-fingerprint](https://github.com/omegaee/my-fingerprint)
-- **Description:** 自定义你的浏览器指纹，让你的浏览器更加安全 -- Chrome/Edge扩展
+- **Description:** 保护你的浏览器指纹 | Protect Your Browser Fingerprints | Chrome/Edge 扩展/Extension
 
 ### [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator)
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
@@ -936,7 +936,7 @@
 - **Description:** Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 
 ### [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
-- **Description:** OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+- **Description:** LLM API 接口管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google PaLM 2 & Gemini、DeepSeek、字节豆包大模型、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元等模型提供商，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
 
 ### [svenstaro/genact](https://github.com/svenstaro/genact)
 - **Description:** 🌀 A nonsense activity generator
