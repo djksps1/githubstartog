@@ -1,3 +1,8 @@
+### [SMNETSTUDIO/You2API](https://github.com/SMNETSTUDIO/You2API)
+
+### [mirai-MIC/BronyaBot](https://github.com/mirai-MIC/BronyaBot)
+- **Description:** 一站式签到解决方案！ BronyaBot 是一个基于 Go 语言开发的自动化签到项目，专为工学云平台和超星学习通设计。通过模拟登录、自动签到、考试答题（学习通部分尚在开发中），让你轻松完成每日任务！适用于个人用户和团队使用。
+
 ### [beradeep/whitehole](https://github.com/beradeep/whitehole)
 - **Description:** Simple photo manager on top of Telegram.
 
@@ -936,7 +941,7 @@
 - **Description:** Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 
 ### [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
-- **Description:** LLM API 接口管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google PaLM 2 & Gemini、DeepSeek、字节豆包大模型、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元等模型提供商，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+- **Description:** LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
 ### [svenstaro/genact](https://github.com/svenstaro/genact)
 - **Description:** 🌀 A nonsense activity generator
