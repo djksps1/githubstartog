@@ -1,3 +1,6 @@
+### [rewired-gh/ichigo-bot](https://github.com/rewired-gh/ichigo-bot)
+- **Description:** Telegram chat bot for accessing various LLM services in one place
+
 ### [SMNETSTUDIO/You2API](https://github.com/SMNETSTUDIO/You2API)
 
 ### [mirai-MIC/BronyaBot](https://github.com/mirai-MIC/BronyaBot)
@@ -412,7 +415,7 @@
 - **Description:** Paper_Copilot 是一款基于向量索引和大模型的高级文献分析命令行工具，旨在帮助学术研究人员高效管理、检索和分析海量文献。通过本地自建知识库并与大模型的交互，它能够为用户提供专业且精准的解答，显著提升文献研究的效率与准确性。
 
 ### [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
-- **Description:** 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+- **Description:** 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 
 ### [RunningFelix/openai-api-tester](https://github.com/RunningFelix/openai-api-tester)
 - **Description:** 一个测试OpenAI格式API的可用性的工具（A tool to test the availability of OpenAI's formatted API.）
@@ -1039,7 +1042,7 @@
 - **Description:** 基于Unity开源框架GameFramewrk实现的一款塔防游戏Demo
 
 ### [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
-- **Description:** ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- **Description:** ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 ### [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing)
 - **Description:** 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
