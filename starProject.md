@@ -1,5 +1,8 @@
+### [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor)
+- **Description:** telegram群消息监测与定时发送消息和邮件通知
+
 ### [rewired-gh/ichigo-bot](https://github.com/rewired-gh/ichigo-bot)
-- **Description:** Telegram chat bot for accessing various LLM services in one place
+- **Description:** 🍓 Telegram chat bot for accessing various LLM services in one place
 
 ### [SMNETSTUDIO/You2API](https://github.com/SMNETSTUDIO/You2API)
 
@@ -121,9 +124,6 @@
 
 ### [Coooolfan/treer](https://github.com/Coooolfan/treer)
 - **Description:** 不只是在圣诞节种树
-
-### [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor)
-- **Description:** telegram群消息监测与定时发送消息和邮件通知
 
 ### [emby-keeper/emby-keeper](https://github.com/emby-keeper/emby-keeper)
 - **Description:** Embykeeper 是一个用于 Emby 签到和保号的自动执行工具
