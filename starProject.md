@@ -68,7 +68,7 @@
 - **Description:** 😎 Awesome lists about all kinds of interesting topics
 
 ### [bestruirui/subs-check](https://github.com/bestruirui/subs-check)
-- **Description:** 订阅转换合并，节点可用性，测速，重命名，合并工具
+- **Description:** 订阅转换合并，节点可用性，测速，重命名，导出为mihomo/clash订阅工具
 
 ### [geekcomputers/Python](https://github.com/geekcomputers/Python)
 - **Description:** My Python Examples
@@ -250,8 +250,8 @@
 ### [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror)
 - **Description:** 🚀 一键部署个人的 ChatGPT 镜像站
 
-### [clashbk/ChromeAutoBot](https://github.com/clashbk/ChromeAutoBot)
-- **Description:** Chrome浏览器自动机器人
+### [clashbk/ChromeBot](https://github.com/clashbk/ChromeBot)
+- **Description:** Chrome浏览器机器人
 
 ### [hzhilong/bilibili-backup](https://github.com/hzhilong/bilibili-backup)
 - **Description:** 一键对B站账号进行数据备份和还原，方便账号数据迁移/快速转生(哗哩哗哩 bilibili)
@@ -351,7 +351,7 @@
 - **Description:** 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.新增页面右下角导航；2.通过 JavaScript 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91porn/hitomi/紳士漫畫/禁漫天堂/等视频&ACG&小说&漫画网站上的弹窗广告&视频广告&Gif图片广告等，保持网页清爽干净无打扰！ P.S. 欢迎提交issue
 
 ### [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
-- **Description:** CloudFlare 图床/文件床，基于 CloudFlare Pages 的免费图片/文件托管解决方案，支持 Telegram Bot 和 Cloudflare R2 等多种存储方式！
+- **Description:** 基于 CloudFlare Pages 的开源文件托管解决方案，支持 Telegram Bot 、R2、S3 等多种存储方式！
 
 ### [basecamp/omakub](https://github.com/basecamp/omakub)
 - **Description:** Opinionated Ubuntu Setup
@@ -829,7 +829,7 @@
 ### [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit)
 - **Description:** 可本地部署的AI语音工具箱 | A user-friendly audio toolkit for voice recognition, voice transcription, voice conversion etc.
 
-### [afosne/DNS-Unlock](https://github.com/afosne/DNS-Unlock)
+### [afosne/DNS-UNLOCK](https://github.com/afosne/DNS-UNLOCK)
 - **Description:** 加速网络解析速度，解锁Netflix、hulu、disney等网页
 
 ### [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev)
