@@ -706,7 +706,7 @@
 - **Description:** :scream: A curated list of amazingly awesome OSINT
 
 ### [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup)
-- **Description:** 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
+- **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 
 ### [snakem982/proxypool](https://github.com/snakem982/proxypool)
 - **Description:** Free Proxies，Free Nodes，免费节点，白嫖节点，免费vpn，免费v2ray，免费订阅，免费clash，Free VPN，Free v2ray，Free Sub，Free Clash
