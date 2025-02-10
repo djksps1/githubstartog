@@ -167,7 +167,7 @@
 - **Description:** An open-source, cross-platform terminal for seamless workflows
 
 ### [abgox/PSCompletions](https://github.com/abgox/PSCompletions)
-- **Description:** A completion manager for better and simpler use completions in PowerShell.  一个补全管理模块，更简单、更方便的在 PowerShell 中使用命令补全。
+- **Description:** A completion manager for better and simpler use completions in PowerShell.  一个 PowerShell 命令补全管理模块，更简单、更方便的在 PowerShell 中使用命令补全。
 
 ### [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
 - **Description:** 带带弟弟 通用验证码识别OCR pypi版
@@ -254,7 +254,7 @@
 - **Description:** Chrome浏览器机器人
 
 ### [hzhilong/bilibili-backup](https://github.com/hzhilong/bilibili-backup)
-- **Description:** 一键对B站账号进行数据备份和还原，方便账号数据迁移/快速转生(哗哩哗哩 bilibili)
+- **Description:** 一键对B站账号进行数据备份和还原，方便账号数据迁移/快速转生(哔哩哔哩 bilibili)。One-click backup and restore of B station account data, convenient account data migration/quick reincarnation.
 
 ### [snailyp/text2pic](https://github.com/snailyp/text2pic)
 - **Description:** test2pic
@@ -605,7 +605,7 @@
 - **Description:** ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 
 ### [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)
-- **Description:** Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
+- **Description:** Just make a few small changes to your Bilibili homepage. NOT FOR SAFARI, SAY NO TO SUPPORT SAFARI. FUCK APPLE! (English | 简体中文 | 正體中文 | 廣東話)
 
 ### [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing)
 - **Description:** 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字
