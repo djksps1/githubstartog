@@ -1,3 +1,6 @@
+### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
+- **Description:** 保存 Telegram 文件到各类存储空间 📂 (支持 Alist、本地磁盘、Webdav...) 
+
 ### [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor)
 - **Description:** telegram群消息监测与定时发送消息和邮件通知
 
@@ -571,7 +574,7 @@
 - **Description:** 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
 
 ### [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
-- **Description:** Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- **Description:** Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ### [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 - **Description:** real time face swap and one-click video deepfake with only a single image
