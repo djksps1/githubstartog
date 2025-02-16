@@ -1,3 +1,6 @@
+### [guioalis/miaogebin](https://github.com/guioalis/miaogebin)
+- **Description:** 喵哥stripe 付款自动检查bin 结账工具
+
 ### [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 - **Description:** The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
 
@@ -216,7 +219,7 @@
 ### [h88782481/Chat-Share](https://github.com/h88782481/Chat-Share)
 - **Description:** 基于LQ的chat2api项目，搭建一个共享站，方便给自己的小伙伴们使用
 
-### [otaku-codes/sk_based_checker](https://github.com/otaku-codes/sk_based_checker)
+### [himanshupapola/sk_based_checker](https://github.com/himanshupapola/sk_based_checker)
 
 ### [yangtb2024/OneTimeMessagePHP](https://github.com/yangtb2024/OneTimeMessagePHP)
 
@@ -854,7 +857,7 @@
 - **Description:** 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
 
 ### [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)
-- **Description:** 🚀 一键部署！真正的 AI 聊天机器人！支持DeepSeek、Claude、OpenAI、Gemini、ChatGLM、Ollama，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
+- **Description:** 🚀 真正的 AI 聊天机器人！支持DeepSeek、Claude、OpenAI、Gemini、ChatGLM、Ollama，人设调教，虚拟女仆、语音对话 | 支持 QQ、Telegram、Discord、微信 等平台
 
 ### [ZYYO666/homepage](https://github.com/ZYYO666/homepage)
 - **Description:** 我的个人主页，homepage,个人引导页,简约主页,个人导航
