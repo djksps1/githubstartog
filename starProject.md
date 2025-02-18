@@ -1,3 +1,6 @@
+### [exam-data/NETEMVocabulary](https://github.com/exam-data/NETEMVocabulary)
+- **Description:** 考研词汇词频排序数据
+
 ### [GuooGaii/ip-geoaddress-generator](https://github.com/GuooGaii/ip-geoaddress-generator)
 - **Description:** 基于IP的真实地址生成器
 
@@ -614,7 +617,7 @@
 - **Description:** ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 
 ### [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)
-- **Description:** Just make a few small changes to your Bilibili homepage. NOT FOR SAFARI, SAY NO TO SUPPORT SAFARI. FUCK APPLE! Bewley on the App Store is not uploaded by us and we do not endorse it. (English | 简体中文 | 正體中文 | 廣東話)
+- **Description:** Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
 
 ### [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing)
 - **Description:** 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字
