@@ -1,3 +1,14 @@
+### [dromara/yft-design](https://github.com/dromara/yft-design)
+- **Description:** 基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。A beautiful and powerful online design tool
+
+### [maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat)
+- **Description:** AI机器人群聊
+
+### [Jasonzhang2023/group_assist_bot](https://github.com/Jasonzhang2023/group_assist_bot)
+
+### [X-shuffle/ai-web-assistant](https://github.com/X-shuffle/ai-web-assistant)
+- **Description:** 谷歌浏览器 ai 总结插件
+
 ### [twelve-web/picture-toolkit](https://github.com/twelve-web/picture-toolkit)
 
 ### [exam-data/NETEMVocabulary](https://github.com/exam-data/NETEMVocabulary)
@@ -886,7 +897,7 @@
 - **Description:** Display the current page's IP version and addresses
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+- **Description:** 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
 
 ### [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)
 - **Description:** 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
@@ -973,7 +984,7 @@
 - **Description:** 用python编写的一些方便实用小工具
 
 ### [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai)
-- **Description:** 🤖 Free Search with AI, 💡 Open-Source Perplexity, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一键部署。
+- **Description:** 🤖 Free Search with AI, 💡 Open-Source Perplexity,  🧠 Support DeepSeek R1, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、支持深度思考模型（DeepSeek R1）、聚合搜索引擎SearXNG，支持Docker一键部署。
 
 ### [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs)
 - **Description:** Generate Subtitles & Diarize Speakers in Davinci Resolve using AI.
