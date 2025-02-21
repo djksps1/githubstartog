@@ -1,3 +1,11 @@
+### [amclubs/am-cf-tunnel](https://github.com/amclubs/am-cf-tunnel)
+- **Description:** 这是一个基于 Cloudflare Workers 和 Pages平台的脚本,通过EDtunnel修改，使用该脚本可以自动生成VLESS免费节点,并配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中。
+
+### [zzzdajb/DickHelper](https://github.com/zzzdajb/DickHelper)
+
+### [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader)
+- **Description:** A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
+
 ### [dromara/yft-design](https://github.com/dromara/yft-design)
 - **Description:** 基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。A beautiful and powerful online design tool
 
