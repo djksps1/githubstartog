@@ -1,3 +1,12 @@
+### [BlackFoxTM/Fox-CC](https://github.com/BlackFoxTM/Fox-CC)
+- **Description:** Fox CC a Good CC tools that you can generate and validate a cc !
+
+### [BlueSkyXN/GPT-Models-Plus](https://github.com/BlueSkyXN/GPT-Models-Plus)
+- **Description:** 用于在ChatGPT 网页版 强制锁定模型，支持GPT3.5/GPT4/GPT3.5M/GPT4M/GPT4B/GPT4P等模型
+
+### [Vita0519/WeChatAI](https://github.com/Vita0519/WeChatAI)
+- **Description:** WeChatAI 是一款基于 Python 开发的微信群聊/个人智能助手，支持多种大语言模型，可以实现智能对话、自动回复等功能。采用现代化的界面设计，操作简单直观。
+
 ### [Theyka/Turnstile-Solver](https://github.com/Theyka/Turnstile-Solver)
 - **Description:** Simple turnstile solver by using patchright and python
 
