@@ -1,3 +1,11 @@
+### [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup)
+- **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
+
+### [jadu/test-payment-cards](https://github.com/jadu/test-payment-cards)
+
+### [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
+- **Description:** Pure Python 3 MTProto API Telegram client library, for bots too!
+
 ### [BlackFoxTM/Fox-CC](https://github.com/BlackFoxTM/Fox-CC)
 - **Description:** Fox CC a Good CC tools that you can generate and validate a cc !
 
@@ -8,12 +16,10 @@
 - **Description:** WeChatAI 是一款基于 Python 开发的微信群聊/个人智能助手，支持多种大语言模型，可以实现智能对话、自动回复等功能。采用现代化的界面设计，操作简单直观。
 
 ### [Theyka/Turnstile-Solver](https://github.com/Theyka/Turnstile-Solver)
-- **Description:** Simple turnstile solver by using patchright and python
+- **Description:** Python-based turnstile solver using the patchright library, featuring multi-threaded execution, API integration, and support for different browsers.
 
 ### [amclubs/am-cf-tunnel](https://github.com/amclubs/am-cf-tunnel)
 - **Description:** 这是一个基于 Cloudflare Workers 和 Pages平台的脚本,通过EDtunnel修改，使用该脚本可以自动生成VLESS免费节点,并配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中。
-
-### [zzzdajb/DickHelper](https://github.com/zzzdajb/DickHelper)
 
 ### [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader)
 - **Description:** A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
@@ -749,9 +755,6 @@
 
 ### [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
 - **Description:** :scream: A curated list of amazingly awesome OSINT
-
-### [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup)
-- **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 
 ### [snakem982/proxypool](https://github.com/snakem982/proxypool)
 - **Description:** Free Proxies，Free Nodes，免费节点，白嫖节点，免费vpn，免费v2ray，免费订阅，免费clash，Free VPN，Free v2ray，Free Sub，Free Clash
