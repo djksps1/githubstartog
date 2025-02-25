@@ -896,7 +896,7 @@
 - **Description:** 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
 
 ### [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)
-- **Description:** 🚀 插件生态 x 工作流系统， DIY 你自己的 AI 聊天机器人！支持DeepSeek、Claude、Grok、OpenAI、Gemini、ChatGLM、Ollama，人设调教，虚拟女仆、语音对话 | 支持 QQ、Telegram、Discord、微信 等平台
+- **Description:** 🚀 可以 DIY 的 多模态 AI 聊天机器人！支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI，工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 | 快速接入 微信、 QQ、Telegram、等聊天平台
 
 ### [ZYYO666/homepage](https://github.com/ZYYO666/homepage)
 - **Description:** 我的个人主页，homepage,个人引导页,简约主页,个人导航
