@@ -1,3 +1,9 @@
+### [07test/mohio-v3](https://github.com/07test/mohio-v3)
+- **Description:** Some stripe stuff.
+
+### [icon11-community/Folder11](https://github.com/icon11-community/Folder11)
+- **Description:** Windows 11-like custom directory icon.
+
 ### [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup)
 - **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 
@@ -564,7 +570,7 @@
 - **Description:** linux.do Daily Check-In. 每日签到，每日打卡
 
 ### [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-- **Description:** 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+- **Description:** 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 
 ### [miloira/wxhook](https://github.com/miloira/wxhook)
 - **Description:** 一个简单，好用，接口多的python微信机器人框架
@@ -896,7 +902,7 @@
 - **Description:** 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
 
 ### [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)
-- **Description:** 🚀 可以 DIY 的 多模态 AI 聊天机器人！支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI，工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 | 快速接入 微信、 QQ、Telegram、等聊天平台
+- **Description:** 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 | 
 
 ### [ZYYO666/homepage](https://github.com/ZYYO666/homepage)
 - **Description:** 我的个人主页，homepage,个人引导页,简约主页,个人导航
@@ -1007,7 +1013,7 @@
 - **Description:** 用python编写的一些方便实用小工具
 
 ### [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai)
-- **Description:** 🤖 Free Search with AI, 💡 Open-Source Perplexity,  🧠 Support DeepSeek R1, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、支持深度思考模型（DeepSeek R1）、聚合搜索引擎SearXNG，支持Docker一键部署。
+- **Description:** 🤖  AI Search, 💡 Support DeepResearch, 🧠  DeepSeek R1, 📍 Support Ollama/LMStudio, SearXNG, Docker deployment.  AI搜索引擎，支持DeepResearch, 支持本地模型、支持深度思考模型（DeepSeek R1）、聚合搜索引擎SearXNG，支持Docker一键部署。
 
 ### [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs)
 - **Description:** Generate Subtitles & Diarize Speakers in Davinci Resolve using AI.
