@@ -1,3 +1,6 @@
+### [KoriIku/chatgpt-degrade-checker](https://github.com/KoriIku/chatgpt-degrade-checker)
+- **Description:** ChatGPT 服务降级监测工具
+
 ### [07test/mohio-v3](https://github.com/07test/mohio-v3)
 - **Description:** Some stripe stuff.
 
@@ -1013,7 +1016,7 @@
 - **Description:** 用python编写的一些方便实用小工具
 
 ### [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai)
-- **Description:** 🤖  AI Search, 💡 Support DeepResearch, 🧠  DeepSeek R1, 📍 Support Ollama/LMStudio, SearXNG, Docker deployment.  AI搜索引擎，支持DeepResearch, 支持本地模型、支持深度思考模型（DeepSeek R1）、聚合搜索引擎SearXNG，支持Docker一键部署。
+- **Description:** 🤖  AI Search, 💡 Support DeepResearch, 🧠  DeepSeek R1, 📍 Ollama/LMStudio, SearXNG, Docker.  AI搜索引擎，支持DeepResearch, 本地模型、深度思考模型（DeepSeek R1）、聚合搜索引擎SearXNG，支持Docker一键部署。
 
 ### [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs)
 - **Description:** Generate Subtitles & Diarize Speakers in Davinci Resolve using AI.
