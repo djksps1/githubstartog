@@ -133,7 +133,7 @@
 ### [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - **Description:** 😎 Awesome lists about all kinds of interesting topics
 
-### [bestruirui/subs-check](https://github.com/bestruirui/subs-check)
+### [bestruirui/BestSub](https://github.com/bestruirui/BestSub)
 - **Description:** 订阅转换合并，节点可用性，测速，重命名，导出为mihomo/clash订阅工具
 
 ### [geekcomputers/Python](https://github.com/geekcomputers/Python)
