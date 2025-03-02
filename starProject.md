@@ -1,3 +1,9 @@
+### [idoknow/Campux](https://github.com/idoknow/Campux)
+- **Description:** 校园墙自动化 和 校内服务统一认证解决方案 ｜ 自助投稿、网页审核、自动发说说｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
+
+### [Scrut1ny/Malwarebytes-Premium-Bypass](https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass)
+- **Description:** Confuse Malwarebytes
+
 ### [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
 - **Description:** Alibaba Cloud Karpenter Provider
 
@@ -287,7 +293,7 @@
 - **Description:** FTP,SSH,MYSQL,MSSQL等弱口令爆破工具！
 
 ### [MoGuangYu/Surfing](https://github.com/MoGuangYu/Surfing)
-- **Description:** Magisk and KernelSU modules for  Clash services.
+- **Description:** Magisk and KernelSU modules for  Clash/mihomo services.
 
 ### [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
 - **Description:** Simple, unified interface to multiple Generative AI providers 
