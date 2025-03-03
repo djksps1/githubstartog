@@ -1,3 +1,8 @@
+### [beilunyang/moemail](https://github.com/beilunyang/moemail)
+- **Description:** 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
+
+### [jqknono/project_translator](https://github.com/jqknono/project_translator)
+
 ### [idoknow/Campux](https://github.com/idoknow/Campux)
 - **Description:** 校园墙自动化 和 校内服务统一认证解决方案 ｜ 自助投稿、网页审核、自动发说说｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
 
@@ -211,9 +216,6 @@
 
 ### [ccbikai/Sink](https://github.com/ccbikai/Sink)
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-
-### [beilunyang/moemail](https://github.com/beilunyang/moemail)
-- **Description:** 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
 
 ### [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
 - **Description:** 属于大学生群体的真·青年大学习
@@ -938,7 +940,7 @@
 - **Description:** Display the current page's IP version and addresses
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
+- **Description:** 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
 
 ### [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)
 - **Description:** 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
