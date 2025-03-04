@@ -1,7 +1,16 @@
+### [xLmiler/grok2api_python](https://github.com/xLmiler/grok2api_python)
+
+### [GeorgeXie2333/LLM-Stream-Optimizer](https://github.com/GeorgeXie2333/LLM-Stream-Optimizer)
+- **Description:** ⚡基于 Cloudflare Workers 优化LLM流式输出，支持多种格式API，转换大型响应块，带Web管理页，原生Fetch请求（ShadowFetch），支持多KEY负载均衡
+
+### [silvonli/Summa](https://github.com/silvonli/Summa)
+- **Description:** A browser extension that uses AI to generate concise summaries of web articles
+
 ### [beilunyang/moemail](https://github.com/beilunyang/moemail)
 - **Description:** 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
 
 ### [jqknono/project_translator](https://github.com/jqknono/project_translator)
+- **Description:** A VS Code Extension for Whole project translation.
 
 ### [idoknow/Campux](https://github.com/idoknow/Campux)
 - **Description:** 校园墙自动化 和 校内服务统一认证解决方案 ｜ 自助投稿、网页审核、自动发说说｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
@@ -54,6 +63,7 @@
 - **Description:** AI机器人群聊
 
 ### [Jasonzhang2023/group_assist_bot](https://github.com/Jasonzhang2023/group_assist_bot)
+- **Description:** 让机器人管理你的telegram群组
 
 ### [X-shuffle/ai-web-assistant](https://github.com/X-shuffle/ai-web-assistant)
 - **Description:** 谷歌浏览器 ai 总结插件
@@ -276,7 +286,7 @@
 - **Description:** A simple dashboard for nezha.
 
 ### [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
-- **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
+- **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
 
 ### [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
 - **Description:** A service that can convert ChatGPT on the web to OpenAI API format.
