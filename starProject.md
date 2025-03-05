@@ -1,3 +1,9 @@
+### [LloydAsp/nfd](https://github.com/LloydAsp/nfd)
+- **Description:** No Fraud / Node Forward Bot
+
+### [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
+- **Description:** 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、黑白名单，AI处理等功能。
+
 ### [xLmiler/grok2api_python](https://github.com/xLmiler/grok2api_python)
 
 ### [GeorgeXie2333/LLM-Stream-Optimizer](https://github.com/GeorgeXie2333/LLM-Stream-Optimizer)
@@ -371,7 +377,7 @@
 - **Description:** A bulk domain scanning tool
 
 ### [honmashironeko/ProxyCat](https://github.com/honmashironeko/ProxyCat)
-- **Description:** 一款部署于云端或本地的代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用
+- **Description:** 一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用
 
 ### [xiaozhou26/donate](https://github.com/xiaozhou26/donate)
 - **Description:** Donate
@@ -397,9 +403,10 @@
 - **Description:** Switch hosts quickly!
 
 ### [datehoer/hot-rank-web](https://github.com/datehoer/hot-rank-web)
-- **Description:** hot today news rank
+- **Description:** hot today news rank。今日热榜，今日热门新闻。通过爬虫采集数据，并进行可视化展示的项目。项目包含前端（Vue2 + Element-UI + Iconpark 图标库）和后端（Python + FastAPI），数据存储在 PostgreSQL 数据库中。提供 Docker 部署建议以简化后端部署流程，前端通过 npm build 后可部署至 Nginx。
 
 ### [datehoer/hotToday](https://github.com/datehoer/hotToday)
+- **Description:** 今日热门新闻爬虫，today hot news spiders
 
 ### [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload)
 - **Description:** 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
@@ -1095,7 +1102,7 @@
 ### [Kuingsmile/word-GPT-Plus](https://github.com/Kuingsmile/word-GPT-Plus)
 - **Description:** Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.
 
-### [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)
+### [bee-san/Ciphey](https://github.com/bee-san/Ciphey)
 - **Description:** ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
 ### [Archmage83/tvapk](https://github.com/Archmage83/tvapk)
