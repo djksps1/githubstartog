@@ -1,3 +1,12 @@
+### [sbdelse/MoyuLinuxdo](https://github.com/sbdelse/MoyuLinuxdo)
+- **Description:** 一个 Linux.do 论坛的 Command-Line 简易客户端
+
+### [dnakov/claude-code](https://github.com/dnakov/claude-code)
+- **Description:** claude-code full original source code from source maps
+
+### [jjleng/copilot-more](https://github.com/jjleng/copilot-more)
+- **Description:** GPT-4o and Claude-3.7-Sonnet APIs for coding.
+
 ### [LloydAsp/nfd](https://github.com/LloydAsp/nfd)
 - **Description:** No Fraud / Node Forward Bot
 
