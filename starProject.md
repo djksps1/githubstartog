@@ -1,5 +1,8 @@
+### [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+- **Description:** 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+
 ### [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)
-- **Description:** Low-resource, fast, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
+- **Description:** Low-end high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
 
 ### [SISUBEN/FairySearch](https://github.com/SISUBEN/FairySearch)
 - **Description:** Open, Free and Intelligent Search Engine FairySearch，一个开源、免费和智能的搜索程序
@@ -362,7 +365,7 @@
 - **Description:** 一键对B站账号进行数据备份和还原，方便账号数据迁移/快速转生(哔哩哔哩 bilibili)。One-click backup and restore of B station account data, convenient account data migration/quick reincarnation.
 
 ### [snailyp/text2pic](https://github.com/snailyp/text2pic)
-- **Description:** test2pic
+- **Description:** text2pic
 
 ### [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste)
 - **Description:** 基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
