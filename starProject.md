@@ -1,8 +1,28 @@
+### [nicekate/mistral-ocr](https://github.com/nicekate/mistral-ocr)
+
+### [nusduck/MistralOcrBot](https://github.com/nusduck/MistralOcrBot)
+- **Description:** Use the Mistral Strongest OCR to convert the PDF and Image to markdown.
+
+### [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api)
+- **Description:** AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+
+### [open-webui/open-webui](https://github.com/open-webui/open-webui)
+- **Description:** User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+### [YangDai2003/OpenNote-Compose](https://github.com/YangDai2003/OpenNote-Compose)
+- **Description:** Markdown Editor & Notebook for Android entirely based on Jetpack Compose.
+
+### [git88848/QYTMRT](https://github.com/git88848/QYTMRT)
+- **Description:** 一个强大的 Telegram 用户举报自动化工具
+
+### [Done-0/Jank](https://github.com/Done-0/Jank)
+- **Description:** Jank，一个轻量级的博客系统，基于 Go 语言和 Echo 框架开发，强调极简、低耦合和高扩展。
+
 ### [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
 - **Description:** 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
 ### [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)
-- **Description:** Low-end high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
+- **Description:** End to end, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
 
 ### [SISUBEN/FairySearch](https://github.com/SISUBEN/FairySearch)
 - **Description:** Open, Free and Intelligent Search Engine FairySearch，一个开源、免费和智能的搜索程序
@@ -1083,7 +1103,7 @@
 - **Description:** 超星学习通签到：支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测、QQ机器人签到与推送。
 
 ### [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ)
-- **Description:** 现代化的基于 NTQQ 的 Bot 协议端实现
+- **Description:** Modern protocol-side framework implemented based on NTQQ
 
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - **Description:** 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
