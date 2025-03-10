@@ -1,3 +1,6 @@
+### [MiHaKun/Telegram-interactive-bot](https://github.com/MiHaKun/Telegram-interactive-bot)
+- **Description:** Telegram(电报/纸飞机)的开源双向机器人（客服机器人？）。避免垃圾信息；让被限制的客户可以顺利联系到你；支持后台分组，算是一个简易的CRM系统。Open-source interactive bot on Telegram. Avoid spam messages; allow restricted customers to contact you smoothly.Simple CRM system.
+
 ### [nicekate/mistral-ocr](https://github.com/nicekate/mistral-ocr)
 
 ### [nusduck/MistralOcrBot](https://github.com/nusduck/MistralOcrBot)
@@ -40,7 +43,7 @@
 - **Description:** No Fraud / Node Forward Bot
 
 ### [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
-- **Description:** 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、黑白名单，AI处理等功能。
+- **Description:** 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理等功能。
 
 ### [xLmiler/grok2api_python](https://github.com/xLmiler/grok2api_python)
 
@@ -480,7 +483,7 @@
 - **Description:** 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.新增页面右下角导航；2.通过 JavaScript 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91porn/hitomi/紳士漫畫/禁漫天堂/等视频&ACG&小说&漫画网站上的弹窗广告&视频广告&Gif图片广告等，保持网页清爽干净无打扰！ P.S. 欢迎提交issue
 
 ### [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
-- **Description:** 基于 CloudFlare Pages 的开源文件托管解决方案，支持 Telegram Bot 、R2、S3 等多种存储方式，支持目录功能
+- **Description:** 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
 
 ### [basecamp/omakub](https://github.com/basecamp/omakub)
 - **Description:** Opinionated Ubuntu Setup
@@ -970,7 +973,7 @@
 ### [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry)
 - **Description:** 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
 
-### [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)
+### [lss233/kirara-ai](https://github.com/lss233/kirara-ai)
 - **Description:** 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 | 
 
 ### [ZYYO666/homepage](https://github.com/ZYYO666/homepage)
