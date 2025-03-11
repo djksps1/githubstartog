@@ -1,3 +1,12 @@
+### [davidche1116/Sms](https://github.com/davidche1116/Sms)
+- **Description:** 短信清理工具
+
+### [cassidoo/generate-stripe-coupons](https://github.com/cassidoo/generate-stripe-coupons)
+- **Description:** A Python script for bulk-generating Stripe coupons and promotion codes
+
+### [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer)
+- **Description:** 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
+
 ### [MiHaKun/Telegram-interactive-bot](https://github.com/MiHaKun/Telegram-interactive-bot)
 - **Description:** Telegram(电报/纸飞机)的开源双向机器人（客服机器人？）。避免垃圾信息；让被限制的客户可以顺利联系到你；支持后台分组，算是一个简易的CRM系统。Open-source interactive bot on Telegram. Avoid spam messages; allow restricted customers to contact you smoothly.Simple CRM system.
 
@@ -35,9 +44,6 @@
 
 ### [dnakov/claude-code](https://github.com/dnakov/claude-code)
 - **Description:** claude-code full original source code from source maps
-
-### [jjleng/copilot-more](https://github.com/jjleng/copilot-more)
-- **Description:** GPT-4o and Claude-3.7-Sonnet APIs for coding.
 
 ### [LloydAsp/nfd](https://github.com/LloydAsp/nfd)
 - **Description:** No Fraud / Node Forward Bot
