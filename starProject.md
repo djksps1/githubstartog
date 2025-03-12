@@ -1,3 +1,9 @@
+### [risin42/NagramX](https://github.com/risin42/NagramX)
+- **Description:** A variant of Nagram with additional features.
+
+### [wisdgod/cursor-rp](https://github.com/wisdgod/cursor-rp)
+- **Description:** Feel free.
+
 ### [davidche1116/Sms](https://github.com/davidche1116/Sms)
 - **Description:** 短信清理工具
 
@@ -208,7 +214,7 @@
 - **Description:** 😎 Awesome lists about all kinds of interesting topics
 
 ### [bestruirui/BestSub](https://github.com/bestruirui/BestSub)
-- **Description:** 订阅转换合并，节点可用性，测速，重命名，导出为mihomo/clash订阅工具
+- **Description:** Best Sub For Best You
 
 ### [geekcomputers/Python](https://github.com/geekcomputers/Python)
 - **Description:** My Python Examples
@@ -985,7 +991,7 @@
 ### [ZYYO666/homepage](https://github.com/ZYYO666/homepage)
 - **Description:** 我的个人主页，homepage,个人引导页,简约主页,个人导航
 
-### [Chenyme/Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
+### [chenyme/Chenyme-AAVT](https://github.com/chenyme/Chenyme-AAVT)
 - **Description:** 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
 
 ### [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
