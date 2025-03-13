@@ -1,3 +1,6 @@
+### [zetxtech/wssocks](https://github.com/zetxtech/wssocks)
+- **Description:** A SOCKS proxy implementation over WebSocket protocol.
+
 ### [risin42/NagramX](https://github.com/risin42/NagramX)
 - **Description:** A variant of Nagram with additional features.
 
@@ -142,7 +145,7 @@
 - **Description:** The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
 
 ### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
-- **Description:** 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav...)  , 支持破解禁止保存的频道
+- **Description:** 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
 
 ### [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor)
 - **Description:** telegram群消息监测与定时发送消息和邮件通知
@@ -214,7 +217,7 @@
 - **Description:** 😎 Awesome lists about all kinds of interesting topics
 
 ### [bestruirui/BestSub](https://github.com/bestruirui/BestSub)
-- **Description:** Best Sub For Best You
+- **Description:** Best Sub, Best for Your Net
 
 ### [geekcomputers/Python](https://github.com/geekcomputers/Python)
 - **Description:** My Python Examples
@@ -1091,7 +1094,7 @@
 - **Description:** 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
 
 ### [qiye45/wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload)
-- **Description:** 微信视频号下载工具，支持视频、直播回放、直播流下载
+- **Description:** 微信视频号下载工具，支持视频、直播回放、直播下载
 
 ### [guobao2333/Python-HandyTool](https://github.com/guobao2333/Python-HandyTool)
 - **Description:** 用python编写的一些方便实用小工具
