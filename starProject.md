@@ -1,3 +1,9 @@
+### [forkgram/TelegramAndroid](https://github.com/forkgram/TelegramAndroid)
+- **Description:** Fork client of Telegram app for Android.
+
+### [codexu/note-gen](https://github.com/codexu/note-gen)
+- **Description:** 一款专注于记录和写作的跨端 AI 笔记应用。
+
 ### [zetxtech/wssocks](https://github.com/zetxtech/wssocks)
 - **Description:** A SOCKS proxy implementation over WebSocket protocol.
 
@@ -93,7 +99,7 @@
 - **Description:** Windows 11-like custom directory icon.
 
 ### [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup)
-- **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
+- **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【tg10000.com】
 
 ### [jadu/test-payment-cards](https://github.com/jadu/test-payment-cards)
 
@@ -104,7 +110,7 @@
 - **Description:** Fox CC a Good CC tools that you can generate and validate a cc !
 
 ### [BlueSkyXN/GPT-Models-Plus](https://github.com/BlueSkyXN/GPT-Models-Plus)
-- **Description:** 用于在ChatGPT 网页版 强制锁定模型，支持GPT3.5/GPT4/GPT3.5M/GPT4M/GPT4B/GPT4P等模型
+- **Description:** 别问我为什么大杂烩放在一块，懒得新建项目
 
 ### [Vita0519/WeChatAI](https://github.com/Vita0519/WeChatAI)
 - **Description:** WeChatAI 是一款基于 Python 开发的微信群聊/个人智能助手，支持多种大语言模型，可以实现智能对话、自动回复等功能。采用现代化的界面设计，操作简单直观。
