@@ -1,11 +1,14 @@
+### [Fung-2025/potplayer-translation-openaiapi](https://github.com/Fung-2025/potplayer-translation-openaiapi)
+- **Description:** PotPlayer translation plugin, compatible with OpenAI API.
+
+### [zetxtech/wssocks](https://github.com/zetxtech/wssocks)
+- **Description:** A SOCKS proxy implementation over WebSocket protocol.
+
 ### [forkgram/TelegramAndroid](https://github.com/forkgram/TelegramAndroid)
 - **Description:** Fork client of Telegram app for Android.
 
 ### [codexu/note-gen](https://github.com/codexu/note-gen)
 - **Description:** 一款专注于记录和写作的跨端 AI 笔记应用。
-
-### [zetxtech/wssocks](https://github.com/zetxtech/wssocks)
-- **Description:** A SOCKS proxy implementation over WebSocket protocol.
 
 ### [risin42/NagramX](https://github.com/risin42/NagramX)
 - **Description:** A variant of Nagram with additional features.
