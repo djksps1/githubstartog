@@ -1,3 +1,6 @@
+### [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub)
+- **Description:** 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，不需要服务器。也可作为 URL 缩短链接服务使用。
+
 ### [Fung-2025/potplayer-translation-openaiapi](https://github.com/Fung-2025/potplayer-translation-openaiapi)
 - **Description:** PotPlayer translation plugin, compatible with OpenAI API.
 
@@ -34,7 +37,7 @@
 - **Description:** Use the Mistral Strongest OCR to convert the PDF and Image to markdown.
 
 ### [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api)
-- **Description:** AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+- **Description:** AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 ### [open-webui/open-webui](https://github.com/open-webui/open-webui)
 - **Description:** User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
