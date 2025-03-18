@@ -1,3 +1,9 @@
+### [Ackites/hidden-word](https://github.com/Ackites/hidden-word)
+- **Description:** A Unicode-based text digital watermarking tool for embedding invisible copyright marks and metadata in text content.
+
+### [BlackFoxTM/Fox-CC](https://github.com/BlackFoxTM/Fox-CC)
+- **Description:** Fox CC a Good CC tools that you can generate and validate a cc !
+
 ### [wozulong/open-wegram-bot](https://github.com/wozulong/open-wegram-bot)
 - **Description:** 【零费用】一个让人呼吸顺畅的 Telegram 双向私聊机器人 🤖 / [Zero Cost] A Smooth-Operating Two-Way Private Messaging Telegram Bot 🤖 
 
@@ -117,9 +123,6 @@
 
 ### [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
 - **Description:** Pure Python 3 MTProto API Telegram client library, for bots too!
-
-### [BlackFoxTM/Fox-CC](https://github.com/BlackFoxTM/Fox-CC)
-- **Description:** Fox CC a Good CC tools that you can generate and validate a cc !
 
 ### [BlueSkyXN/GPT-Models-Plus](https://github.com/BlueSkyXN/GPT-Models-Plus)
 - **Description:** 别问我为什么大杂烩放在一块，懒得新建项目
