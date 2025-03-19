@@ -1,3 +1,6 @@
+### [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
+- **Description:** 简简单单的看直播
+
 ### [Ackites/hidden-word](https://github.com/Ackites/hidden-word)
 - **Description:** A Unicode-based text digital watermarking tool for embedding invisible copyright marks and metadata in text content.
 
@@ -55,7 +58,7 @@
 - **Description:** User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ### [YangDai2003/OpenNote-Compose](https://github.com/YangDai2003/OpenNote-Compose)
-- **Description:** Markdown Editor & Notebook for Android entirely based on Jetpack Compose.
+- **Description:** Markdown Editor & Notebook for Android built with Jetpack Compose.
 
 ### [git88848/QYTMRT](https://github.com/git88848/QYTMRT)
 - **Description:** 一个强大的 Telegram 用户举报自动化工具
