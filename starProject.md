@@ -1,3 +1,14 @@
+### [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
+- **Description:** No fortress, purely open ground.  OpenManus is Coming.
+
+### [DAXXTEAM/VCLUB-AUTO-HITTER](https://github.com/DAXXTEAM/VCLUB-AUTO-HITTER)
+
+### [kuizuo/js-deobfuscator](https://github.com/kuizuo/js-deobfuscator)
+- **Description:** js 代码反混淆
+
+### [wiidede/exif-gallery-nuxt](https://github.com/wiidede/exif-gallery-nuxt)
+- **Description:** A full-stack photo album solution that integrates AI intelligent processing, browser image compression, and other functions.
+
 ### [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
 - **Description:** 简简单单的看直播
 
