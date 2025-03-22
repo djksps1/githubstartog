@@ -1,3 +1,12 @@
+### [RenaLio/SubinfoChecker](https://github.com/RenaLio/SubinfoChecker)
+- **Description:** 订阅流量信息查询
+
+### [goodgithubloveu/pong0](https://github.com/goodgithubloveu/pong0)
+- **Description:** pong pong pong
+
+### [princehuang/overseas-website-note](https://github.com/princehuang/overseas-website-note)
+- **Description:** 「海外工具网站」已经是我人生主要事业了，很庆幸还来得及，感谢这个伟大的 AI 时代。
+
 ### [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft)
 - **Description:** PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books. The project has just started.
 
