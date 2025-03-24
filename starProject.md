@@ -1,3 +1,12 @@
+### [leeyeel/yt-whisper](https://github.com/leeyeel/yt-whisper)
+- **Description:** About Using OpenAI's Whisper to automatically generate YouTube subtitles
+
+### [mggger/WebCraft](https://github.com/mggger/WebCraft)
+- **Description:** Web builder AI-Agent 
+
+### [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro)
+- **Description:** All in one YouTube App with downloader , background player , Google Gemini ✨ and many more features.
+
 ### [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp)
 
 ### [RenaLio/SubinfoChecker](https://github.com/RenaLio/SubinfoChecker)
@@ -98,7 +107,7 @@
 - **Description:** End to end, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
 
 ### [SISUBEN/FairySearch](https://github.com/SISUBEN/FairySearch)
-- **Description:** Open, Free and Intelligent Search Engine FairySearch，一个开源、免费和智能的搜索程序
+- **Description:** FairySearch, An Open, Free and Intelligent Search Engine
 
 ### [sbdelse/MoyuLinuxdo](https://github.com/sbdelse/MoyuLinuxdo)
 - **Description:** 一个 Linux.do 论坛的 Command-Line 简易客户端
@@ -394,7 +403,7 @@
 - **Description:** A simple dashboard for nezha.
 
 ### [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
-- **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
+- **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
 ### [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
 - **Description:** A service that can convert ChatGPT on the web to OpenAI API format.
@@ -715,7 +724,7 @@
 - **Description:** Serv00控制面板自动登录脚本
 
 ### [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs)
-- **Description:** VPS融合怪服务器测评项目-GO重构版本(VPS Fusion Monster Server Test Script)
+- **Description:** VPS融合怪服务器测评项目-GO版本(VPS Fusion Monster Server Test Script)
 
 ### [share121/inter-knot](https://github.com/share121/inter-knot)
 - **Description:** 绳网
