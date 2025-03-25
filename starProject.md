@@ -1,3 +1,18 @@
+### [iawooo/ctt](https://github.com/iawooo/ctt)
+- **Description:** 这是一个基于Cloudflare实现的Telegram消息转发机器人，专注于将用户消息安全、高效地转发到后台群组每个用户独立群组中的分话题，直接话题中发送信息而无需再艾特回复，适用于客服、社区管理等场景。
+
+### [AyuGram/AyuGramDesktop](https://github.com/AyuGram/AyuGramDesktop)
+- **Description:** Desktop Telegram client with good customization and Ghost mode.
+
+### [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
+- **Description:** Web extension to set a default speed for video and audio 
+
+### [maplelost/lazyeat](https://github.com/maplelost/lazyeat)
+- **Description:** Lazyeat 吃饭时看剧/刷网页不想沾油手？  对着摄像头比划手势就能暂停视频/全屏/切换视频！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
+
+### [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena)
+- **Description:** LLM Arena by KCORES team
+
 ### [leeyeel/yt-whisper](https://github.com/leeyeel/yt-whisper)
 - **Description:** About Using OpenAI's Whisper to automatically generate YouTube subtitles
 
