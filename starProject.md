@@ -1,3 +1,11 @@
+### [sjzar/chatlog](https://github.com/sjzar/chatlog)
+
+### [14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo)
+- **Description:** Auto-scrubbing of  articles and auto-likes in discourse
+
+### [assimon/ai-anti-bot](https://github.com/assimon/ai-anti-bot)
+- **Description:** AI-based anti-advertising robot for Telegram(基于AI的telegram反垃圾广告机器人)
+
 ### [iawooo/ctt](https://github.com/iawooo/ctt)
 - **Description:** 这是一个基于Cloudflare实现的Telegram消息转发机器人，专注于将用户消息安全、高效地转发到后台群组每个用户独立群组中的分话题，直接话题中发送信息而无需再艾特回复，适用于客服、社区管理等场景。
 
