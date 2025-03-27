@@ -142,7 +142,7 @@
 - **Description:** No Fraud / Node Forward Bot
 
 ### [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
-- **Description:** 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理等功能。
+- **Description:** 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
 
 ### [xLmiler/grok2api_python](https://github.com/xLmiler/grok2api_python)
 
