@@ -1,4 +1,8 @@
+### [xykt/NetQuality](https://github.com/xykt/NetQuality)
+- **Description:** A script for network quality detection
+
 ### [sjzar/chatlog](https://github.com/sjzar/chatlog)
+- **Description:** 聊天记录工具，轻松使用自己的聊天数据
 
 ### [14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo)
 - **Description:** Auto-scrubbing of  articles and auto-likes in discourse
