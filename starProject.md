@@ -34,7 +34,7 @@
 - **Description:** Web builder AI-Agent 
 
 ### [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro)
-- **Description:** All in one YouTube App with downloader , background player , Google Gemini ✨ and many more features.
+- **Description:** All in one YouTube App with downloader, background player, Google Gemini ✨ and many more features.
 
 ### [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp)
 
