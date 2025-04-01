@@ -1,3 +1,9 @@
+### [zhtyyx/ioe](https://github.com/zhtyyx/ioe)
+- **Description:** One-Stop Retail Inventory Solution
+
+### [Bistutu/GoMusic](https://github.com/Bistutu/GoMusic)
+- **Description:** 迁移网易云/汽水/QQ音乐歌单至 Apple/Youtube/Spotify Music
+
 ### [deanxv/kilo2api](https://github.com/deanxv/kilo2api)
 
 ### [xykt/NetQuality](https://github.com/xykt/NetQuality)
@@ -489,7 +495,7 @@
 ### [snailyp/text2pic](https://github.com/snailyp/text2pic)
 - **Description:** text2pic
 
-### [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste)
+### [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old)
 - **Description:** 基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
 
 ### [hmhm2022/gpt-cursor-auto](https://github.com/hmhm2022/gpt-cursor-auto)
@@ -667,7 +673,7 @@
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
 
 ### [oiov/wr.do](https://github.com/oiov/wr.do)
-- **Description:** 🎉Free domain name distribution and short url generation platform, build with cloudflare.
+- **Description:** 🎉 短链与临时邮箱聚合平台，释放域名潜力
 
 ### [iovxw/rssbot](https://github.com/iovxw/rssbot)
 - **Description:** Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
@@ -753,7 +759,7 @@
 - **Description:** Serv00控制面板自动登录脚本
 
 ### [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs)
-- **Description:** VPS融合怪服务器测评项目-GO版本(VPS Fusion Monster Server Test Script)
+- **Description:** VPS融合怪服务器测评项目-GO版本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的项目)
 
 ### [share121/inter-knot](https://github.com/share121/inter-knot)
 - **Description:** 绳网
