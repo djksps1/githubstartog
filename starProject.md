@@ -1,3 +1,6 @@
+### [browser-use/web-ui](https://github.com/browser-use/web-ui)
+- **Description:** Run AI Agent in your browser.
+
 ### [zhtyyx/ioe](https://github.com/zhtyyx/ioe)
 - **Description:** One-Stop Retail Inventory Solution
 
@@ -496,7 +499,7 @@
 - **Description:** text2pic
 
 ### [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old)
-- **Description:** 基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
+- **Description:** 新版已重构！详细查看README。基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
 
 ### [hmhm2022/gpt-cursor-auto](https://github.com/hmhm2022/gpt-cursor-auto)
 - **Description:** Python脚本 一键获取 ChatGpt 的 Access Token，Cursor Pro 自动保活
@@ -620,7 +623,7 @@
 - **Description:** 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
 
 ### [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot)
-- **Description:** 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复，⚡视频号解析，😄自定义程度丰富，小白也可轻松上手！
+- **Description:** 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复（国内主流AI模型，扣子，FastGpt，Dify全面支持！），⚡视频号解析，😄自定义程度丰富，小白也可轻松上手！
 
 ### [geekscloud/ql-script](https://github.com/geekscloud/ql-script)
 - **Description:** 一些花里胡哨不知道干什么的东西
@@ -1236,7 +1239,7 @@
 ### [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)
 - **Description:** Official Code for DragGAN (SIGGRAPH 2023)
 
-### [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant)
+### [wechat-assistant/wechat-assistant](https://github.com/wechat-assistant/wechat-assistant)
 - **Description:** 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
 
 ### [wkeyuan/DWSurvey](https://github.com/wkeyuan/DWSurvey)
