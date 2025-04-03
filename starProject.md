@@ -1,3 +1,9 @@
+### [bipinkrish/Save-Restricted-Bot](https://github.com/bipinkrish/Save-Restricted-Bot)
+- **Description:** A Telegram Bot, Which can send you restricted content by it's post link
+
+### [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)
+- **Description:** 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
+
 ### [browser-use/web-ui](https://github.com/browser-use/web-ui)
 - **Description:** Run AI Agent in your browser.
 
@@ -706,7 +712,7 @@
 - **Description:** 非付费会员，fofa数据采集工具
 
 ### [nopdan/rose](https://github.com/nopdan/rose)
-- **Description:** IME User Dictionary Converter. 输入法用户词库转换工具
+- **Description:** 输入法用户词库转换工具 |  Input Method User Dictionary Converter. 
 
 ### [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)
 - **Description:** Clash Nyanpasu～(∠・ω< )⌒☆​
