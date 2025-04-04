@@ -1,3 +1,6 @@
+### [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search)
+- **Description:** 🚀  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
+
 ### [bipinkrish/Save-Restricted-Bot](https://github.com/bipinkrish/Save-Restricted-Bot)
 - **Description:** A Telegram Bot, Which can send you restricted content by it's post link
 
@@ -155,9 +158,6 @@
 
 ### [sbdelse/MoyuLinuxdo](https://github.com/sbdelse/MoyuLinuxdo)
 - **Description:** 一个 Linux.do 论坛的 Command-Line 简易客户端
-
-### [dnakov/claude-code](https://github.com/dnakov/claude-code)
-- **Description:** claude-code full original source code from source maps
 
 ### [LloydAsp/nfd](https://github.com/LloydAsp/nfd)
 - **Description:** No Fraud / Node Forward Bot
@@ -572,9 +572,6 @@
 ### [openspug/spug](https://github.com/openspug/spug)
 - **Description:** 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 
-### [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX)
-- **Description:** A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-
 ### [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg)
 - **Description:** warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 
@@ -682,7 +679,7 @@
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
 
 ### [oiov/wr.do](https://github.com/oiov/wr.do)
-- **Description:** 🎉 短链与临时邮箱聚合平台，释放域名潜力
+- **Description:** 📧🔗🌏 短链与临时邮箱聚合平台，释放域名潜力
 
 ### [iovxw/rssbot](https://github.com/iovxw/rssbot)
 - **Description:** Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
@@ -690,20 +687,11 @@
 ### [hmllsnow/escape-wechat](https://github.com/hmllsnow/escape-wechat)
 - **Description:** 微信助手，登录微信bot和配置管理页面
 
-### [EDtunnel-rev/EDtunnel-rev](https://github.com/EDtunnel-rev/EDtunnel-rev)
-- **Description:** Use Cloudflare pages and worker serverless to implement VLESS protocol
-
 ### [nkanaev/yarr](https://github.com/nkanaev/yarr)
 - **Description:** yet another rss reader
 
 ### [WAADRI/ChaoXing_node_signin](https://github.com/WAADRI/ChaoXing_node_signin)
 - **Description:** 学习通在线自动签到系统第三方节点接入程序，用于自行部署可接入学习通在线自动签到系统的第三方节点，该程序需配合学习通在线自动签到系统使用，网址：https://cx.waadri.top/
-
-### [EDtunnel-rev/Real-Address-Generator](https://github.com/EDtunnel-rev/Real-Address-Generator)
-- **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
-
-### [zgao264/AirFly](https://github.com/zgao264/AirFly)
-- **Description:**  机场订阅一键生成ip代理池，让机场起飞！
 
 ### [bisnuray/CC-Scrapper](https://github.com/bisnuray/CC-Scrapper)
 - **Description:** CC Scrapper: An advanced Telegram bot script to scrape credit cards from specified Telegram groups and channels.
@@ -1023,9 +1011,6 @@
 
 ### [shadow1ng/fscan](https://github.com/shadow1ng/fscan)
 - **Description:** 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-
-### [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
-- **Description:** :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
 ### [speauty/anto](https://github.com/speauty/anto)
 - **Description:** 字幕文件(srt)翻译工具，Windows专用
