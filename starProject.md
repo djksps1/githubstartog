@@ -1,3 +1,25 @@
+### [liyaodev/wxlogin](https://github.com/liyaodev/wxlogin)
+- **Description:** 基于微信公众号(个人未认证)的验证码登陆服务
+
+### [bytesFighting/fofa_spider-1.0.5](https://github.com/bytesFighting/fofa_spider-1.0.5)
+- **Description:** 非付费会员，fofa数据无限抓取版
+
+### [yaxigin/mto](https://github.com/yaxigin/mto)
+- **Description:** MTO is a powerful information gathering tool specifically designed for cybersecurity professionals. It integrates modules from Hunter, Fofa, and Quake, making it convenient for users to extract valuable information from various data sources.
+
+### [adm1nSQL/Sub_Manager](https://github.com/adm1nSQL/Sub_Manager)
+
+### [cpploveme/SubShareBot](https://github.com/cpploveme/SubShareBot)
+
+### [Heavrnl/Mail2Telegram](https://github.com/Heavrnl/Mail2Telegram)
+- **Description:** Forward emails to Telegram/把邮件转发到Telegram
+
+### [zqq-nuli/Cloudflare-Navihive](https://github.com/zqq-nuli/Cloudflare-Navihive)
+- **Description:** NaviHive 是一个精美的个人网站导航管理系统，帮助你整理和管理你收藏的网站链接。支持分组管理、拖拽排序、暗色模式等功能，让你的网站收藏更有条理、更易访问。
+
+### [chenyk2016/Browser-Manager](https://github.com/chenyk2016/Browser-Manager)
+- **Description:** 一个基于Electron的多浏览器实例管理工具，支持创建和管理多个独立的Chrome浏览器实例。
+
 ### [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search)
 - **Description:** 🚀  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
 
@@ -673,7 +695,7 @@
 - **Description:** Bilibili 共享大会员
 
 ### [omegaee/my-fingerprint](https://github.com/omegaee/my-fingerprint)
-- **Description:** 保护你的浏览器指纹 | Protect Your Browser Fingerprints | Chrome/Edge 扩展/Extension
+- **Description:** 保护你的浏览器指纹 | Protect Your Browser Fingerprints | Chrome, Edge, Firefox | 扩展 / Extension
 
 ### [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator)
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
