@@ -1,3 +1,15 @@
+### [ddrpa/jigsight](https://github.com/ddrpa/jigsight)
+- **Description:** jigsaw puzzle helper
+
+### [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore)
+- **Description:** bilibili 硬核会员 AI 自动答题，直接调用 B 站 API，非 OCR 实现
+
+### [xxnuo/serverless-markdown-convertor](https://github.com/xxnuo/serverless-markdown-convertor)
+- **Description:** Markdown Conversion
+
+### [bestZwei/LibreTV](https://github.com/bestZwei/LibreTV)
+- **Description:** 影视站
+
 ### [liyaodev/wxlogin](https://github.com/liyaodev/wxlogin)
 - **Description:** 基于微信公众号(个人未认证)的验证码登陆服务
 
@@ -326,7 +338,7 @@
 - **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
 ### [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-- **Description:** 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
+- **Description:** 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 
 ### [Cunninger/ocr-based-deepseek](https://github.com/Cunninger/ocr-based-deepseek)
 - **Description:** 基于deepseek 的OCR
@@ -1048,9 +1060,6 @@
 
 ### [Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot)
 - **Description:** B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用
-
-### [AlistGo/alist](https://github.com/AlistGo/alist)
-- **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 ### [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 - **Description:** 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
