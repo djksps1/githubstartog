@@ -1,14 +1,26 @@
+### [HCLonely/bili-senior-newbie-qa](https://github.com/HCLonely/bili-senior-newbie-qa)
+- **Description:** 哔哩哔哩硬核会员搜题脚本
+
+### [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha)
+- **Description:** :key: Curated list of awesome captcha libraries and crack tools.
+
+### [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam)
+- **Description:** An open-source network stresser tool but it's Hatsune Miku
+
+### [snailyp/ip-checker](https://github.com/snailyp/ip-checker)
+- **Description:** 一个基于clash api调用ip-api,scamalytics,ping0等网站获取ip纯净度的项目
+
 ### [ddrpa/jigsight](https://github.com/ddrpa/jigsight)
 - **Description:** jigsaw puzzle helper
 
 ### [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore)
-- **Description:** bilibili 硬核会员 AI 自动答题，直接调用 B 站 API，非 OCR 实现
+- **Description:** bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现
 
 ### [xxnuo/serverless-markdown-convertor](https://github.com/xxnuo/serverless-markdown-convertor)
 - **Description:** Markdown Conversion
 
 ### [bestZwei/LibreTV](https://github.com/bestZwei/LibreTV)
-- **Description:** 影视站
+- **Description:** 一键部署的影视站
 
 ### [liyaodev/wxlogin](https://github.com/liyaodev/wxlogin)
 - **Description:** 基于微信公众号(个人未认证)的验证码登陆服务
@@ -166,7 +178,7 @@
 ### [nusduck/MistralOcrBot](https://github.com/nusduck/MistralOcrBot)
 - **Description:** Use the Mistral Strongest OCR to convert the PDF and Image to markdown.
 
-### [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api)
+### [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
 - **Description:** AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 ### [open-webui/open-webui](https://github.com/open-webui/open-webui)
@@ -511,9 +523,6 @@
 ### [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare)
 - **Description:** ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 
-### [snailyp/ip-checker](https://github.com/snailyp/ip-checker)
-- **Description:** 一个基于clash api调用ip-api,scamalytics,ping0等网站获取ip纯净度的项目
-
 ### [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController)
 - **Description:** 一个Emby管理网站
 
@@ -827,7 +836,7 @@
 - **Description:** Python based web automation tool. Powerful and elegant.
 
 ### [OlegWock/anori](https://github.com/OlegWock/anori)
-- **Description:** Customizable new tab extension for Chrome, Firefox and Safari
+- **Description:** Customizable new tab extension for Chrome and Firefox
 
 ### [xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat)
 - **Description:** 一个让微信（非WEB版）定时循环发送消息/文件（cron表达式精确到分钟），批量群发消息，定时检查聊天记录的小工具🚀，提供了简易直观的界面，并支持邮箱报警等功能，可部署到任意平台
@@ -1060,6 +1069,9 @@
 
 ### [Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot)
 - **Description:** B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用
+
+### [AlistGo/alist](https://github.com/AlistGo/alist)
+- **Description:** 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 ### [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 - **Description:** 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
