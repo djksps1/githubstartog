@@ -1,3 +1,12 @@
+### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
+- **Description:** ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+
+### [ses4255/Versatile-OCR-Program](https://github.com/ses4255/Versatile-OCR-Program)
+- **Description:** Multi-modal OCR pipeline optimized for ML training (text, figure, math, tables, diagrams)
+
+### [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
+- **Description:** AutoBangumi - 全自动追番工具
+
 ### [HCLonely/bili-senior-newbie-qa](https://github.com/HCLonely/bili-senior-newbie-qa)
 - **Description:** 哔哩哔哩硬核会员搜题脚本
 
