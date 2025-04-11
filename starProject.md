@@ -1,3 +1,6 @@
+### [bestZwei/LibreTV](https://github.com/bestZwei/LibreTV)
+- **Description:** 一键部署的影视站
+
 ### [stilleshan/subweb](https://github.com/stilleshan/subweb)
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
 
@@ -33,9 +36,6 @@
 
 ### [xxnuo/serverless-markdown-convertor](https://github.com/xxnuo/serverless-markdown-convertor)
 - **Description:** Markdown Conversion
-
-### [bestZwei/LibreTV](https://github.com/bestZwei/LibreTV)
-- **Description:** 一键部署的影视站
 
 ### [liyaodev/wxlogin](https://github.com/liyaodev/wxlogin)
 - **Description:** 基于微信公众号(个人未认证)的验证码登陆服务
@@ -737,7 +737,7 @@
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
 
 ### [oiov/wr.do](https://github.com/oiov/wr.do)
-- **Description:** 📧🔗🌏 A short link generation, temporary mailbox, temporary chat room and subdomain management aggregation platform to release the potential of domain names. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
+- **Description:** 📧🔗🌏 A short lin, temporary mailbox, p2p chat and subdomain management platform to release the potential of your domains. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
 
 ### [iovxw/rssbot](https://github.com/iovxw/rssbot)
 - **Description:** Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
