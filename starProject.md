@@ -1,3 +1,8 @@
+### [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)
+- **Description:**  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+
+### [t0saki/xAI-Image-Gen-API-Refine](https://github.com/t0saki/xAI-Image-Gen-API-Refine)
+
 ### [bestZwei/LibreTV](https://github.com/bestZwei/LibreTV)
 - **Description:** 一键部署的影视站
 
@@ -634,7 +639,7 @@
 - **Description:** warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 
 ### [beilunyang/img-mom](https://github.com/beilunyang/img-mom)
-- **Description:** telegram bot（图片老妈）
+- **Description:** Telegram bot（img-mon | 图片老妈）
 
 ### [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page)
 - **Description:** Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
@@ -1173,7 +1178,7 @@
 - **Description:** Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 
 ### [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin)
-- **Description:** A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
+- **Description:** A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
 ### [nineya/halo-theme-dream2.0](https://github.com/nineya/halo-theme-dream2.0)
 - **Description:** 适配halo2.x的dream主题
