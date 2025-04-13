@@ -1,3 +1,9 @@
+### [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter)
+- **Description:** Utility to convert between various subscription format
+
+### [Warma10032/VideoAdGuard](https://github.com/Warma10032/VideoAdGuard)
+- **Description:** 浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测
+
 ### [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)
 - **Description:**  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 
@@ -8,9 +14,6 @@
 
 ### [stilleshan/subweb](https://github.com/stilleshan/subweb)
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
-
-### [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter)
-- **Description:** Utility to convert between various subscription format
 
 ### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
 - **Description:** ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
