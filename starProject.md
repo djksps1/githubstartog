@@ -1,3 +1,12 @@
+### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
+- **Description:** 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
+
+### [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)
+- **Description:** AI 视频笔记生成工具 让 AI 为你的视频做笔记
+
+### [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
+- **Description:** 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution
+
 ### [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter)
 - **Description:** Utility to convert between various subscription format
 
@@ -314,9 +323,6 @@
 
 ### [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 - **Description:** The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
-
-### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
-- **Description:** 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
 
 ### [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor)
 - **Description:** telegram群消息监测与定时发送消息和邮件通知
