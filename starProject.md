@@ -1,3 +1,6 @@
+### [xming521/WeClone](https://github.com/xming521/WeClone)
+- **Description:** 欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，使用微信语音消息➕0.5B大模型实现高质量声音克隆，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
+
 ### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
 - **Description:** 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
 
@@ -18,7 +21,7 @@
 
 ### [t0saki/xAI-Image-Gen-API-Refine](https://github.com/t0saki/xAI-Image-Gen-API-Refine)
 
-### [bestZwei/LibreTV](https://github.com/bestZwei/LibreTV)
+### [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
 - **Description:** 一键部署的影视站
 
 ### [stilleshan/subweb](https://github.com/stilleshan/subweb)
@@ -144,7 +147,7 @@
 - **Description:** 「海外工具网站」已经是我人生主要事业了，很庆幸还来得及，感谢这个伟大的 AI 时代。
 
 ### [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft)
-- **Description:** PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books. The project has just started.
+- **Description:** PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
 
 ### [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
 - **Description:** No fortress, purely open ground.  OpenManus is Coming.
@@ -730,7 +733,7 @@
 - **Description:** Paper_Copilot 是一款基于向量索引和大模型的高级文献分析命令行工具，旨在帮助学术研究人员高效管理、检索和分析海量文献。通过本地自建知识库并与大模型的交互，它能够为用户提供专业且精准的解答，显著提升文献研究的效率与准确性。
 
 ### [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
-- **Description:** 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+- **Description:** 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 
 ### [RunningFelix/openai-api-tester](https://github.com/RunningFelix/openai-api-tester)
 - **Description:** 一个测试OpenAI格式API的可用性的工具（A tool to test the availability of OpenAI's formatted API.）
