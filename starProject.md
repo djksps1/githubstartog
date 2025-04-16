@@ -1,3 +1,12 @@
+### [zqq-nuli/Claude-auto-register](https://github.com/zqq-nuli/Claude-auto-register)
+- **Description:** Claude-auto-register
+
+### [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train)
+- **Description:** LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications
+
+### [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo)
+- **Description:** A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+
 ### [xming521/WeClone](https://github.com/xming521/WeClone)
 - **Description:** 欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，使用微信语音消息➕0.5B大模型实现高质量声音克隆，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
 
@@ -188,7 +197,7 @@
 - **Description:** Fork client of Telegram app for Android.
 
 ### [codexu/note-gen](https://github.com/codexu/note-gen)
-- **Description:** 一款专注于记录和写作的跨端 AI 笔记应用。
+- **Description:** A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
 
 ### [risin42/NagramX](https://github.com/risin42/NagramX)
 - **Description:** A variant of Nagram with additional features.
