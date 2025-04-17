@@ -568,7 +568,7 @@
 - **Description:** 一个Emby管理网站
 
 ### [diandian18/react-antd-console](https://github.com/diandian18/react-antd-console)
-- **Description:** Customizable admin dashboard template based on React 18+ and Ant Design 5+
+- **Description:** Customizable admin dashboard template based on React 19 and Ant Design 5
 
 ### [zhongyang219/WindowResizer](https://github.com/zhongyang219/WindowResizer)
 - **Description:** 这是一个用于调整窗口大小的软件，这对于那些无法调整大小的窗口尤其有用。
