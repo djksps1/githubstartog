@@ -1,3 +1,9 @@
+### [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
+- **Description:** Let AI be your browser operator.
+
+### [omegaee/my-fingerprint](https://github.com/omegaee/my-fingerprint)
+- **Description:** 保护你的浏览器指纹 | Protect Your Browser Fingerprints | Chrome, Edge, Firefox | 扩展 / Extension
+
 ### [zqq-nuli/Claude-auto-register](https://github.com/zqq-nuli/Claude-auto-register)
 - **Description:** Claude-auto-register
 
@@ -756,9 +762,6 @@
 ### [PC6live/bilibili-joybook-tampermonkey](https://github.com/PC6live/bilibili-joybook-tampermonkey)
 - **Description:** Bilibili 共享大会员
 
-### [omegaee/my-fingerprint](https://github.com/omegaee/my-fingerprint)
-- **Description:** 保护你的浏览器指纹 | Protect Your Browser Fingerprints | Chrome, Edge, Firefox | 扩展 / Extension
-
 ### [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator)
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
 
@@ -840,7 +843,7 @@
 - **Description:** Serv00控制面板自动登录脚本
 
 ### [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs)
-- **Description:** VPS融合怪服务器测评项目-GO版本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的项目)(无额外环境依赖)
+- **Description:** VPS融合怪服务器测评项目-GO版本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的项目)(无环境依赖)
 
 ### [share121/inter-knot](https://github.com/share121/inter-knot)
 - **Description:** 绳网
