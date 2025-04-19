@@ -1,3 +1,6 @@
+### [JetBrains/swot](https://github.com/JetBrains/swot)
+- **Description:** Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+
 ### [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
 - **Description:** Let AI be your browser operator.
 
@@ -29,7 +32,7 @@
 - **Description:** Utility to convert between various subscription format
 
 ### [Warma10032/VideoAdGuard](https://github.com/Warma10032/VideoAdGuard)
-- **Description:** 浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测
+- **Description:** 浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过植入广告。
 
 ### [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)
 - **Description:**  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
@@ -1184,7 +1187,7 @@
 - **Description:** Display the current page's IP version and addresses
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
+- **Description:** 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 
 ### [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)
 - **Description:** 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
