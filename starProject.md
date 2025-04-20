@@ -1,3 +1,6 @@
+### [Implex-ltd/hcaptcha-reverse](https://github.com/Implex-ltd/hcaptcha-reverse)
+- **Description:** Reverse engineered hcaptcha.
+
 ### [JetBrains/swot](https://github.com/JetBrains/swot)
 - **Description:** Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 
@@ -797,9 +800,6 @@
 
 ### [Implex-ltd/HcaptchaSolver](https://github.com/Implex-ltd/HcaptchaSolver)
 - **Description:** Hcaptcha enterprise challenge solver
-
-### [Implex-ltd/hcaptcha-reverse](https://github.com/Implex-ltd/hcaptcha-reverse)
-- **Description:** Reverse engineered hcaptcha.
 
 ### [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)
 - **Description:** 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
