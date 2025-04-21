@@ -1,3 +1,6 @@
+### [beilunyang/moepush](https://github.com/beilunyang/moepush)
+- **Description:** 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨
+
 ### [Implex-ltd/hcaptcha-reverse](https://github.com/Implex-ltd/hcaptcha-reverse)
 - **Description:** Reverse engineered hcaptcha.
 
@@ -5,7 +8,7 @@
 - **Description:** Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 
 ### [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
-- **Description:** Let AI be your browser operator.
+- **Description:** Your AI Operator for Web, Android, Automation & Testing.
 
 ### [omegaee/my-fingerprint](https://github.com/omegaee/my-fingerprint)
 - **Description:** 保护你的浏览器指纹 | Protect Your Browser Fingerprints | Chrome, Edge, Firefox | 扩展 / Extension
@@ -43,7 +46,7 @@
 ### [t0saki/xAI-Image-Gen-API-Refine](https://github.com/t0saki/xAI-Image-Gen-API-Refine)
 
 ### [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
-- **Description:** 一键部署的影视站
+- **Description:** 一分钟搭建影视站，支持Vercel/Docker等部署方式
 
 ### [stilleshan/subweb](https://github.com/stilleshan/subweb)
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
@@ -277,9 +280,6 @@
 
 ### [beilunyang/moemail](https://github.com/beilunyang/moemail)
 - **Description:** 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
-
-### [jqknono/project_translator](https://github.com/jqknono/project_translator)
-- **Description:** A VS Code Extension for Whole project translation.
 
 ### [idoknow/Campux](https://github.com/idoknow/Campux)
 - **Description:** 校园墙自动化 和 校内服务统一认证解决方案 ｜ 自助投稿、网页审核、自动发说说｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
