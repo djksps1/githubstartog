@@ -772,7 +772,7 @@
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
 
 ### [oiov/wr.do](https://github.com/oiov/wr.do)
-- **Description:** 📧🔗🌏 A short lin, temporary mailbox, p2p chat and subdomain management platform to release the potential of your domains. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
+- **Description:** 📧🔗🌏 A short link, temporary mailbox, p2p chat and subdomain management platform to release the potential of your domains. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
 
 ### [iovxw/rssbot](https://github.com/iovxw/rssbot)
 - **Description:** Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
@@ -846,7 +846,7 @@
 - **Description:** Serv00控制面板自动登录脚本
 
 ### [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs)
-- **Description:** VPS融合怪服务器测评项目-GO版本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的项目)(无环境依赖)
+- **Description:** VPS融合怪服务器测评项目-GO版本(VPS Fusion Monster Server Test)(尽量做最全能测试服务器的项目)(无环境依赖)
 
 ### [share121/inter-knot](https://github.com/share121/inter-knot)
 - **Description:** 绳网
