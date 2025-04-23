@@ -705,7 +705,7 @@
 - **Description:** 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 
 ### [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)
-- **Description:** Free web archiving and sharing service based on Cloudflare. 基于 Cloudflare 的免费网页归档和分享工具。
+- **Description:** Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
 
 ### [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 - **Description:** A community-supported supercharged version of paperless: scan, index and archive all your physical documents
@@ -784,7 +784,7 @@
 - **Description:** yet another rss reader
 
 ### [WAADRI/ChaoXing_node_signin](https://github.com/WAADRI/ChaoXing_node_signin)
-- **Description:** 学习通在线自动签到系统第三方节点接入程序，用于自行部署可接入学习通在线自动签到系统的第三方节点，该程序需配合学习通在线自动签到系统使用，网址：https://cx.waadri.top/
+- **Description:** 学习通在线自动签到系统第三方节点接入程序，用于自行部署可接入学习通在线自动签到系统的第三方节点，该程序需配合学习通在线自动签到系统使用
 
 ### [bisnuray/CC-Scrapper](https://github.com/bisnuray/CC-Scrapper)
 - **Description:** CC Scrapper: An advanced Telegram bot script to scrape credit cards from specified Telegram groups and channels.
