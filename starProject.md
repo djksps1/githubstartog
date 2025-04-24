@@ -1,3 +1,9 @@
+### [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search)
+- **Description:** 🚀  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
+
+### [PrintNow/LLM-Compare](https://github.com/PrintNow/LLM-Compare)
+- **Description:** LLM 对比测试平台，支持多个模型同屏同时响应回答，方便测试模型区别
+
 ### [beilunyang/moepush](https://github.com/beilunyang/moepush)
 - **Description:** 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨
 
@@ -102,9 +108,6 @@
 
 ### [chenyk2016/Browser-Manager](https://github.com/chenyk2016/Browser-Manager)
 - **Description:** 一个基于Electron的多浏览器实例管理工具，支持创建和管理多个独立的Chrome浏览器实例。
-
-### [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search)
-- **Description:** 🚀  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
 
 ### [bipinkrish/Save-Restricted-Bot](https://github.com/bipinkrish/Save-Restricted-Bot)
 - **Description:** A Telegram Bot, Which can send you restricted content by it's post link
@@ -274,9 +277,6 @@
 
 ### [GeorgeXie2333/LLM-Stream-Optimizer](https://github.com/GeorgeXie2333/LLM-Stream-Optimizer)
 - **Description:** ⚡基于 Cloudflare Workers 优化LLM流式输出，支持多种格式API，转换大型响应块，带Web管理页，原生Fetch请求（ShadowFetch），支持多KEY负载均衡
-
-### [silvonli/Summa](https://github.com/silvonli/Summa)
-- **Description:** A browser extension that uses AI to generate concise summaries of web articles
 
 ### [beilunyang/moemail](https://github.com/beilunyang/moemail)
 - **Description:** 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
