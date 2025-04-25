@@ -1,3 +1,6 @@
+### [lonelam/subconverter-rs](https://github.com/lonelam/subconverter-rs)
+- **Description:** subconverter 一键部署rs/wasm版，带前端，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
+
 ### [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search)
 - **Description:** 🚀  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
 
