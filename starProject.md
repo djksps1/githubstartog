@@ -32,7 +32,7 @@
 - **Description:** A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 ### [xming521/WeClone](https://github.com/xming521/WeClone)
-- **Description:** 欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，使用微信语音消息➕0.5B大模型实现高质量声音克隆，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
+- **Description:** 欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”。使用微信语音消息➕0.5B大模型实现高质量声音克隆，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
 
 ### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
 - **Description:** 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
@@ -53,6 +53,7 @@
 - **Description:**  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 
 ### [t0saki/xAI-Image-Gen-API-Refine](https://github.com/t0saki/xAI-Image-Gen-API-Refine)
+- **Description:** A proxy for the xAI API, specifically handling image generation requests and preserving only the parameters supported in the documentation.
 
 ### [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
 - **Description:** 一分钟搭建影视站，支持Vercel/Docker等部署方式
@@ -133,7 +134,7 @@
 - **Description:** A script for network quality detection
 
 ### [sjzar/chatlog](https://github.com/sjzar/chatlog)
-- **Description:** 聊天记录工具，轻松使用自己的聊天数据
+- **Description:** chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 
 ### [14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo)
 - **Description:** Auto-scrubbing of  articles and auto-likes in discourse
