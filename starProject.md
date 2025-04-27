@@ -1,3 +1,13 @@
+### [BingZi-233/AetherBot](https://github.com/BingZi-233/AetherBot)
+
+### [wozulong/fuclaude](https://github.com/wozulong/fuclaude)
+- **Description:** 法克劳德，啥也不是。
+
+### [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
+
+### [beck-8/subs-check](https://github.com/beck-8/subs-check)
+- **Description:** 订阅转换合并，节点可用性，测速，重命名，导出为clash.meta/clash/base64/qx等等所有格式的订阅工具
+
 ### [lonelam/subconverter-rs](https://github.com/lonelam/subconverter-rs)
 - **Description:** subconverter 一键部署rs/wasm版，带前端，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
 
