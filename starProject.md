@@ -1,3 +1,6 @@
+### [Ayuilos/Taiga](https://github.com/Ayuilos/Taiga)
+- **Description:** Taiga is an open-source mobile AI chat app that supports customizing LLM providers.
+
 ### [BingZi-233/AetherBot](https://github.com/BingZi-233/AetherBot)
 
 ### [wozulong/fuclaude](https://github.com/wozulong/fuclaude)
@@ -314,7 +317,7 @@
 - **Description:** Windows 11-like custom directory icon.
 
 ### [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup)
-- **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【tg10000.com】
+- **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 
 ### [jadu/test-payment-cards](https://github.com/jadu/test-payment-cards)
 
