@@ -1,3 +1,9 @@
+### [cedar2025/Xboard](https://github.com/cedar2025/Xboard)
+- **Description:** High-performance panel based on V2board secondary development supporting new protocols and new features
+
+### [helloxz/linksumm](https://github.com/helloxz/linksumm)
+- **Description:** LinkSumm是一款使用AI大模型驱动的智能摘要提取器。
+
 ### [Ayuilos/Taiga](https://github.com/Ayuilos/Taiga)
 - **Description:** Taiga is an open-source mobile AI chat app that supports customizing LLM providers.
 
@@ -193,7 +199,7 @@
 ### [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft)
 - **Description:** PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
 
-### [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
+### [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
 - **Description:** No fortress, purely open ground.  OpenManus is Coming.
 
 ### [DAXXTEAM/VCLUB-AUTO-HITTER](https://github.com/DAXXTEAM/VCLUB-AUTO-HITTER)
@@ -863,7 +869,7 @@
 - **Description:** Serv00控制面板自动登录脚本
 
 ### [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs)
-- **Description:** VPS融合怪服务器测评项目-GO版本(VPS Fusion Monster Server Test)(尽量做最全能测试服务器的项目)(无环境依赖)
+- **Description:** VPS融合怪服务器测评项目 GO版本 VPS Fusion Monster Server Test GO Version 尽量成为最全能的服务器测评项目，使用 Go 实现，无需任何环境依赖。 Aiming to be the most comprehensive server testing project, implemented in Go with zero environment dependencies.
 
 ### [share121/inter-knot](https://github.com/share121/inter-knot)
 - **Description:** 绳网
