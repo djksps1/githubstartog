@@ -1,3 +1,6 @@
+### [fish2018/ClashForge](https://github.com/fish2018/ClashForge)
+- **Description:** clash代理节点全自动采集、去重、批量检测、移除失效节点，按延迟/下载速度排序，支持mac、linux、windows，支持WebUI操作
+
 ### [cedar2025/Xboard](https://github.com/cedar2025/Xboard)
 - **Description:** High-performance panel based on V2board secondary development supporting new protocols and new features
 
@@ -18,7 +21,7 @@
 - **Description:** 订阅转换合并，节点可用性，测速，重命名，导出为clash.meta/clash/base64/qx等等所有格式的订阅工具
 
 ### [lonelam/subconverter-rs](https://github.com/lonelam/subconverter-rs)
-- **Description:** subconverter 一键部署rs/wasm版，带前端，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
+- **Description:** 一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
 
 ### [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search)
 - **Description:** 🚀  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
@@ -51,7 +54,7 @@
 - **Description:** A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 ### [xming521/WeClone](https://github.com/xming521/WeClone)
-- **Description:** 欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”。使用微信语音消息➕0.5B大模型实现高质量声音克隆，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
+- **Description:** 欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
 
 ### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
 - **Description:** 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
