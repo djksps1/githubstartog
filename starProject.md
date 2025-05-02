@@ -1,3 +1,6 @@
+### [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
+- **Description:** 一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API ，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具
+
 ### [fish2018/ClashForge](https://github.com/fish2018/ClashForge)
 - **Description:** clash代理节点全自动采集、去重、批量检测、移除失效节点，按延迟/下载速度排序，支持mac、linux、windows，支持WebUI操作
 
