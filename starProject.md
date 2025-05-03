@@ -1,8 +1,11 @@
+### [kyeraser/sexy_check](https://github.com/kyeraser/sexy_check)
+- **Description:** fantastic thing
+
 ### [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
 - **Description:** 一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API ，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具
 
 ### [fish2018/ClashForge](https://github.com/fish2018/ClashForge)
-- **Description:** clash代理节点全自动采集、去重、批量检测、移除失效节点，按延迟/下载速度排序，支持mac、linux、windows，支持WebUI操作
+- **Description:** 代理节点全自动采集、聚合、去重、批量检测、移除失效节点，按延迟/下载速度排序，一键生成clash、singbox永久订阅链接，支持mac、linux、windows，支持WebUI操作  https://cf.252035.xyz/
 
 ### [cedar2025/Xboard](https://github.com/cedar2025/Xboard)
 - **Description:** High-performance panel based on V2board secondary development supporting new protocols and new features
@@ -801,7 +804,7 @@
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
 
 ### [oiov/wr.do](https://github.com/oiov/wr.do)
-- **Description:** 📧🔗🌏 A short link, temporary mailbox, p2p chat and subdomain management platform to release the potential of your domains. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
+- **Description:** 📧🔗🌏 Shorten links with analytics, manage emails, create private chats, and control subdomains—all on one platform.
 
 ### [iovxw/rssbot](https://github.com/iovxw/rssbot)
 - **Description:** Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
