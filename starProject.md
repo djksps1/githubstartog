@@ -1,3 +1,12 @@
+### [JasonGrass/rename](https://github.com/JasonGrass/rename)
+- **Description:** 在线文件批量重命名
+
+### [kokojacket/baidu-autosave](https://github.com/kokojacket/baidu-autosave)
+- **Description:** 一个基于Flask的百度网盘自动转存系统，支持多用户管理、定时任务调度和通知推送。
+
+### [Cp0204/quark-auto-save](https://github.com/Cp0204/quark-auto-save)
+- **Description:** 夸克网盘签到、自动转存、命名整理、发推送提醒和刷新媒体库一条龙
+
 ### [trojanpanel/install-script](https://github.com/trojanpanel/install-script)
 - **Description:** Trojan Panel installation script / Trojan Panel 一键安装脚本
 
