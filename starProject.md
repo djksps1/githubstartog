@@ -1,4 +1,10 @@
-### [Russellgo/open-wegram-bot](https://github.com/Russellgo/open-wegram-bot)
+### [HirotakaDango/HDBoard](https://github.com/HirotakaDango/HDBoard)
+- **Description:** 4chan clone in php and sqlite database with only a single file.
+
+### [cwjcw/xhs_douyin_content](https://github.com/cwjcw/xhs_douyin_content)
+- **Description:** 自动抓取抖音和小红书创作者中心里的每条笔记/视频的播放，完播，点击，播放时长，点赞，分享，评论，收藏，主页访问，粉丝增量等互动数据
+
+### [Russellgo/tg-RUbot](https://github.com/Russellgo/tg-RUbot)
 - **Description:** 【零费用】一个让人呼吸顺畅的 Telegram 双向私聊机器人 🤖 / [Zero Cost] A Smooth-Operating Two-Way Private Messaging Telegram Bot 🤖 
 
 ### [JasonGrass/rename](https://github.com/JasonGrass/rename)
@@ -20,7 +26,7 @@
 - **Description:** 一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API ，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，随缘更新。
 
 ### [fish2018/ClashForge](https://github.com/fish2018/ClashForge)
-- **Description:** 代理节点全自动采集、聚合、去重、批量检测、移除失效节点，按延迟/下载速度排序，一键生成clash、singbox永久订阅链接，支持mac、linux、windows、docker，支持WebUI操作  https://cf.252035.xyz/
+- **Description:** 代理节点全自动采集、聚合、去重、批量检测、移除失效节点，按延迟/下载速度排序，一键生成clash、singbox永久订阅链接，支持mac、linux、windows、docker，支持WebUI操作 
 
 ### [cedar2025/Xboard](https://github.com/cedar2025/Xboard)
 - **Description:** High-performance panel based on V2board secondary development supporting new protocols and new features
@@ -819,7 +825,7 @@
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
 
 ### [oiov/wr.do](https://github.com/oiov/wr.do)
-- **Description:** 📧🔗🌏 Shorten links with analytics, manage emails, create private chats, and control subdomains—all on one platform.
+- **Description:** 📧🔗🌏 Shorten links with analytics, manage emails and control subdomains—all on one platform.
 
 ### [iovxw/rssbot](https://github.com/iovxw/rssbot)
 - **Description:** Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
