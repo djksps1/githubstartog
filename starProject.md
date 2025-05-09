@@ -1,3 +1,9 @@
+### [jehna/humanify](https://github.com/jehna/humanify)
+- **Description:** Deobfuscate Javascript code using ChatGPT
+
+### [NanSsye/xxxbot-pad](https://github.com/NanSsye/xxxbot-pad)
+- **Description:** xxxbot-PAD版本
+
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
 ### [HirotakaDango/HDBoard](https://github.com/HirotakaDango/HDBoard)
@@ -53,7 +59,7 @@
 - **Description:** 一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
 
 ### [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search)
-- **Description:** 🔍  第三方 Telegram 聊天记录备份、语义化搜索客户端
+- **Description:** 🔍  一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
 
 ### [PrintNow/LLM-Compare](https://github.com/PrintNow/LLM-Compare)
 - **Description:** LLM 对比测试平台，支持多个模型同屏同时响应回答，方便测试模型区别
