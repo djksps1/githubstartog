@@ -104,7 +104,7 @@
 - **Description:** Utility to convert between various subscription format
 
 ### [Warma10032/VideoAdGuard](https://github.com/Warma10032/VideoAdGuard)
-- **Description:** 浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过植入广告。
+- **Description:** 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 
 ### [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)
 - **Description:**  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
