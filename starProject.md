@@ -264,7 +264,7 @@
 - **Description:** 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
 
 ### [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub)
-- **Description:** 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，不需要服务器。也可作为 URL 缩短链接服务使用。
+- **Description:** 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，仅需后台统一更新新二维码。不需要服务器。也可作为 URL 缩短链接服务使用。
 
 ### [Fung-2025/potplayer-translation-openaiapi](https://github.com/Fung-2025/potplayer-translation-openaiapi)
 - **Description:** PotPlayer translation plugin, compatible with OpenAI API.
