@@ -1,3 +1,6 @@
+### [star7th/coolmonitor](https://github.com/star7th/coolmonitor)
+- **Description:** 一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等
+
 ### [jehna/humanify](https://github.com/jehna/humanify)
 - **Description:** Deobfuscate Javascript code using ChatGPT
 
@@ -11,9 +14,6 @@
 
 ### [cwjcw/xhs_douyin_content](https://github.com/cwjcw/xhs_douyin_content)
 - **Description:** 自动抓取抖音和小红书创作者中心里的每条笔记/视频的播放，完播，点击，播放时长，点赞，分享，评论，收藏，主页访问，粉丝增量等互动数据
-
-### [Russellgo/tg-RUbot](https://github.com/Russellgo/tg-RUbot)
-- **Description:** 【零费用】一个让人呼吸顺畅的 Telegram 双向私聊机器人 🤖 / [Zero Cost] A Smooth-Operating Two-Way Private Messaging Telegram Bot 🤖 
 
 ### [JasonGrass/rename](https://github.com/JasonGrass/rename)
 - **Description:** 在线文件批量重命名
@@ -89,7 +89,7 @@
 - **Description:** A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 ### [xming521/WeClone](https://github.com/xming521/WeClone)
-- **Description:** 欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
+- **Description:** 🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
 
 ### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
 - **Description:** 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
@@ -188,7 +188,7 @@
 ### [deanxv/kilo2api](https://github.com/deanxv/kilo2api)
 
 ### [xykt/NetQuality](https://github.com/xykt/NetQuality)
-- **Description:** A script for network quality detection
+- **Description:** 网络质量体检脚本 - Network Quality Check Script
 
 ### [sjzar/chatlog](https://github.com/sjzar/chatlog)
 - **Description:** chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
@@ -1006,7 +1006,7 @@
 - **Description:** Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 ### [xykt/IPQuality](https://github.com/xykt/IPQuality)
-- **Description:** A script for IP quality detection
+- **Description:** IP质量体检脚本 - IP Quality Check Script
 
 ### [CN-Grace/Wechat-Emotion-Parser](https://github.com/CN-Grace/Wechat-Emotion-Parser)
 - **Description:** Parse the emotion in your Wechat account with a simple python script
@@ -1356,7 +1356,7 @@
 - **Description:** 超星学习通签到：支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测、QQ机器人签到与推送。
 
 ### [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ)
-- **Description:** Modern protocol-side framework implemented based on NTQQ
+- **Description:** Modern protocol-side framework based on NTQQ
 
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - **Description:** 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
