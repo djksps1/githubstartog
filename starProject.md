@@ -1,3 +1,8 @@
+### [find-xposed-magisk/cloudflare_temp_email](https://github.com/find-xposed-magisk/cloudflare_temp_email)
+- **Description:** CloudFlare free temp domain email 免费 临时 域名邮箱
+
+### [bohesocool/you2api](https://github.com/bohesocool/you2api)
+
 ### [star7th/coolmonitor](https://github.com/star7th/coolmonitor)
 - **Description:** 一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等
 
@@ -89,7 +94,7 @@
 - **Description:** A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 ### [xming521/WeClone](https://github.com/xming521/WeClone)
-- **Description:** 🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
+- **Description:** 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
 
 ### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
 - **Description:** 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
@@ -188,7 +193,7 @@
 ### [deanxv/kilo2api](https://github.com/deanxv/kilo2api)
 
 ### [xykt/NetQuality](https://github.com/xykt/NetQuality)
-- **Description:** 网络质量体检脚本 - Network Quality Check Script
+- **Description:** 网络质量检测脚本 - Network Quality Check Script
 
 ### [sjzar/chatlog](https://github.com/sjzar/chatlog)
 - **Description:** chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
@@ -1006,7 +1011,7 @@
 - **Description:** Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 ### [xykt/IPQuality](https://github.com/xykt/IPQuality)
-- **Description:** IP质量体检脚本 - IP Quality Check Script
+- **Description:** IP质量检测脚本 - IP Quality Check Script
 
 ### [CN-Grace/Wechat-Emotion-Parser](https://github.com/CN-Grace/Wechat-Emotion-Parser)
 - **Description:** Parse the emotion in your Wechat account with a simple python script
