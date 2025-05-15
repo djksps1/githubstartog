@@ -1,3 +1,6 @@
+### [open-edge-platform/geti](https://github.com/open-edge-platform/geti)
+- **Description:** Build computer vision models in a fraction of the time and with less data.
+
 ### [find-xposed-magisk/cloudflare_temp_email](https://github.com/find-xposed-magisk/cloudflare_temp_email)
 - **Description:** CloudFlare free temp domain email 免费 临时 域名邮箱
 

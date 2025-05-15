@@ -1,5 +1,27 @@
 [
   {
+    "name": "geti",
+    "full_name": "open-edge-platform/geti",
+    "url": "https://api.github.com/repos/open-edge-platform/geti",
+    "html_url": "https://github.com/open-edge-platform/geti",
+    "description": "Build computer vision models in a fraction of the time and with less data.",
+    "homepage": "https://docs.geti.intel.com",
+    "language": "TypeScript",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "fine-tuning",
+      "inference",
+      "openvino"
+    ],
+    "stargazers_count": 249,
+    "ai_tag": {
+      "group": "",
+      "tags": null,
+      "desc": ""
+    }
+  },
+  {
     "name": "cloudflare_temp_email",
     "full_name": "find-xposed-magisk/cloudflare_temp_email",
     "url": "https://api.github.com/repos/find-xposed-magisk/cloudflare_temp_email",
@@ -40,7 +62,7 @@
     "homepage": "",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 365,
+    "stargazers_count": 377,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -56,7 +78,7 @@
     "homepage": "",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 2273,
+    "stargazers_count": 2277,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -72,7 +94,7 @@
     "homepage": null,
     "language": "Python",
     "topics": [],
-    "stargazers_count": 289,
+    "stargazers_count": 315,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -88,7 +110,7 @@
     "homepage": null,
     "language": null,
     "topics": [],
-    "stargazers_count": 4369,
+    "stargazers_count": 4496,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -133,7 +155,7 @@
       "xhs",
       "xiaohongshu"
     ],
-    "stargazers_count": 164,
+    "stargazers_count": 166,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -181,7 +203,7 @@
     "homepage": "",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 1427,
+    "stargazers_count": 1434,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -205,7 +227,7 @@
       "trojan-panel-core",
       "xray-core"
     ],
-    "stargazers_count": 1981,
+    "stargazers_count": 1983,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -237,7 +259,7 @@
     "homepage": "",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 708,
+    "stargazers_count": 736,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -253,7 +275,7 @@
     "homepage": "https://cf.252035.xyz/",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 208,
+    "stargazers_count": 211,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -269,7 +291,7 @@
     "homepage": "",
     "language": "PHP",
     "topics": [],
-    "stargazers_count": 2716,
+    "stargazers_count": 2725,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -287,7 +309,7 @@
     "topics": [
       "linksumm"
     ],
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -345,7 +367,7 @@
     "homepage": "https://demo.fuclaude.com",
     "language": null,
     "topics": [],
-    "stargazers_count": 1170,
+    "stargazers_count": 1171,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -361,7 +383,7 @@
     "homepage": "https://sub-web.netlify.app/",
     "language": "Vue",
     "topics": [],
-    "stargazers_count": 5647,
+    "stargazers_count": 5651,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -377,7 +399,7 @@
     "homepage": "",
     "language": "Go",
     "topics": [],
-    "stargazers_count": 2042,
+    "stargazers_count": 2049,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -419,7 +441,7 @@
       "telegram",
       "telegram-bot"
     ],
-    "stargazers_count": 767,
+    "stargazers_count": 770,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -454,7 +476,7 @@
     "homepage": "https://moepush.app",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 1003,
+    "stargazers_count": 1005,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -474,7 +496,7 @@
       "hcaptcha",
       "reverse"
     ],
-    "stargazers_count": 140,
+    "stargazers_count": 141,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -490,7 +512,7 @@
     "homepage": "",
     "language": "Kotlin",
     "topics": [],
-    "stargazers_count": 1932,
+    "stargazers_count": 1934,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -515,7 +537,7 @@
       "phone-use",
       "testing"
     ],
-    "stargazers_count": 8813,
+    "stargazers_count": 8828,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -545,7 +567,7 @@
       "security",
       "typescript"
     ],
-    "stargazers_count": 532,
+    "stargazers_count": 533,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -561,7 +583,7 @@
     "homepage": null,
     "language": "Python",
     "topics": [],
-    "stargazers_count": 193,
+    "stargazers_count": 199,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -589,7 +611,7 @@
       "self-supervised",
       "self-supervised-learning"
     ],
-    "stargazers_count": 286,
+    "stargazers_count": 287,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -610,7 +632,7 @@
       "python",
       "star-rail-api"
     ],
-    "stargazers_count": 20182,
+    "stargazers_count": 20201,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -629,7 +651,7 @@
       "llm",
       "qwen"
     ],
-    "stargazers_count": 7209,
+    "stargazers_count": 8264,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -651,7 +673,7 @@
       "telegram-bot",
       "webdav"
     ],
-    "stargazers_count": 780,
+    "stargazers_count": 783,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -667,7 +689,7 @@
     "homepage": null,
     "language": "Python",
     "topics": [],
-    "stargazers_count": 1200,
+    "stargazers_count": 1216,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -683,7 +705,7 @@
     "homepage": "",
     "language": "C#",
     "topics": [],
-    "stargazers_count": 2422,
+    "stargazers_count": 2424,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -744,7 +766,7 @@
       "video-transcription",
       "video-translation"
     ],
-    "stargazers_count": 7134,
+    "stargazers_count": 7167,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -782,7 +804,7 @@
       "movies-and-cinemas",
       "tv"
     ],
-    "stargazers_count": 3815,
+    "stargazers_count": 3908,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -801,7 +823,7 @@
       "subconverter",
       "subweb"
     ],
-    "stargazers_count": 443,
+    "stargazers_count": 445,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -834,7 +856,7 @@
       "qqchannel",
       "telegram"
     ],
-    "stargazers_count": 8713,
+    "stargazers_count": 8792,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -861,7 +883,7 @@
       "paper-ocr",
       "table-parsing"
     ],
-    "stargazers_count": 636,
+    "stargazers_count": 637,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -884,7 +906,7 @@
       "qbittorrent",
       "rss-parser"
     ],
-    "stargazers_count": 7484,
+    "stargazers_count": 7487,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -954,7 +976,7 @@
       "miku",
       "stresses"
     ],
-    "stargazers_count": 4651,
+    "stargazers_count": 4658,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1007,7 +1029,7 @@
       "bilibili-hardcore",
       "bilibili-senior"
     ],
-    "stargazers_count": 895,
+    "stargazers_count": 899,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1039,7 +1061,7 @@
     "homepage": "https://wx.hsjishu.com",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 340,
+    "stargazers_count": 341,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1122,7 +1144,7 @@
       "mail",
       "telegram"
     ],
-    "stargazers_count": 94,
+    "stargazers_count": 96,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1143,7 +1165,7 @@
       "cloudflare-workers",
       "navigation"
     ],
-    "stargazers_count": 301,
+    "stargazers_count": 302,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1206,7 +1228,7 @@
       "playwright",
       "yolo"
     ],
-    "stargazers_count": 1699,
+    "stargazers_count": 1706,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1222,7 +1244,7 @@
     "homepage": "",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 13000,
+    "stargazers_count": 13042,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1235,10 +1257,10 @@
     "url": "https://api.github.com/repos/zhtyyx/ioe",
     "html_url": "https://github.com/zhtyyx/ioe",
     "description": "One-Stop Retail Inventory Solution",
-    "homepage": null,
+    "homepage": "https://ioed.xianist.com/",
     "language": "HTML",
     "topics": [],
-    "stargazers_count": 941,
+    "stargazers_count": 984,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1270,7 +1292,7 @@
     "homepage": null,
     "language": "Go",
     "topics": [],
-    "stargazers_count": 99,
+    "stargazers_count": 100,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1286,7 +1308,7 @@
     "homepage": "",
     "language": "Shell",
     "topics": [],
-    "stargazers_count": 2060,
+    "stargazers_count": 2070,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1309,7 +1331,7 @@
       "redteam",
       "wechat"
     ],
-    "stargazers_count": 4249,
+    "stargazers_count": 4290,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1374,7 +1396,7 @@
       "transferlearning",
       "transfers"
     ],
-    "stargazers_count": 88,
+    "stargazers_count": 91,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1396,7 +1418,7 @@
       "telegram",
       "telegram-client"
     ],
-    "stargazers_count": 2168,
+    "stargazers_count": 2174,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1454,7 +1476,7 @@
       "webcam-hacks",
       "windows"
     ],
-    "stargazers_count": 674,
+    "stargazers_count": 677,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1470,7 +1492,7 @@
     "homepage": null,
     "language": "HTML",
     "topics": [],
-    "stargazers_count": 817,
+    "stargazers_count": 818,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1541,7 +1563,7 @@
       "ytdl-core",
       "ytpro"
     ],
-    "stargazers_count": 596,
+    "stargazers_count": 598,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1557,7 +1579,7 @@
     "homepage": null,
     "language": "Python",
     "topics": [],
-    "stargazers_count": 1547,
+    "stargazers_count": 1554,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1589,7 +1611,7 @@
     "homepage": null,
     "language": "Go",
     "topics": [],
-    "stargazers_count": 40,
+    "stargazers_count": 39,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1605,7 +1627,7 @@
     "homepage": null,
     "language": null,
     "topics": [],
-    "stargazers_count": 2866,
+    "stargazers_count": 2871,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1626,7 +1648,7 @@
       "ocr",
       "pdf"
     ],
-    "stargazers_count": 2663,
+    "stargazers_count": 2673,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1642,7 +1664,7 @@
     "homepage": "https://openmanus.github.io/",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 45595,
+    "stargazers_count": 45659,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1680,7 +1702,7 @@
       "javascript",
       "obfuscator"
     ],
-    "stargazers_count": 712,
+    "stargazers_count": 713,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1703,7 +1725,7 @@
       "nuxthub",
       "r2"
     ],
-    "stargazers_count": 66,
+    "stargazers_count": 67,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1719,7 +1741,7 @@
     "homepage": "",
     "language": "Dart",
     "topics": [],
-    "stargazers_count": 10163,
+    "stargazers_count": 10187,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1735,7 +1757,7 @@
     "homepage": "https://hidden-word.top",
     "language": "Vue",
     "topics": [],
-    "stargazers_count": 374,
+    "stargazers_count": 376,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1771,7 +1793,7 @@
       "telegram-bot",
       "telegram-bots"
     ],
-    "stargazers_count": 761,
+    "stargazers_count": 762,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1796,7 +1818,7 @@
       "v2rayng",
       "xray-core"
     ],
-    "stargazers_count": 2177,
+    "stargazers_count": 2188,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1812,7 +1834,7 @@
     "homepage": "",
     "language": "JavaScript",
     "topics": [],
-    "stargazers_count": 1531,
+    "stargazers_count": 1534,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1832,7 +1854,7 @@
       "potplayer",
       "translation"
     ],
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1864,7 +1886,7 @@
     "homepage": "",
     "language": "Java",
     "topics": [],
-    "stargazers_count": 821,
+    "stargazers_count": 822,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1895,7 +1917,7 @@
       "tailwindcss",
       "tauri"
     ],
-    "stargazers_count": 2430,
+    "stargazers_count": 2449,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1927,7 +1949,7 @@
     "homepage": null,
     "language": "Shell",
     "topics": [],
-    "stargazers_count": 147,
+    "stargazers_count": 148,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -1984,7 +2006,7 @@
     "homepage": "https://void-tech.cn/index.php/2024/10/03/cctv_viewer/",
     "language": "Java",
     "topics": [],
-    "stargazers_count": 2360,
+    "stargazers_count": 2361,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2048,7 +2070,7 @@
     "url": "https://api.github.com/repos/QuantumNous/new-api",
     "html_url": "https://github.com/QuantumNous/new-api",
     "description": "AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
-    "homepage": "",
+    "homepage": "https://docs.newapi.pro",
     "language": "Go",
     "topics": [
       "ai-gateway",
@@ -2058,7 +2080,7 @@
       "openai",
       "rerank"
     ],
-    "stargazers_count": 7403,
+    "stargazers_count": 7424,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2090,7 +2112,7 @@
       "ui",
       "webui"
     ],
-    "stargazers_count": 94598,
+    "stargazers_count": 94766,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2127,7 +2149,7 @@
       "txt",
       "university"
     ],
-    "stargazers_count": 561,
+    "stargazers_count": 563,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2159,7 +2181,7 @@
     "homepage": "",
     "language": "Go",
     "topics": [],
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2178,7 +2200,7 @@
       "artificial-intelligence",
       "large-language-model"
     ],
-    "stargazers_count": 20770,
+    "stargazers_count": 20820,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2194,7 +2216,7 @@
     "homepage": "https://mtranserver.2020818.xyz",
     "language": null,
     "topics": [],
-    "stargazers_count": 3237,
+    "stargazers_count": 3241,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2303,7 +2325,7 @@
     "homepage": null,
     "language": "HTML",
     "topics": [],
-    "stargazers_count": 442,
+    "stargazers_count": 444,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2335,7 +2357,7 @@
     "homepage": "https://moemail.app",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 1200,
+    "stargazers_count": 1204,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2473,7 +2495,7 @@
       "telegram-channel",
       "telegramgroups"
     ],
-    "stargazers_count": 17315,
+    "stargazers_count": 17333,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2513,7 +2535,7 @@
       "telegram-api",
       "telethon"
     ],
-    "stargazers_count": 10801,
+    "stargazers_count": 10802,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2551,7 +2573,7 @@
     "homepage": "https://www.allfather.top/mol2d/",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 140,
+    "stargazers_count": 143,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2598,7 +2620,7 @@
     "homepage": "https://youtube.com/@am_clubs",
     "language": "JavaScript",
     "topics": [],
-    "stargazers_count": 1093,
+    "stargazers_count": 1097,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2621,7 +2643,7 @@
       "telegram",
       "userscript"
     ],
-    "stargazers_count": 2328,
+    "stargazers_count": 2330,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2653,7 +2675,7 @@
       "text2path",
       "vue3-fabric"
     ],
-    "stargazers_count": 1271,
+    "stargazers_count": 1272,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2808,7 +2830,7 @@
       "website-monitoring",
       "website-watcher"
     ],
-    "stargazers_count": 24031,
+    "stargazers_count": 24043,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2930,7 +2952,7 @@
     "homepage": "https://karing.app",
     "language": "Dart",
     "topics": [],
-    "stargazers_count": 5149,
+    "stargazers_count": 5159,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2951,7 +2973,7 @@
       "flutter",
       "flutter-apps"
     ],
-    "stargazers_count": 61281,
+    "stargazers_count": 61319,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -2985,7 +3007,7 @@
       "surge",
       "v2ray"
     ],
-    "stargazers_count": 21059,
+    "stargazers_count": 21063,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3033,7 +3055,7 @@
     "homepage": null,
     "language": null,
     "topics": [],
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3069,7 +3091,7 @@
       "minecraftbot",
       "ovh-bypass"
     ],
-    "stargazers_count": 14022,
+    "stargazers_count": 14027,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3101,7 +3123,7 @@
     "homepage": "https://izbds.com",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 3676,
+    "stargazers_count": 3683,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3117,7 +3139,7 @@
     "homepage": "https://cursor-auto-free-doc.vercel.app",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 8796,
+    "stargazers_count": 8816,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3138,7 +3160,7 @@
       "wechat",
       "weixin"
     ],
-    "stargazers_count": 2701,
+    "stargazers_count": 2702,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3160,7 +3182,7 @@
       "url-shortener",
       "urlshortener"
     ],
-    "stargazers_count": 9717,
+    "stargazers_count": 9719,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3180,7 +3202,7 @@
       "stickers",
       "telegram"
     ],
-    "stargazers_count": 162,
+    "stargazers_count": 161,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3199,7 +3221,7 @@
       "cursor",
       "error"
     ],
-    "stargazers_count": 21212,
+    "stargazers_count": 21281,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3225,7 +3247,7 @@
       "mcp-client",
       "openai"
     ],
-    "stargazers_count": 26216,
+    "stargazers_count": 26295,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3263,7 +3285,7 @@
       "email",
       "free"
     ],
-    "stargazers_count": 3812,
+    "stargazers_count": 3821,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3285,7 +3307,7 @@
       "resources",
       "unicorns"
     ],
-    "stargazers_count": 360357,
+    "stargazers_count": 360515,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3305,7 +3327,7 @@
       "mihomo",
       "sing-box"
     ],
-    "stargazers_count": 1551,
+    "stargazers_count": 1554,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3321,7 +3343,7 @@
     "homepage": "http://www.thegeekblog.co.uk",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 33085,
+    "stargazers_count": 33094,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3360,7 +3382,7 @@
       "qwerty",
       "t9"
     ],
-    "stargazers_count": 1929,
+    "stargazers_count": 1935,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3392,7 +3414,7 @@
     "homepage": "https://chromewebstore.google.com/detail/fbgblmjbeebanackldpbmpacppflgmlj",
     "language": "Vue",
     "topics": [],
-    "stargazers_count": 1128,
+    "stargazers_count": 1129,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3424,7 +3446,7 @@
     "homepage": "https://x.com/intent/follow?screen_name=actkites",
     "language": "Kotlin",
     "topics": [],
-    "stargazers_count": 2116,
+    "stargazers_count": 2146,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3449,7 +3471,7 @@
       "spotify",
       "spotify-web-api"
     ],
-    "stargazers_count": 947,
+    "stargazers_count": 949,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3470,7 +3492,7 @@
       "xposed",
       "xposed-module"
     ],
-    "stargazers_count": 1236,
+    "stargazers_count": 1237,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3496,7 +3518,7 @@
       "vlm",
       "vlms"
     ],
-    "stargazers_count": 677,
+    "stargazers_count": 678,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3529,7 +3551,7 @@
       "text-captcha",
       "turnstile-captcha-solver"
     ],
-    "stargazers_count": 7747,
+    "stargazers_count": 7752,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3578,7 +3600,7 @@
       "translator",
       "userscripts"
     ],
-    "stargazers_count": 3725,
+    "stargazers_count": 3735,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3603,7 +3625,7 @@
       "rag",
       "react"
     ],
-    "stargazers_count": 1409,
+    "stargazers_count": 1411,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3732,7 +3754,7 @@
       "python",
       "shell"
     ],
-    "stargazers_count": 91869,
+    "stargazers_count": 91876,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3780,7 +3802,7 @@
       "magisk-module",
       "root"
     ],
-    "stargazers_count": 1012,
+    "stargazers_count": 1017,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3808,7 +3830,7 @@
       "url-shortener",
       "web-analytics"
     ],
-    "stargazers_count": 4458,
+    "stargazers_count": 4468,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3828,7 +3850,7 @@
       "students",
       "wiki"
     ],
-    "stargazers_count": 470,
+    "stargazers_count": 471,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3848,7 +3870,7 @@
       "starred-repositories",
       "starred-search"
     ],
-    "stargazers_count": 72,
+    "stargazers_count": 73,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3918,7 +3940,7 @@
       "terminal",
       "terminal-emulators"
     ],
-    "stargazers_count": 63685,
+    "stargazers_count": 63703,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3941,7 +3963,7 @@
       "windows",
       "windows-desktop"
     ],
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3966,7 +3988,7 @@
       "terminal-emulators",
       "windows"
     ],
-    "stargazers_count": 10153,
+    "stargazers_count": 10159,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -3995,7 +4017,7 @@
       "pwsh",
       "tab"
     ],
-    "stargazers_count": 174,
+    "stargazers_count": 175,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4015,7 +4037,7 @@
       "ddddocr",
       "ocr"
     ],
-    "stargazers_count": 11695,
+    "stargazers_count": 11701,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4062,7 +4084,7 @@
       "weather-application",
       "weather-flutter"
     ],
-    "stargazers_count": 443,
+    "stargazers_count": 444,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4078,7 +4100,7 @@
     "homepage": "https://docs.openbullet.dev/",
     "language": "C#",
     "topics": [],
-    "stargazers_count": 1969,
+    "stargazers_count": 1970,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4094,7 +4116,7 @@
     "homepage": "https://openbullet.github.io",
     "language": "C#",
     "topics": [],
-    "stargazers_count": 1574,
+    "stargazers_count": 1576,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4138,7 +4160,7 @@
     "homepage": null,
     "language": "Dockerfile",
     "topics": [],
-    "stargazers_count": 756,
+    "stargazers_count": 757,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4202,7 +4224,7 @@
     "homepage": "https://nezhadash-docs.buycoffee.top",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 1437,
+    "stargazers_count": 1438,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4218,7 +4240,7 @@
     "homepage": "https://crawl4ai.com",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 43047,
+    "stargazers_count": 43129,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4234,7 +4256,7 @@
     "homepage": "https://chatgpt.aicnm.cc/login",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 2939,
+    "stargazers_count": 2948,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4250,7 +4272,7 @@
     "homepage": "",
     "language": "HTML",
     "topics": [],
-    "stargazers_count": 120,
+    "stargazers_count": 121,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4272,7 +4294,7 @@
       "pentesting",
       "sk-checker"
     ],
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4320,7 +4342,7 @@
     "homepage": "",
     "language": null,
     "topics": [],
-    "stargazers_count": 469,
+    "stargazers_count": 470,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4342,7 +4364,7 @@
       "magisk",
       "mihomo"
     ],
-    "stargazers_count": 945,
+    "stargazers_count": 973,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4358,7 +4380,7 @@
     "homepage": null,
     "language": "Python",
     "topics": [],
-    "stargazers_count": 12087,
+    "stargazers_count": 12094,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4390,7 +4412,7 @@
     "homepage": "",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 2326,
+    "stargazers_count": 2331,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4439,7 +4461,7 @@
       "typescript",
       "vite"
     ],
-    "stargazers_count": 164,
+    "stargazers_count": 165,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4471,7 +4493,7 @@
     "homepage": null,
     "language": "C++",
     "topics": [],
-    "stargazers_count": 38977,
+    "stargazers_count": 38993,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4494,7 +4516,7 @@
       "chatgpt-plus",
       "chatgpt-share"
     ],
-    "stargazers_count": 1121,
+    "stargazers_count": 1120,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4526,7 +4548,7 @@
     "homepage": "",
     "language": "Java",
     "topics": [],
-    "stargazers_count": 390,
+    "stargazers_count": 392,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4566,7 +4588,7 @@
       "r2-storage",
       "workers"
     ],
-    "stargazers_count": 532,
+    "stargazers_count": 533,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4582,7 +4604,7 @@
     "homepage": "",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 411,
+    "stargazers_count": 412,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4601,7 +4623,7 @@
       "clash",
       "mihomo"
     ],
-    "stargazers_count": 649,
+    "stargazers_count": 650,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4644,7 +4666,7 @@
       "mockgps",
       "virtual-location"
     ],
-    "stargazers_count": 7175,
+    "stargazers_count": 7185,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4731,7 +4753,7 @@
       "security",
       "security-tools"
     ],
-    "stargazers_count": 1824,
+    "stargazers_count": 1834,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4763,7 +4785,7 @@
     "homepage": "https://sub.cmliussss.com",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 103,
+    "stargazers_count": 104,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4790,7 +4812,7 @@
       "tcpdump",
       "tcpdump-like"
     ],
-    "stargazers_count": 4125,
+    "stargazers_count": 4130,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4887,7 +4909,7 @@
       "switch-hosts",
       "switchhosts"
     ],
-    "stargazers_count": 25063,
+    "stargazers_count": 25067,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4945,7 +4967,7 @@
       "xiaohongshu",
       "youtube"
     ],
-    "stargazers_count": 4968,
+    "stargazers_count": 4976,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -4997,7 +5019,7 @@
       "webshell",
       "webssh"
     ],
-    "stargazers_count": 10566,
+    "stargazers_count": 10572,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5027,7 +5049,7 @@
       "wireguard",
       "ygkkk"
     ],
-    "stargazers_count": 3910,
+    "stargazers_count": 3912,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5086,7 +5108,7 @@
     "homepage": "https://cloudflare.chuhai.tools/",
     "language": null,
     "topics": [],
-    "stargazers_count": 10893,
+    "stargazers_count": 10895,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5127,7 +5149,7 @@
     "homepage": "https://t.me/tg_x64",
     "language": "C++",
     "topics": [],
-    "stargazers_count": 2166,
+    "stargazers_count": 2168,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5161,7 +5183,7 @@
       "tampermonkey",
       "userscripts"
     ],
-    "stargazers_count": 3929,
+    "stargazers_count": 3931,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5186,7 +5208,7 @@
       "s3",
       "telegram-bot"
     ],
-    "stargazers_count": 2052,
+    "stargazers_count": 2058,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5202,7 +5224,7 @@
     "homepage": "https://omakub.org",
     "language": "Shell",
     "topics": [],
-    "stargazers_count": 6278,
+    "stargazers_count": 6282,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5221,7 +5243,7 @@
       "cursor",
       "cursor-pro"
     ],
-    "stargazers_count": 3705,
+    "stargazers_count": 3717,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5273,7 +5295,7 @@
       "ssl-certificate",
       "ssl-certificates"
     ],
-    "stargazers_count": 6560,
+    "stargazers_count": 6573,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5326,7 +5348,7 @@
       "optical-character-recognition",
       "pdf"
     ],
-    "stargazers_count": 27386,
+    "stargazers_count": 27406,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5345,7 +5367,7 @@
       "elegant",
       "news"
     ],
-    "stargazers_count": 9864,
+    "stargazers_count": 9888,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5382,7 +5404,7 @@
       "workflow",
       "workflow-automation"
     ],
-    "stargazers_count": 93166,
+    "stargazers_count": 93850,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5422,7 +5444,7 @@
       "selected-ip",
       "vercel-serverless"
     ],
-    "stargazers_count": 2160,
+    "stargazers_count": 2166,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5445,7 +5467,7 @@
       "weixin",
       "wxbot"
     ],
-    "stargazers_count": 3334,
+    "stargazers_count": 3335,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5518,7 +5540,7 @@
       "vmess",
       "vpn"
     ],
-    "stargazers_count": 14119,
+    "stargazers_count": 14137,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5552,7 +5574,7 @@
       "video-generator",
       "youtube-shorts"
     ],
-    "stargazers_count": 2193,
+    "stargazers_count": 2200,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5584,7 +5606,7 @@
     "homepage": "",
     "language": "Go",
     "topics": [],
-    "stargazers_count": 755,
+    "stargazers_count": 756,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5600,7 +5622,7 @@
     "homepage": "https://gomoon.top",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 486,
+    "stargazers_count": 487,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5626,7 +5648,7 @@
       "report-generation",
       "retrieval-augmented-generation"
     ],
-    "stargazers_count": 24279,
+    "stargazers_count": 24286,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5679,7 +5701,7 @@
       "wechat-bot",
       "xunfei-spark"
     ],
-    "stargazers_count": 36753,
+    "stargazers_count": 36770,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5779,7 +5801,7 @@
     "homepage": "https://wr.do",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 1122,
+    "stargazers_count": 1124,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5836,7 +5858,7 @@
     "homepage": "",
     "language": "Go",
     "topics": [],
-    "stargazers_count": 3219,
+    "stargazers_count": 3220,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5855,7 +5877,7 @@
       "chaoxing",
       "xuexitong"
     ],
-    "stargazers_count": 130,
+    "stargazers_count": 131,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5941,7 +5963,7 @@
       "tauri",
       "tauri-app"
     ],
-    "stargazers_count": 11042,
+    "stargazers_count": 11048,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5983,7 +6005,7 @@
       "vless",
       "vless-ws-tls"
     ],
-    "stargazers_count": 20895,
+    "stargazers_count": 20912,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -5999,7 +6021,7 @@
     "homepage": "https://x.com/intent/follow?screen_name=actkites",
     "language": "Go",
     "topics": [],
-    "stargazers_count": 4844,
+    "stargazers_count": 4849,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6023,7 +6045,7 @@
       "wechat-mini-program",
       "wexin"
     ],
-    "stargazers_count": 2546,
+    "stargazers_count": 2550,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6106,7 +6128,7 @@
       "user-space-networking",
       "user-space-tcp"
     ],
-    "stargazers_count": 5328,
+    "stargazers_count": 5329,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6142,7 +6164,7 @@
       "vertex-ai",
       "zeabur"
     ],
-    "stargazers_count": 1027,
+    "stargazers_count": 1029,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6188,7 +6210,7 @@
       "vless",
       "vpn"
     ],
-    "stargazers_count": 17043,
+    "stargazers_count": 17153,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6204,7 +6226,7 @@
     "homepage": "",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 160,
+    "stargazers_count": 161,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6237,7 +6259,7 @@
       "openai",
       "rag"
     ],
-    "stargazers_count": 60741,
+    "stargazers_count": 60784,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6310,7 +6332,7 @@
       "macos",
       "windows"
     ],
-    "stargazers_count": 728,
+    "stargazers_count": 734,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6326,7 +6348,7 @@
     "homepage": "",
     "language": "Dart",
     "topics": [],
-    "stargazers_count": 764,
+    "stargazers_count": 763,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6363,7 +6385,7 @@
       "window-resize",
       "window-screenshot"
     ],
-    "stargazers_count": 2505,
+    "stargazers_count": 2509,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6386,7 +6408,7 @@
       "tool",
       "wifi"
     ],
-    "stargazers_count": 2969,
+    "stargazers_count": 2971,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6427,7 +6449,7 @@
       "ssl",
       "ssl-certificate"
     ],
-    "stargazers_count": 2856,
+    "stargazers_count": 2867,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6472,7 +6494,7 @@
       "tauri-app",
       "windows"
     ],
-    "stargazers_count": 4460,
+    "stargazers_count": 4463,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6511,7 +6533,7 @@
       "telegram",
       "telegram-channel"
     ],
-    "stargazers_count": 1705,
+    "stargazers_count": 1706,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6553,7 +6575,7 @@
       "sponsorblock",
       "web-extension"
     ],
-    "stargazers_count": 3112,
+    "stargazers_count": 3120,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6573,7 +6595,7 @@
       "python",
       "web-automation"
     ],
-    "stargazers_count": 9724,
+    "stargazers_count": 9733,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6640,7 +6662,7 @@
     "topics": [
       "education"
     ],
-    "stargazers_count": 5923,
+    "stargazers_count": 5924,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6673,7 +6695,7 @@
       "windows-10",
       "windows-11"
     ],
-    "stargazers_count": 134746,
+    "stargazers_count": 134885,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6708,7 +6730,7 @@
       "webcam",
       "webcamera"
     ],
-    "stargazers_count": 66902,
+    "stargazers_count": 67162,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6783,7 +6805,7 @@
       "email-verifier",
       "hacktoberfest"
     ],
-    "stargazers_count": 4501,
+    "stargazers_count": 4505,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6836,7 +6858,7 @@
     "homepage": null,
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 1312,
+    "stargazers_count": 1316,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6858,7 +6880,7 @@
       "pandora",
       "pandora-next"
     ],
-    "stargazers_count": 1277,
+    "stargazers_count": 1276,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6874,7 +6896,7 @@
     "homepage": "",
     "language": "Go",
     "topics": [],
-    "stargazers_count": 446,
+    "stargazers_count": 447,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6895,7 +6917,7 @@
       "userscript",
       "webextension"
     ],
-    "stargazers_count": 2265,
+    "stargazers_count": 2266,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6926,7 +6948,7 @@
       "txt",
       "workers"
     ],
-    "stargazers_count": 25540,
+    "stargazers_count": 25546,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6948,7 +6970,7 @@
       "dark-mode",
       "dark-theme"
     ],
-    "stargazers_count": 7661,
+    "stargazers_count": 7667,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -6969,7 +6991,7 @@
       "translators",
       "windows"
     ],
-    "stargazers_count": 1597,
+    "stargazers_count": 1599,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7010,7 +7032,7 @@
       "status",
       "vps"
     ],
-    "stargazers_count": 6004,
+    "stargazers_count": 6010,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7078,7 +7100,7 @@
       "vuejs",
       "websocket"
     ],
-    "stargazers_count": 71619,
+    "stargazers_count": 71634,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7094,7 +7116,7 @@
     "homepage": "",
     "language": "Shell",
     "topics": [],
-    "stargazers_count": 3529,
+    "stargazers_count": 3542,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7126,7 +7148,7 @@
     "homepage": "https://demo-wall.ityao.cn",
     "language": "Vue",
     "topics": [],
-    "stargazers_count": 163,
+    "stargazers_count": 166,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7155,7 +7177,7 @@
       "python",
       "wechat"
     ],
-    "stargazers_count": 4882,
+    "stargazers_count": 4883,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7180,7 +7202,7 @@
       "video-generators",
       "video-optimization"
     ],
-    "stargazers_count": 871,
+    "stargazers_count": 872,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7202,7 +7224,7 @@
       "mpv-script",
       "vapoursynth"
     ],
-    "stargazers_count": 5129,
+    "stargazers_count": 5134,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7223,7 +7245,7 @@
       "windows",
       "wpf"
     ],
-    "stargazers_count": 2683,
+    "stargazers_count": 2684,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7244,7 +7266,7 @@
       "processmanager",
       "suspend"
     ],
-    "stargazers_count": 1415,
+    "stargazers_count": 1417,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7292,7 +7314,7 @@
     "homepage": "https://nanmicoder.github.io/MediaCrawler/",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 22559,
+    "stargazers_count": 22585,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7314,7 +7336,7 @@
       "dishes",
       "recipes"
     ],
-    "stargazers_count": 84411,
+    "stargazers_count": 84518,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7368,7 +7390,7 @@
       "golang",
       "speedtest"
     ],
-    "stargazers_count": 21728,
+    "stargazers_count": 21733,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7396,7 +7418,7 @@
       "wangpan",
       "xdown"
     ],
-    "stargazers_count": 3711,
+    "stargazers_count": 3713,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7426,7 +7448,7 @@
       "unixporn",
       "windows"
     ],
-    "stargazers_count": 42175,
+    "stargazers_count": 42181,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7509,7 +7531,7 @@
       "home",
       "homepage"
     ],
-    "stargazers_count": 4072,
+    "stargazers_count": 4076,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7525,7 +7547,7 @@
     "homepage": "https://youtu.be/w6rRY4FDd58",
     "language": "JavaScript",
     "topics": [],
-    "stargazers_count": 5686,
+    "stargazers_count": 5694,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7547,7 +7569,7 @@
       "rust",
       "vpn"
     ],
-    "stargazers_count": 2067,
+    "stargazers_count": 2068,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7584,7 +7606,7 @@
     "homepage": null,
     "language": null,
     "topics": [],
-    "stargazers_count": 3511,
+    "stargazers_count": 3512,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7603,7 +7625,7 @@
       "telegram",
       "telegram-bot"
     ],
-    "stargazers_count": 387,
+    "stargazers_count": 390,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7623,7 +7645,7 @@
       "osint",
       "website"
     ],
-    "stargazers_count": 21280,
+    "stargazers_count": 21290,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7659,7 +7681,7 @@
       "vps-server",
       "xray"
     ],
-    "stargazers_count": 1033,
+    "stargazers_count": 1035,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7682,7 +7704,7 @@
       "neteasecloud",
       "nodejs"
     ],
-    "stargazers_count": 30334,
+    "stargazers_count": 30332,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7728,7 +7750,7 @@
       "productivity",
       "whiteboard"
     ],
-    "stargazers_count": 99613,
+    "stargazers_count": 99701,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7751,7 +7773,7 @@
       "vpn",
       "zerotier"
     ],
-    "stargazers_count": 4244,
+    "stargazers_count": 4261,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7767,7 +7789,7 @@
     "homepage": "",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 11054,
+    "stargazers_count": 11059,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7793,7 +7815,7 @@
       "ssl",
       "zerossl"
     ],
-    "stargazers_count": 7551,
+    "stargazers_count": 7555,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7822,7 +7844,7 @@
       "shell",
       "zerossl"
     ],
-    "stargazers_count": 42636,
+    "stargazers_count": 42651,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7840,7 +7862,7 @@
     "topics": [
       "proxypool"
     ],
-    "stargazers_count": 4209,
+    "stargazers_count": 4219,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7867,7 +7889,7 @@
       "vue",
       "vue3"
     ],
-    "stargazers_count": 4191,
+    "stargazers_count": 4200,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7883,7 +7905,7 @@
     "homepage": "",
     "language": "Shell",
     "topics": [],
-    "stargazers_count": 2963,
+    "stargazers_count": 2967,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7901,7 +7923,7 @@
     "topics": [
       "hacktoberfest"
     ],
-    "stargazers_count": 35530,
+    "stargazers_count": 35539,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -7952,7 +7974,7 @@
     "homepage": null,
     "language": "Java",
     "topics": [],
-    "stargazers_count": 320,
+    "stargazers_count": 321,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8008,7 +8030,7 @@
       "vercel",
       "zeabur"
     ],
-    "stargazers_count": 9364,
+    "stargazers_count": 9371,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8043,7 +8065,7 @@
       "chattts",
       "tts"
     ],
-    "stargazers_count": 7029,
+    "stargazers_count": 7031,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8082,7 +8104,7 @@
       "nodejs",
       "rss"
     ],
-    "stargazers_count": 399,
+    "stargazers_count": 400,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8114,7 +8136,7 @@
     "homepage": null,
     "language": "C++",
     "topics": [],
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8132,7 +8154,7 @@
     "topics": [
       "quicklook"
     ],
-    "stargazers_count": 19564,
+    "stargazers_count": 19571,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8148,7 +8170,7 @@
     "homepage": "",
     "language": "Go",
     "topics": [],
-    "stargazers_count": 12080,
+    "stargazers_count": 12090,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8191,7 +8213,7 @@
       "potplayer",
       "potplayer-extension"
     ],
-    "stargazers_count": 1827,
+    "stargazers_count": 1830,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8253,7 +8275,7 @@
       "windows-app-sdk",
       "winui3"
     ],
-    "stargazers_count": 4354,
+    "stargazers_count": 4362,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8276,7 +8298,7 @@
       "solidjs",
       "webdav"
     ],
-    "stargazers_count": 49253,
+    "stargazers_count": 49271,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8309,7 +8331,7 @@
       "tutorials",
       "web"
     ],
-    "stargazers_count": 37812,
+    "stargazers_count": 37841,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8346,7 +8368,7 @@
       "web",
       "www"
     ],
-    "stargazers_count": 38802,
+    "stargazers_count": 38812,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8375,7 +8397,7 @@
       "web-crawler",
       "webscraping"
     ],
-    "stargazers_count": 38140,
+    "stargazers_count": 38220,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8396,7 +8418,7 @@
       "icons",
       "readme-stats"
     ],
-    "stargazers_count": 9321,
+    "stargazers_count": 9334,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8448,7 +8470,7 @@
     "homepage": "https://www.b1ng.chat",
     "language": "HTML",
     "topics": [],
-    "stargazers_count": 4218,
+    "stargazers_count": 4215,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8490,7 +8512,7 @@
       "hulu",
       "netflix"
     ],
-    "stargazers_count": 273,
+    "stargazers_count": 274,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8538,7 +8560,7 @@
     "homepage": "",
     "language": "Go",
     "topics": [],
-    "stargazers_count": 224,
+    "stargazers_count": 226,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8554,7 +8576,7 @@
     "homepage": "https://sun0225sun.github.io/Awesome-Love-Code",
     "language": "JavaScript",
     "topics": [],
-    "stargazers_count": 3142,
+    "stargazers_count": 3144,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8577,7 +8599,7 @@
       "robot",
       "wechat"
     ],
-    "stargazers_count": 6270,
+    "stargazers_count": 6280,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8614,7 +8636,7 @@
       "wechat",
       "xinghuo"
     ],
-    "stargazers_count": 15240,
+    "stargazers_count": 15246,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8630,7 +8652,7 @@
     "homepage": "https://zyyo.cc",
     "language": "CSS",
     "topics": [],
-    "stargazers_count": 555,
+    "stargazers_count": 556,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8683,7 +8705,7 @@
       "web-crawlers",
       "web-scraping"
     ],
-    "stargazers_count": 19576,
+    "stargazers_count": 19597,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8719,7 +8741,7 @@
       "xiaohongshu",
       "zhihu"
     ],
-    "stargazers_count": 3075,
+    "stargazers_count": 3077,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8735,7 +8757,7 @@
     "homepage": "",
     "language": "PHP",
     "topics": [],
-    "stargazers_count": 9646,
+    "stargazers_count": 9647,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8755,7 +8777,7 @@
       "docker",
       "docker-compose"
     ],
-    "stargazers_count": 775,
+    "stargazers_count": 774,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8774,7 +8796,7 @@
       "chrome-extension",
       "firefox-addon"
     ],
-    "stargazers_count": 625,
+    "stargazers_count": 626,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8800,7 +8822,7 @@
       "ollama",
       "webmin"
     ],
-    "stargazers_count": 28445,
+    "stargazers_count": 28469,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8857,7 +8879,7 @@
     "homepage": "https://www.talebook.org",
     "language": "JavaScript",
     "topics": [],
-    "stargazers_count": 4509,
+    "stargazers_count": 4511,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8881,7 +8903,7 @@
       "live2d-web",
       "live2d-widget"
     ],
-    "stargazers_count": 420,
+    "stargazers_count": 422,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8908,7 +8930,7 @@
       "pentest-tool",
       "windows"
     ],
-    "stargazers_count": 12295,
+    "stargazers_count": 12308,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8937,7 +8959,7 @@
       "vue-admin",
       "vue3"
     ],
-    "stargazers_count": 12138,
+    "stargazers_count": 12149,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8973,7 +8995,7 @@
       "music",
       "php"
     ],
-    "stargazers_count": 1767,
+    "stargazers_count": 1768,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -8996,7 +9018,7 @@
       "react-native",
       "typescript"
     ],
-    "stargazers_count": 15617,
+    "stargazers_count": 15653,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9032,7 +9054,7 @@
       "tampermonkey",
       "userscript"
     ],
-    "stargazers_count": 25504,
+    "stargazers_count": 25514,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9109,7 +9131,7 @@
     "homepage": "https://zhaoolee.com/ChromeAppHeroes/",
     "language": "JavaScript",
     "topics": [],
-    "stargazers_count": 22306,
+    "stargazers_count": 22307,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9153,7 +9175,7 @@
       "vue",
       "vue3"
     ],
-    "stargazers_count": 10698,
+    "stargazers_count": 10699,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9169,7 +9191,7 @@
     "homepage": "https://innei.in",
     "language": "TypeScript",
     "topics": [],
-    "stargazers_count": 3814,
+    "stargazers_count": 3815,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9191,7 +9213,7 @@
       "sanity",
       "tailwindcss"
     ],
-    "stargazers_count": 1796,
+    "stargazers_count": 1798,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9218,7 +9240,7 @@
       "searxng",
       "searxng-copilot"
     ],
-    "stargazers_count": 21866,
+    "stargazers_count": 21896,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9234,7 +9256,7 @@
     "homepage": null,
     "language": null,
     "topics": [],
-    "stargazers_count": 12656,
+    "stargazers_count": 12662,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9261,7 +9283,7 @@
       "windows-taskbar",
       "wpf"
     ],
-    "stargazers_count": 11349,
+    "stargazers_count": 11362,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9322,7 +9344,7 @@
       "openai-api",
       "proxy"
     ],
-    "stargazers_count": 25221,
+    "stargazers_count": 25241,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9346,7 +9368,7 @@
       "wasm",
       "webassembly"
     ],
-    "stargazers_count": 10446,
+    "stargazers_count": 10452,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9368,7 +9390,7 @@
       "subtile",
       "vsr"
     ],
-    "stargazers_count": 6551,
+    "stargazers_count": 6574,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9388,7 +9410,7 @@
       "wechat",
       "wechat-video"
     ],
-    "stargazers_count": 2707,
+    "stargazers_count": 2713,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9469,7 +9491,7 @@
       "transcribe",
       "whisper"
     ],
-    "stargazers_count": 1121,
+    "stargazers_count": 1124,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9506,7 +9528,7 @@
       "kali",
       "security"
     ],
-    "stargazers_count": 1459,
+    "stargazers_count": 1460,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9541,7 +9563,7 @@
       "vpn-server",
       "vpn-service"
     ],
-    "stargazers_count": 5909,
+    "stargazers_count": 5916,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9588,7 +9610,7 @@
       "serverless",
       "typescript"
     ],
-    "stargazers_count": 1486,
+    "stargazers_count": 1488,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9610,7 +9632,7 @@
       "onebot",
       "onebot11"
     ],
-    "stargazers_count": 4634,
+    "stargazers_count": 4643,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9634,7 +9656,7 @@
       "shortvideo",
       "tiktok"
     ],
-    "stargazers_count": 32653,
+    "stargazers_count": 32999,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9650,7 +9672,7 @@
     "homepage": null,
     "language": "Jupyter Notebook",
     "topics": [],
-    "stargazers_count": 8359,
+    "stargazers_count": 8361,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9674,7 +9696,7 @@
       "root",
       "shizuku"
     ],
-    "stargazers_count": 3620,
+    "stargazers_count": 3624,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9694,7 +9716,7 @@
       "liteloaderqqnt",
       "qqnt"
     ],
-    "stargazers_count": 6701,
+    "stargazers_count": 6700,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9716,7 +9738,7 @@
       "tts",
       "voice-assistant"
     ],
-    "stargazers_count": 8508,
+    "stargazers_count": 8512,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9739,7 +9761,7 @@
       "xposed",
       "xposed-module"
     ],
-    "stargazers_count": 4966,
+    "stargazers_count": 4969,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9781,7 +9803,7 @@
       "generative-models",
       "image-manipulation"
     ],
-    "stargazers_count": 35911,
+    "stargazers_count": 35912,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9801,7 +9823,7 @@
       "vue3-typescript",
       "wechat"
     ],
-    "stargazers_count": 653,
+    "stargazers_count": 654,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9822,7 +9844,7 @@
       "survey-form",
       "survey-system"
     ],
-    "stargazers_count": 2792,
+    "stargazers_count": 2794,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9845,7 +9867,7 @@
       "sourcecode-analysis",
       "spring"
     ],
-    "stargazers_count": 22713,
+    "stargazers_count": 22716,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9903,7 +9925,7 @@
       "pentesting",
       "python"
     ],
-    "stargazers_count": 19368,
+    "stargazers_count": 19382,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9924,7 +9946,7 @@
       "video",
       "vip"
     ],
-    "stargazers_count": 4379,
+    "stargazers_count": 4384,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -9956,7 +9978,7 @@
     "homepage": "",
     "language": null,
     "topics": [],
-    "stargazers_count": 5031,
+    "stargazers_count": 5038,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10021,7 +10043,7 @@
       "stable-diffusion",
       "zits"
     ],
-    "stargazers_count": 21181,
+    "stargazers_count": 21197,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10040,7 +10062,7 @@
       "gameframework",
       "unity"
     ],
-    "stargazers_count": 1775,
+    "stargazers_count": 1779,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10076,7 +10098,7 @@
       "vercel",
       "webui"
     ],
-    "stargazers_count": 83327,
+    "stargazers_count": 83347,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10092,7 +10114,7 @@
     "homepage": "",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 2203,
+    "stargazers_count": 2208,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10114,7 +10136,7 @@
       "rust",
       "tauri"
     ],
-    "stargazers_count": 21882,
+    "stargazers_count": 21881,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10136,7 +10158,7 @@
       "wxdump",
       "wxexport"
     ],
-    "stargazers_count": 7669,
+    "stargazers_count": 7917,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10154,7 +10176,7 @@
     "topics": [
       "ai"
     ],
-    "stargazers_count": 21478,
+    "stargazers_count": 21483,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10186,7 +10208,7 @@
     "homepage": "https://screenshottocode.com",
     "language": "Python",
     "topics": [],
-    "stargazers_count": 69915,
+    "stargazers_count": 69930,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10248,7 +10270,7 @@
       "chatgpt-api",
       "language"
     ],
-    "stargazers_count": 124384,
+    "stargazers_count": 124459,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10299,7 +10321,7 @@
       "xss-attacks",
       "xss-detection"
     ],
-    "stargazers_count": 52434,
+    "stargazers_count": 52441,
     "ai_tag": {
       "group": "",
       "tags": null,
@@ -10337,7 +10359,7 @@
       "list",
       "resource"
     ],
-    "stargazers_count": 357220,
+    "stargazers_count": 357316,
     "ai_tag": {
       "group": "",
       "tags": null,
