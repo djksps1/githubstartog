@@ -188,7 +188,7 @@
 - **Description:** 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
 
 ### [browser-use/web-ui](https://github.com/browser-use/web-ui)
-- **Description:** Run AI Agent in your browser.
+- **Description:** 🖥️ Run AI Agent in your browser.
 
 ### [zhtyyx/ioe](https://github.com/zhtyyx/ioe)
 - **Description:** One-Stop Retail Inventory Solution
@@ -636,7 +636,7 @@
 ### [BBD-YZZ/week-passwd](https://github.com/BBD-YZZ/week-passwd)
 - **Description:** FTP,SSH,MYSQL,MSSQL等弱口令爆破工具！
 
-### [MoGuangYu/Surfing](https://github.com/MoGuangYu/Surfing)
+### [GitMetaio/Surfing](https://github.com/GitMetaio/Surfing)
 - **Description:** Magisk and KernelSU modules for  Clash/mihomo services.
 
 ### [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
