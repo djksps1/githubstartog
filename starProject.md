@@ -1,3 +1,5 @@
+### [TheFalloutOf76/CDP-bug-MouseEvent-.screenX-.screenY-patcher](https://github.com/TheFalloutOf76/CDP-bug-MouseEvent-.screenX-.screenY-patcher)
+
 ### [u14app/deep-research](https://github.com/u14app/deep-research)
 - **Description:** Use any LLMs (Large Language Models) for Deep Research.
 
