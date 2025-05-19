@@ -1,3 +1,6 @@
+### [Kylsky/pandora-helper-with-linux-do-oauth](https://github.com/Kylsky/pandora-helper-with-linux-do-oauth)
+- **Description:** 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目
+
 ### [TheFalloutOf76/CDP-bug-MouseEvent-.screenX-.screenY-patcher](https://github.com/TheFalloutOf76/CDP-bug-MouseEvent-.screenX-.screenY-patcher)
 
 ### [u14app/deep-research](https://github.com/u14app/deep-research)
