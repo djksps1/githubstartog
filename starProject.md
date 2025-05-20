@@ -4,7 +4,7 @@
 ### [TheFalloutOf76/CDP-bug-MouseEvent-.screenX-.screenY-patcher](https://github.com/TheFalloutOf76/CDP-bug-MouseEvent-.screenX-.screenY-patcher)
 
 ### [u14app/deep-research](https://github.com/u14app/deep-research)
-- **Description:** Use any LLMs (Large Language Models) for Deep Research.
+- **Description:** Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 
 ### [open-edge-platform/geti](https://github.com/open-edge-platform/geti)
 - **Description:** Build computer vision models in a fraction of the time and with less data.
@@ -105,7 +105,7 @@
 - **Description:** A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 ### [xming521/WeClone](https://github.com/xming521/WeClone)
-- **Description:** 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
+- **Description:** 🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  
 
 ### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
 - **Description:** 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
