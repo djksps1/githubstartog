@@ -1,3 +1,6 @@
+### [123xiao/Cloudflare-SQL-to-API](https://github.com/123xiao/Cloudflare-SQL-to-API)
+- **Description:** 这是一个基于 Cloudflare Workers 和 D1 数据库的应用，可以通过编写 SQL 查询快速创建 REST API 接口。
+
 ### [Kylsky/pandora-helper-with-linux-do-oauth](https://github.com/Kylsky/pandora-helper-with-linux-do-oauth)
 - **Description:** 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目
 
