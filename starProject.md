@@ -1,3 +1,5 @@
+### [mALIk-sHAHId/enhanced-cursor-vip-pro](https://github.com/mALIk-sHAHId/enhanced-cursor-vip-pro)
+
 ### [123xiao/Cloudflare-SQL-to-API](https://github.com/123xiao/Cloudflare-SQL-to-API)
 - **Description:** 这是一个基于 Cloudflare Workers 和 D1 数据库的应用，可以通过编写 SQL 查询快速创建 REST API 接口。
 
@@ -27,6 +29,7 @@
 - **Description:** xxxbot-PAD版本
 
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+- **Description:** Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 
 ### [HirotakaDango/HDBoard](https://github.com/HirotakaDango/HDBoard)
 - **Description:** 4chan clone in php and sqlite database with only a single file.
@@ -1364,9 +1367,6 @@
 
 ### [euphrat1ca/Security-List](https://github.com/euphrat1ca/Security-List)
 - **Description:** If you have any good suggestions or comments during the search process, please feedback some index experience in issues. Thank you for your participation.查阅过程中，如果有什么好的意见或建议，请在Issues反馈，感谢您的参与。
-
-### [barry-far/V2ray-Configs](https://github.com/barry-far/V2ray-Configs)
-- **Description:** 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
 
 ### [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
 - **Description:** 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、探索版、K1思考模型、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
