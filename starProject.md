@@ -1,3 +1,12 @@
+### [tlanyan/tg-antispam](https://github.com/tlanyan/tg-antispam)
+- **Description:** Telegram 防止垃圾用户（主要是 Premium 用户）的 bot
+
+### [diandian18/react-antd-console](https://github.com/diandian18/react-antd-console)
+- **Description:** Customizable admin dashboard template based on React 19 and Ant Design 5
+
+### [xlm2002/Auto-Brute-Force-Tool](https://github.com/xlm2002/Auto-Brute-Force-Tool)
+- **Description:** 基于GO，Python编写的混合爆破脚本  支持XUI面板爆破  哪吒面板爆破  HUI面板爆破 咸蛋面板爆破  SUI面板爆破 SSH爆破  Sub Store爆破 OpenWrt/iStoreOS爆破
+
 ### [mALIk-sHAHId/enhanced-cursor-vip-pro](https://github.com/mALIk-sHAHId/enhanced-cursor-vip-pro)
 
 ### [123xiao/Cloudflare-SQL-to-API](https://github.com/123xiao/Cloudflare-SQL-to-API)
@@ -80,7 +89,7 @@
 ### [lonelam/subconverter-rs](https://github.com/lonelam/subconverter-rs)
 - **Description:** 一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
 
-### [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search)
+### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
 - **Description:** 🔍  一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
 
 ### [PrintNow/LLM-Compare](https://github.com/PrintNow/LLM-Compare)
@@ -565,7 +574,7 @@
 - **Description:** A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.
 
 ### [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root)
-- **Description:** A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
+- **Description:** ⚡ Supercharge your Android! Your go-to awesome list for top root apps, Magisk & LSPosed modules, essential tools & guides for enhanced control and ultimate device customization.
 
 ### [ccbikai/Sink](https://github.com/ccbikai/Sink)
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
@@ -661,9 +670,6 @@
 
 ### [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController)
 - **Description:** 一个Emby管理网站
-
-### [diandian18/react-antd-console](https://github.com/diandian18/react-antd-console)
-- **Description:** Customizable admin dashboard template based on React 19 and Ant Design 5
 
 ### [zhongyang219/WindowResizer](https://github.com/zhongyang219/WindowResizer)
 - **Description:** 这是一个用于调整窗口大小的软件，这对于那些无法调整大小的窗口尤其有用。
