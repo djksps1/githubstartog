@@ -1,3 +1,6 @@
+### [timerring/daily-actions](https://github.com/timerring/daily-actions)
+- **Description:** 基于 Actions 的 Nodeseek V2EX 一亩三分地 自动签到 (Daily check in the nodeseek and V2EX 1point3acres)
+
 ### [tlanyan/tg-antispam](https://github.com/tlanyan/tg-antispam)
 - **Description:** Telegram 防止垃圾用户（主要是 Premium 用户）的 bot
 
