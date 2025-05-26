@@ -1,3 +1,8 @@
+### [shiyi11yi/Sub-Hub](https://github.com/shiyi11yi/Sub-Hub)
+
+### [aurora-develop/aurora](https://github.com/aurora-develop/aurora)
+- **Description:** free
+
 ### [timerring/daily-actions](https://github.com/timerring/daily-actions)
 - **Description:** 基于 Actions 的 Nodeseek V2EX 一亩三分地 自动签到 (Daily check in the nodeseek and V2EX 1point3acres)
 
@@ -6,9 +11,6 @@
 
 ### [diandian18/react-antd-console](https://github.com/diandian18/react-antd-console)
 - **Description:** Customizable admin dashboard template based on React 19 and Ant Design 5
-
-### [xlm2002/Auto-Brute-Force-Tool](https://github.com/xlm2002/Auto-Brute-Force-Tool)
-- **Description:** 基于GO，Python编写的混合爆破脚本  支持XUI面板爆破  哪吒面板爆破  HUI面板爆破 咸蛋面板爆破  SUI面板爆破 SSH爆破  Sub Store爆破 OpenWrt/iStoreOS爆破
 
 ### [mALIk-sHAHId/enhanced-cursor-vip-pro](https://github.com/mALIk-sHAHId/enhanced-cursor-vip-pro)
 
