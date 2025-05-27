@@ -1,3 +1,12 @@
+### [yamadashy/repomix](https://github.com/yamadashy/repomix)
+- **Description:** 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+
+### [cmliu/CF-Workers-CheckSocks5](https://github.com/cmliu/CF-Workers-CheckSocks5)
+- **Description:** 一个基于 Cloudflare Workers 的高性能代理检测服务，支持 SOCKS5 和 HTTP 代理的连通性测试和 IP 信息查询。
+
+### [pavlobu/deskreen](https://github.com/pavlobu/deskreen)
+- **Description:** Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
+
 ### [shiyi11yi/Sub-Hub](https://github.com/shiyi11yi/Sub-Hub)
 
 ### [aurora-develop/aurora](https://github.com/aurora-develop/aurora)
@@ -928,7 +937,7 @@
 - **Description:** linux.do Daily Check-In. 每日签到，每日打卡
 
 ### [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-- **Description:** 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+- **Description:** 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 
 ### [miloira/wxhook](https://github.com/miloira/wxhook)
 - **Description:** 一个简单，好用，接口多的python微信机器人框架
