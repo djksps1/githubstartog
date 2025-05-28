@@ -1,3 +1,6 @@
+### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
+- **Description:** 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
+
 ### [yamadashy/repomix](https://github.com/yamadashy/repomix)
 - **Description:** 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
@@ -12,8 +15,8 @@
 ### [aurora-develop/aurora](https://github.com/aurora-develop/aurora)
 - **Description:** free
 
-### [timerring/daily-actions](https://github.com/timerring/daily-actions)
-- **Description:** 基于 Actions 的 Nodeseek V2EX 一亩三分地 自动签到 (Daily check in the nodeseek and V2EX 1point3acres)
+### [timerring/cloudcheckin](https://github.com/timerring/cloudcheckin)
+- **Description:** 基于 CI/CD 的 Nodeseek V2EX 一亩三分地 自动签到 (Daily check in the nodeseek and V2EX 1point3acres)
 
 ### [tlanyan/tg-antispam](https://github.com/tlanyan/tg-antispam)
 - **Description:** Telegram 防止垃圾用户（主要是 Premium 用户）的 bot
@@ -98,13 +101,13 @@
 ### [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
 
 ### [beck-8/subs-check](https://github.com/beck-8/subs-check)
-- **Description:** 订阅转换合并，节点可用性，测速，重命名，导出为clash.meta/clash/base64/qx等等所有格式的订阅工具
+- **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为clash.meta/clash/base64/qx等等所有格式的工具
 
 ### [lonelam/subconverter-rs](https://github.com/lonelam/subconverter-rs)
 - **Description:** 一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
 
 ### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
-- **Description:** 🔍  一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
+- **Description:** 🔍  A powerful Telegram chat history search client that supports chat history backup and vector search.
 
 ### [PrintNow/LLM-Compare](https://github.com/PrintNow/LLM-Compare)
 - **Description:** LLM 对比测试平台，支持多个模型同屏同时响应回答，方便测试模型区别
@@ -136,9 +139,6 @@
 ### [xming521/WeClone](https://github.com/xming521/WeClone)
 - **Description:** 🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  
 
-### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
-- **Description:** 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
-
 ### [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)
 - **Description:** AI 视频笔记生成工具 让 AI 为你的视频做笔记
 
@@ -151,7 +151,7 @@
 ### [Warma10032/VideoAdGuard](https://github.com/Warma10032/VideoAdGuard)
 - **Description:** 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 
-### [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)
+### [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio)
 - **Description:**  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 
 ### [t0saki/xAI-Image-Gen-API-Refine](https://github.com/t0saki/xAI-Image-Gen-API-Refine)
@@ -253,7 +253,7 @@
 ### [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
 - **Description:** Web extension to set a default speed for video and audio 
 
-### [maplelost/lazyeat](https://github.com/maplelost/lazyeat)
+### [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat)
 - **Description:** Lazyeat 吃饭时看剧/刷网页不想沾油手？  对着摄像头比划手势就能暂停视频/全屏/切换视频！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
 
 ### [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena)
@@ -594,7 +594,7 @@
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 
 ### [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
-- **Description:** 属于大学生群体的真·青年大学习
+- **Description:** 高等教育学社基础知识开源建设工程｜青年大学习
 
 ### [Mran/githubstartog](https://github.com/Mran/githubstartog)
 - **Description:** 将你的星标项目做成前端页面
