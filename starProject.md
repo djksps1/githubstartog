@@ -1,3 +1,6 @@
+### [rzc0d3r/ESET-KeyGen](https://github.com/rzc0d3r/ESET-KeyGen)
+- **Description:** ESET-KeyGen - Trial-Key & Account generator for ESET Products
+
 ### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
 - **Description:** 保存 Telegram 文件到各类存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
 
@@ -15,7 +18,7 @@
 ### [aurora-develop/aurora](https://github.com/aurora-develop/aurora)
 - **Description:** free
 
-### [timerring/cloudcheckin](https://github.com/timerring/cloudcheckin)
+### [timerring/CloudCheckin](https://github.com/timerring/CloudCheckin)
 - **Description:** 基于 CI/CD 的 Nodeseek V2EX 一亩三分地 自动签到 (Daily check in the nodeseek and V2EX 1point3acres)
 
 ### [tlanyan/tg-antispam](https://github.com/tlanyan/tg-antispam)
@@ -107,7 +110,7 @@
 - **Description:** 一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
 
 ### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
-- **Description:** 🔍  A powerful Telegram chat history search client that supports chat history backup and vector search.
+- **Description:** 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
 
 ### [PrintNow/LLM-Compare](https://github.com/PrintNow/LLM-Compare)
 - **Description:** LLM 对比测试平台，支持多个模型同屏同时响应回答，方便测试模型区别
@@ -506,7 +509,7 @@
 - **Description:** 把telegram导出的jpg/jpeg/png静态表情图片转换成微信能够导入的.gif文件
 
 ### [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)
-- **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+- **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 
 ### [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 - **Description:** 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
