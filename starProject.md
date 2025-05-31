@@ -167,7 +167,7 @@
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
 
 ### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-- **Description:** ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+- **Description:** ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。 WebUI。
 
 ### [ses4255/Versatile-OCR-Program](https://github.com/ses4255/Versatile-OCR-Program)
 - **Description:** Multi-modal OCR pipeline optimized for ML training (text, figure, math, tables, diagrams)
