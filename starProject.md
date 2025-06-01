@@ -19,7 +19,7 @@
 - **Description:** free
 
 ### [timerring/CloudCheckin](https://github.com/timerring/CloudCheckin)
-- **Description:** 基于 CI/CD 的 Nodeseek V2EX 一亩三分地 自动签到 (Daily check in the nodeseek and V2EX 1point3acres)
+- **Description:** 基于 CI/CD 以及 Cloudflare Workers  的 Nodeseek V2EX 一亩三分地 自动签到及答题 (Daily check in the nodeseek and V2EX 1point3acres)
 
 ### [tlanyan/tg-antispam](https://github.com/tlanyan/tg-antispam)
 - **Description:** Telegram 防止垃圾用户（主要是 Premium 用户）的 bot
@@ -53,9 +53,6 @@
 
 ### [jehna/humanify](https://github.com/jehna/humanify)
 - **Description:** Deobfuscate Javascript code using ChatGPT
-
-### [NanSsye/xxxbot-pad](https://github.com/NanSsye/xxxbot-pad)
-- **Description:** xxxbot-PAD版本
 
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - **Description:** Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
@@ -110,7 +107,7 @@
 - **Description:** 一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
 
 ### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
-- **Description:** 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
+- **Description:** 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.
 
 ### [PrintNow/LLM-Compare](https://github.com/PrintNow/LLM-Compare)
 - **Description:** LLM 对比测试平台，支持多个模型同屏同时响应回答，方便测试模型区别
@@ -596,7 +593,7 @@
 ### [ccbikai/Sink](https://github.com/ccbikai/Sink)
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 
-### [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
+### [Ac-Wiki/Ac-WiKi](https://github.com/Ac-Wiki/Ac-WiKi)
 - **Description:** 高等教育学社基础知识开源建设工程｜青年大学习
 
 ### [Mran/githubstartog](https://github.com/Mran/githubstartog)
