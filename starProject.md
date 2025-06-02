@@ -593,7 +593,7 @@
 ### [ccbikai/Sink](https://github.com/ccbikai/Sink)
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 
-### [Ac-Wiki/Ac-WiKi](https://github.com/Ac-Wiki/Ac-WiKi)
+### [Ac-Wiki/Ac-Wiki](https://github.com/Ac-Wiki/Ac-Wiki)
 - **Description:** 高等教育学社基础知识开源建设工程｜青年大学习
 
 ### [Mran/githubstartog](https://github.com/Mran/githubstartog)
