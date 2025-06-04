@@ -137,7 +137,7 @@
 - **Description:** A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 ### [xming521/WeClone](https://github.com/xming521/WeClone)
-- **Description:** 🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  
+- **Description:** 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  
 
 ### [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)
 - **Description:** AI 视频笔记生成工具 让 AI 为你的视频做笔记
@@ -1204,6 +1204,9 @@
 
 ### [shadow1ng/fscan](https://github.com/shadow1ng/fscan)
 - **Description:** 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+
+### [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+- **Description:** :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
 ### [speauty/anto](https://github.com/speauty/anto)
 - **Description:** 字幕文件(srt)翻译工具，Windows专用
