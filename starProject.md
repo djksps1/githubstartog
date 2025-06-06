@@ -1,3 +1,9 @@
+### [fengzhizi715/Monica](https://github.com/fengzhizi715/Monica)
+- **Description:** Monica 是一款跨平台的桌面图片编辑软件，使用 Kotlin Compose Desktop 作为 UI 框架。部分算法使用 Kotlin 实现，其余的算法使用 OpenCV 、 深度学习来实现。
+
+### [Rico00121/decktap](https://github.com/Rico00121/decktap)
+- **Description:** A lightweight local-network presentation remote. Control your slides wirelessly from your phone.
+
 ### [rzc0d3r/ESET-KeyGen](https://github.com/rzc0d3r/ESET-KeyGen)
 - **Description:** ESET-KeyGen - Trial-Key & Account generator for ESET Products
 
@@ -588,7 +594,7 @@
 - **Description:** A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.
 
 ### [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root)
-- **Description:** ⚡ Supercharge your Android! Your go-to awesome list for top root apps, Magisk & LSPosed modules, essential tools & guides for enhanced control and ultimate device customization.
+- **Description:** Explore the ultimate curated list of best root apps,powerful Magisk & LSPosed modules, must-have tools and step-by-step guides — all designed to maximize control, boost performance, and customize your device like never before
 
 ### [ccbikai/Sink](https://github.com/ccbikai/Sink)
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
@@ -722,7 +728,7 @@
 - **Description:** 各种无后门大马的整理，有用就点个Star吧~
 
 ### [caol64/wenyan](https://github.com/caol64/wenyan)
-- **Description:** Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
+- **Description:** 文颜- Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
 
 ### [power721/alist-tvbox](https://github.com/power721/alist-tvbox)
 - **Description:** AList proxy server for TvBox, support playlist and search. 
