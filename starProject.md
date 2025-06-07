@@ -1,3 +1,9 @@
+### [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
+- **Description:** Proxy server to bypass Cloudflare protection
+
+### [friend-nicen/wepush](https://github.com/friend-nicen/wepush)
+- **Description:** WePush 是一个通过模拟人工点击PC微信实现的微信消息推送机器人，具有安全稳定、零封号风险的特点。
+
 ### [fengzhizi715/Monica](https://github.com/fengzhizi715/Monica)
 - **Description:** Monica 是一款跨平台的桌面图片编辑软件，使用 Kotlin Compose Desktop 作为 UI 框架。部分算法使用 Kotlin 实现，其余的算法使用 OpenCV 、 深度学习来实现。
 
