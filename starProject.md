@@ -1,3 +1,6 @@
+### [zhaochengcube/telegram-msg-forwarder](https://github.com/zhaochengcube/telegram-msg-forwarder)
+- **Description:** 一个功能强大的Telegram机器人，能够转发指定链接的消息，支持随机消息获取和批量消息管理。
+
 ### [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
 - **Description:** Proxy server to bypass Cloudflare protection
 
@@ -91,7 +94,7 @@
 - **Description:** fantastic thing
 
 ### [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
-- **Description:** 一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API 支持参数转发设置，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，周更
+- **Description:** 一个基于 Python + FastAPI + Playwright + Camoufox 的中间层代理服务器，兼容 OpenAI API 支持参数转发设置和toolcall等，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，随缘更新
 
 ### [fish2018/ClashForge](https://github.com/fish2018/ClashForge)
 - **Description:** 代理节点全自动采集、聚合、去重、批量检测、移除失效节点，按延迟/下载速度排序，一键生成clash、singbox永久订阅链接，支持mac、linux、windows、docker，支持WebUI操作 
@@ -266,7 +269,7 @@
 - **Description:** Web extension to set a default speed for video and audio 
 
 ### [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat)
-- **Description:** Lazyeat 吃饭时看剧/刷网页不想沾油手？  对着摄像头比划手势就能暂停视频/全屏/切换视频！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
+- **Description:** Lazyeat｜手势隔空操控视频，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
 
 ### [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena)
 - **Description:** LLM Arena by KCORES team
@@ -1052,7 +1055,7 @@
 ### [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box)
 - **Description:** ServerBox - server status & toolbox
 
-### [xwy-morax/FreeClaude35Assistant](https://github.com/xwy-morax/FreeClaude35Assistant)
+### [PhantasmAI/FreeClaude35Assistant](https://github.com/PhantasmAI/FreeClaude35Assistant)
 
 ### [ychappyman/SSHTGBot](https://github.com/ychappyman/SSHTGBot)
 
