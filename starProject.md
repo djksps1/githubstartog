@@ -17,7 +17,7 @@
 - **Description:** ESET-KeyGen - Trial-Key & Account generator for ESET Products
 
 ### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
-- **Description:** 保存 Telegram 文件到多种存储空间 📂 (Alist、本地磁盘、Webdav, Minio...)  , 支持破解禁止保存的频道
+- **Description:** Save Telegram files to multiple storage 📂 (Alist, disk, Webdav, Minio...) . Support restrict saving content.
 
 ### [yamadashy/repomix](https://github.com/yamadashy/repomix)
 - **Description:** 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
@@ -269,7 +269,7 @@
 - **Description:** Web extension to set a default speed for video and audio 
 
 ### [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat)
-- **Description:** Lazyeat｜手势隔空操控视频，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
+- **Description:** Lazyeat｜手势隔空操控，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
 
 ### [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena)
 - **Description:** LLM Arena by KCORES team
@@ -602,7 +602,7 @@
 ### [hekmon8/Homeassistant-server-mcp](https://github.com/hekmon8/Homeassistant-server-mcp)
 - **Description:** A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.
 
-### [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root)
+### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
 - **Description:** Explore the ultimate curated list of best root apps,powerful Magisk & LSPosed modules, must-have tools and step-by-step guides — all designed to maximize control, boost performance, and customize your device like never before
 
 ### [ccbikai/Sink](https://github.com/ccbikai/Sink)
