@@ -1,3 +1,12 @@
+### [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker)
+- **Description:** 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
+
+### [Xposed-Modules-Repo/top.hookvip.pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro)
+- **Description:** NewHookVip
+
+### [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)
+- **Description:** 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
+
 ### [zhaochengcube/telegram-msg-forwarder](https://github.com/zhaochengcube/telegram-msg-forwarder)
 - **Description:** 一个功能强大的Telegram机器人，能够转发指定链接的消息，支持随机消息获取和批量消息管理。
 
@@ -57,9 +66,6 @@
 
 ### [open-edge-platform/geti](https://github.com/open-edge-platform/geti)
 - **Description:** Build computer vision models in a fraction of the time and with less data.
-
-### [find-xposed-magisk/cloudflare_temp_email](https://github.com/find-xposed-magisk/cloudflare_temp_email)
-- **Description:** CloudFlare free temp domain email 免费 临时 域名邮箱
 
 ### [bohesocool/you2api](https://github.com/bohesocool/you2api)
 
@@ -1309,9 +1315,6 @@
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
 - **Description:** 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
-
-### [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)
-- **Description:** 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
 
 ### [JumpAlang/Jusic-serve](https://github.com/JumpAlang/Jusic-serve)
 - **Description:** 一起听歌吧（同步点歌听歌）,多房间版本也已开源
