@@ -647,7 +647,7 @@
 - **Description:** 小米坡word文档转视频生成工具，是一款基于windows平台下使用的word文档转视频工具。可以把word文档的图片转成视频、提取文档里边的文字转成配音、并生成字幕同步在视频上展示，支持加背景音乐。最终形成一个有配音、画面、字幕、背景音乐的完整视频。
 
 ### [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow)
-- **Description:** minimalist colorful weather app
+- **Description:** modern material design weather app
 
 ### [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
 - **Description:** OpenBullet reinvented
