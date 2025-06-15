@@ -1,3 +1,6 @@
+### [ilikeeu/spassword](https://github.com/ilikeeu/spassword)
+- **Description:** 密码管理器 Pro 是一个基于 Cloudflare Workers 的现代化密码管理解决方案，提供安全的密码存储、智能自动填充、云备份同步等功能。spassword
+
 ### [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker)
 - **Description:** 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 
@@ -26,7 +29,7 @@
 - **Description:** ESET-KeyGen - Trial-Key & Account generator for ESET Products
 
 ### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
-- **Description:** Save Telegram files to multiple storage 📂 (Alist, disk, Webdav, Minio...) . Support restrict saving content.
+- **Description:** Save Telegram files to multiple storage 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content.
 
 ### [yamadashy/repomix](https://github.com/yamadashy/repomix)
 - **Description:** 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
@@ -878,7 +881,7 @@
 - **Description:** Paper_Copilot 是一款基于向量索引和大模型的高级文献分析命令行工具，旨在帮助学术研究人员高效管理、检索和分析海量文献。通过本地自建知识库并与大模型的交互，它能够为用户提供专业且精准的解答，显著提升文献研究的效率与准确性。
 
 ### [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
-- **Description:** 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+- **Description:** 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 
 ### [RunningFelix/openai-api-tester](https://github.com/RunningFelix/openai-api-tester)
 - **Description:** 一个测试OpenAI格式API的可用性的工具（A tool to test the availability of OpenAI's formatted API.）
