@@ -1,3 +1,9 @@
+### [beck-8/subs-check](https://github.com/beck-8/subs-check)
+- **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为clash.meta/clash/base64/qx等等所有格式的工具
+
+### [ffflyZzz/cursor-client2login](https://github.com/ffflyZzz/cursor-client2login)
+- **Description:** 一个Chrome浏览器插件，用于读取本地Cursor认证信息，管理web端Cursor认证信息和Web端多账户快速切换
+
 ### [ilikeeu/spassword](https://github.com/ilikeeu/spassword)
 - **Description:** 密码管理器 Pro 是一个基于 Cloudflare Workers 的现代化密码管理解决方案，提供安全的密码存储、智能自动填充、云备份同步等功能。spassword
 
@@ -70,6 +76,9 @@
 ### [open-edge-platform/geti](https://github.com/open-edge-platform/geti)
 - **Description:** Build computer vision models in a fraction of the time and with less data.
 
+### [find-xposed-magisk/cloudflare_temp_email](https://github.com/find-xposed-magisk/cloudflare_temp_email)
+- **Description:** CloudFlare free temp domain email 免费 临时 域名邮箱
+
 ### [bohesocool/you2api](https://github.com/bohesocool/you2api)
 
 ### [star7th/coolmonitor](https://github.com/star7th/coolmonitor)
@@ -123,9 +132,6 @@
 - **Description:** 法克劳德，啥也不是。
 
 ### [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
-
-### [beck-8/subs-check](https://github.com/beck-8/subs-check)
-- **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为clash.meta/clash/base64/qx等等所有格式的工具
 
 ### [lonelam/subconverter-rs](https://github.com/lonelam/subconverter-rs)
 - **Description:** 一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
@@ -817,7 +823,7 @@
 - **Description:** 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.新增页面右下角导航；2.通过调用 JavaScript 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91porn/hitomi/紳士漫畫/禁漫天堂/等视频&ACG&小说&漫画网站上的弹窗广告&视频广告&Gif图片广告等，保持网页清爽干净无打扰！ P.S. 欢迎提交issue
 
 ### [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
-- **Description:** Open-source file hosting solution based on CloudFlare Pages (Image hosting/File storage/Cloud drive) / 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
+- **Description:** Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
 
 ### [basecamp/omakub](https://github.com/basecamp/omakub)
 - **Description:** Opinionated Ubuntu Setup
@@ -1318,6 +1324,9 @@
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
 - **Description:** 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+
+### [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)
+- **Description:** 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
 
 ### [JumpAlang/Jusic-serve](https://github.com/JumpAlang/Jusic-serve)
 - **Description:** 一起听歌吧（同步点歌听歌）,多房间版本也已开源
