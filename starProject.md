@@ -368,9 +368,6 @@
 ### [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer)
 - **Description:** 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
 
-### [MiHaKun/Telegram-interactive-bot](https://github.com/MiHaKun/Telegram-interactive-bot)
-- **Description:** Telegram(电报/纸飞机)的开源双向机器人（客服机器人？）。避免垃圾信息；让被限制的客户可以顺利联系到你；支持后台分组，算是一个简易的CRM系统。Open-source interactive bot on Telegram. Avoid spam messages; allow restricted customers to contact you smoothly.Simple CRM system.
-
 ### [nicekate/mistral-ocr](https://github.com/nicekate/mistral-ocr)
 
 ### [nusduck/MistralOcrBot](https://github.com/nusduck/MistralOcrBot)
