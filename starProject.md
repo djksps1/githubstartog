@@ -1,3 +1,6 @@
+### [friend-nicen/wepush](https://github.com/friend-nicen/wepush)
+- **Description:** WePush 是一个通过模拟人工点击PC微信实现的微信消息推送机器人，具有安全稳定、零封号风险的特点。
+
 ### [beck-8/subs-check](https://github.com/beck-8/subs-check)
 - **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为clash.meta/clash/base64/qx等等所有格式的工具
 
@@ -21,9 +24,6 @@
 
 ### [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
 - **Description:** Proxy server to bypass Cloudflare protection
-
-### [friend-nicen/wepush](https://github.com/friend-nicen/wepush)
-- **Description:** WePush 是一个通过模拟人工点击PC微信实现的微信消息推送机器人，具有安全稳定、零封号风险的特点。
 
 ### [fengzhizi715/Monica](https://github.com/fengzhizi715/Monica)
 - **Description:** Monica 是一款跨平台的桌面图片编辑软件，使用 Kotlin Compose Desktop 作为 UI 框架。部分算法使用 Kotlin 实现，其余的算法使用 OpenCV 、 深度学习来实现。
@@ -284,7 +284,7 @@
 - **Description:** Web extension to set a default speed for video and audio 
 
 ### [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat)
-- **Description:** Lazyeat｜手势隔空操控，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
+- **Description:** Lazyeat｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
 
 ### [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena)
 - **Description:** LLM Arena by KCORES team
@@ -964,7 +964,7 @@
 - **Description:** linux.do Daily Check-In. 每日签到，每日打卡
 
 ### [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-- **Description:** 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+- **Description:** 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modal (Plugins / Artifacts / MCP) and thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 
 ### [miloira/wxhook](https://github.com/miloira/wxhook)
 - **Description:** 一个简单，好用，接口多的python微信机器人框架
