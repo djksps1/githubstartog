@@ -561,7 +561,7 @@
 
 ### [xchenya/linux.do](https://github.com/xchenya/linux.do)
 
-### [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts)
+### [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts)
 - **Description:** LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
 
 ### [Kamikadze4GAME/cloudflare-bypasser](https://github.com/Kamikadze4GAME/cloudflare-bypasser)
@@ -1090,7 +1090,7 @@
 - **Description:** Tailor是一款视频智能裁剪、视频生成和视频优化的视频剪辑工具。目前的目标是通过人工智能技术减少视频剪辑的繁琐操作，让普通人也能简单实现专业剪辑人的水准！长远目标是让视频剪辑实现真正的AIGC！
 
 ### [hooke007/MPV_lazy](https://github.com/hooke007/MPV_lazy)
-- **Description:** 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config
+- **Description:** 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 汉化文档 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config ； 着色器 shader 滤镜 filter 整合方案
 
 ### [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager)
 - **Description:** 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
