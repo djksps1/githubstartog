@@ -1,3 +1,10 @@
+### [imzyb/MiSub](https://github.com/imzyb/MiSub)
+
+### [MiaoMagic/miaospeed](https://github.com/MiaoMagic/miaospeed)
+- **Description:** Yet another server for universal connectivity debugging.
+
+### [cpploveme/MSPing](https://github.com/cpploveme/MSPing)
+
 ### [friend-nicen/wepush](https://github.com/friend-nicen/wepush)
 - **Description:** WePush 是一个通过模拟人工点击PC微信实现的微信消息推送机器人，具有安全稳定、零封号风险的特点。
 
@@ -688,6 +695,7 @@
 - **Description:** 基于LQ的chat2api项目，搭建一个共享站，方便给自己的小伙伴们使用
 
 ### [himanshupapola/sk_based_checker](https://github.com/himanshupapola/sk_based_checker)
+- **Description:** PHP Based Checker, For education and testing purpose only
 
 ### [yangtb2024/OneTimeMessagePHP](https://github.com/yangtb2024/OneTimeMessagePHP)
 
@@ -831,7 +839,7 @@
 ### [10miaomiao/bili-down-out](https://github.com/10miaomiao/bili-down-out)
 - **Description:** 哔哩哔哩缓存导出工具
 
-### [usual2970/certimate](https://github.com/usual2970/certimate)
+### [certimate-go/certimate](https://github.com/certimate-go/certimate)
 - **Description:** 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 
 ### [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)
