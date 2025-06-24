@@ -1,3 +1,6 @@
+### [jiangnan1224/AddressGenerator](https://github.com/jiangnan1224/AddressGenerator)
+- **Description:** 地址生成器
+
 ### [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker)
 - **Description:** 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 
@@ -463,7 +466,7 @@
 - **Description:** A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 
 ### [dromara/yft-design](https://github.com/dromara/yft-design)
-- **Description:** 基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。A beautiful and powerful online design tool
+- **Description:** yft-design is a powerful, visually stunning online design tool built with Vue3, fabric.js, and Element Plus. 基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。
 
 ### [maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat)
 - **Description:** AI机器人群聊
@@ -568,7 +571,7 @@
 
 ### [xchenya/linux.do](https://github.com/xchenya/linux.do)
 
-### [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts)
+### [ezyshu/linuxdo-scripts](https://github.com/ezyshu/linuxdo-scripts)
 - **Description:** LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
 
 ### [Kamikadze4GAME/cloudflare-bypasser](https://github.com/Kamikadze4GAME/cloudflare-bypasser)
@@ -846,7 +849,7 @@
 - **Description:** Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
 
 ### [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-- **Description:** A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- **Description:** A community-supported supercharged document management system: scan, index and archive all your documents
 
 ### [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
 - **Description:** Elegant reading of real-time and hottest news
