@@ -1,3 +1,9 @@
+### [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie)
+- **Description:** A browser extension that syncs and manages your cookies to your cloudflare
+
+### [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react)
+- **Description:** Apple's Liquid Glass effect for React
+
 ### [jiangnan1224/AddressGenerator](https://github.com/jiangnan1224/AddressGenerator)
 - **Description:** 地址生成器
 
