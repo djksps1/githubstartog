@@ -11,6 +11,7 @@
 - **Description:** 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 
 ### [imzyb/MiSub](https://github.com/imzyb/MiSub)
+- **Description:** 测试站，密码admin
 
 ### [MiaoMagic/miaospeed](https://github.com/MiaoMagic/miaospeed)
 - **Description:** Yet another server for universal connectivity debugging.
@@ -21,7 +22,7 @@
 - **Description:** WePush 是一个通过模拟人工点击PC微信实现的微信消息推送机器人，具有安全稳定、零封号风险的特点。
 
 ### [beck-8/subs-check](https://github.com/beck-8/subs-check)
-- **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为clash.meta/clash/base64/qx等等所有格式的工具
+- **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
 
 ### [ffflyZzz/cursor-client2login](https://github.com/ffflyZzz/cursor-client2login)
 - **Description:** 一个Chrome浏览器插件，用于读取本地Cursor认证信息，管理web端Cursor认证信息和Web端多账户快速切换
@@ -495,7 +496,7 @@
 - **Description:** 喵哥stripe 付款自动检查bin 结账工具
 
 ### [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-- **Description:** The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
+- **Description:** Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 
 ### [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor)
 - **Description:** telegram群消息监测与定时发送消息和邮件通知
