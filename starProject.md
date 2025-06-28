@@ -1,3 +1,8 @@
+### [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- **Description:** :link: Some useful websites for programmers.
+
+### [Veloera/Veloera](https://github.com/Veloera/Veloera)
+
 ### [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie)
 - **Description:** A browser extension that syncs and manages your cookies to your cloudflare
 
@@ -1356,7 +1361,7 @@
 - **Description:** Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 
 ### [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin)
-- **Description:** A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
+- **Description:** A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
 ### [nineya/halo-theme-dream2.0](https://github.com/nineya/halo-theme-dream2.0)
 - **Description:** 适配halo2.x的dream主题
@@ -1496,7 +1501,7 @@
 - **Description:** 百度网盘分享链接分析渲染列表辅助下载开源程序
 
 ### [NianBroken/ZFCheckScores](https://github.com/NianBroken/ZFCheckScores)
-- **Description:** 正方教务管理系统每隔 30 分钟自动检测一次成绩是否有更新，若有更新，将通过微信推送及时通知用户。| 正方教务系统 | 成绩推送 | 显示成绩提交时间 | 显示成绩提交人姓名 | 成绩信息按时间降序排序 | 计算 GPA | 计算百分制 GPA | 显示未公布成绩的课程
+- **Description:** 正方教务管理系统每隔 30 分钟自动检测一次成绩是否有更新，若有更新，将通过微信推送及时通知用户。| 正方教务系统 | 成绩推送 | 成绩通知 | 成绩更新 | 显示成绩提交时间 | 显示成绩提交人姓名 | 成绩信息按时间降序排序 | 计算 GPA | 计算百分制 GPA | 显示未公布成绩的课程
 
 ### [Sanster/IOPaint](https://github.com/Sanster/IOPaint)
 - **Description:** Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
