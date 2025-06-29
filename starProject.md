@@ -855,7 +855,7 @@
 - **Description:** 哔哩哔哩缓存导出工具
 
 ### [certimate-go/certimate](https://github.com/certimate-go/certimate)
-- **Description:** 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
+- **Description:** 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 
 ### [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)
 - **Description:** Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
@@ -1052,7 +1052,7 @@
 
 ### [dairoot/chatgpt-livekit](https://github.com/dairoot/chatgpt-livekit)
 
-### [zixuanya/clash-for-gigabit](https://github.com/zixuanya/clash-for-gigabit)
+### [linmontfurry/clash-for-gigabit](https://github.com/linmontfurry/clash-for-gigabit)
 - **Description:** 为可执行Shell的光猫提供clash代理服务，适用与任何不超过armv7l内核架构的设备
 
 ### [ktshacx/Hotmail-Checker](https://github.com/ktshacx/Hotmail-Checker)
