@@ -1,3 +1,9 @@
+### [ezyshu/UserScript](https://github.com/ezyshu/UserScript)
+- **Description:** 自用的 GM 油猴脚本。
+
+### [ddCat-main/OutlookManager](https://github.com/ddCat-main/OutlookManager)
+- **Description:** 一个基于FastAPI和现代Web技术构建的Outlook邮件管理系统，支持多账户管理、邮件查看、搜索过滤等功能。
+
 ### [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - **Description:** :link: Some useful websites for programmers.
 
