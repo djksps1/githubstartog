@@ -1355,7 +1355,7 @@
 - **Description:** 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
 
 ### [JumpAlang/Jusic-serve](https://github.com/JumpAlang/Jusic-serve)
-- **Description:** 一起听歌吧（同步点歌听歌）,多房间版本也已开源
+- **Description:** 一起听歌吧（同步点歌听歌）
 
 ### [talebook/talebook](https://github.com/talebook/talebook)
 - **Description:** 一个简单好用的个人书库
