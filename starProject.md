@@ -420,7 +420,7 @@
 - **Description:** 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
 ### [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)
-- **Description:** End to end, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
+- **Description:** End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
 
 ### [SISUBEN/FairySearch](https://github.com/SISUBEN/FairySearch)
 - **Description:** FairySearch, An Open, Free and Intelligent Search Engine
@@ -496,6 +496,7 @@
 - **Description:** 谷歌浏览器 ai 总结插件
 
 ### [twelve-web/picture-toolkit](https://github.com/twelve-web/picture-toolkit)
+- **Description:** 一个轻量级的图片编辑器组件库，支持任何前端框架。✨  目前支持擦除图片功能(返回原图和擦除部分的mask)
 
 ### [exam-data/NETEMVocabulary](https://github.com/exam-data/NETEMVocabulary)
 - **Description:** 考研词汇词频排序数据
