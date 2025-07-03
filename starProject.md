@@ -1,3 +1,8 @@
+### [Shinplex/rever](https://github.com/Shinplex/rever)
+
+### [zouyq/jetbrains-ai-proxy](https://github.com/zouyq/jetbrains-ai-proxy)
+- **Description:** convert jetbrains-ai to openai
+
 ### [ezyshu/UserScript](https://github.com/ezyshu/UserScript)
 - **Description:** 自用的 GM 油猴脚本。
 
