@@ -1,3 +1,9 @@
+### [beck-8/subs-check](https://github.com/beck-8/subs-check)
+- **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
+
+### [lonelam/subconverter-rs](https://github.com/lonelam/subconverter-rs)
+- **Description:** 一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
+
 ### [Shinplex/rever](https://github.com/Shinplex/rever)
 
 ### [zouyq/jetbrains-ai-proxy](https://github.com/zouyq/jetbrains-ai-proxy)
@@ -36,9 +42,6 @@
 
 ### [friend-nicen/wepush](https://github.com/friend-nicen/wepush)
 - **Description:** WePush 是一个通过模拟人工点击PC微信实现的微信消息推送机器人，具有安全稳定、零封号风险的特点。
-
-### [beck-8/subs-check](https://github.com/beck-8/subs-check)
-- **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
 
 ### [ffflyZzz/cursor-client2login](https://github.com/ffflyZzz/cursor-client2login)
 - **Description:** 一个Chrome浏览器插件，用于读取本地Cursor认证信息，管理web端Cursor认证信息和Web端多账户快速切换
@@ -165,9 +168,6 @@
 - **Description:** 法克劳德，啥也不是。
 
 ### [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
-
-### [lonelam/subconverter-rs](https://github.com/lonelam/subconverter-rs)
-- **Description:** 一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
 
 ### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
 - **Description:** 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.
