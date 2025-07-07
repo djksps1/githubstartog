@@ -1,3 +1,6 @@
+### [omegaee/my-fingerprint](https://github.com/omegaee/my-fingerprint)
+- **Description:** 保护你的浏览器指纹 | Protect Your Browser Fingerprints | Chrome, Edge, Firefox | 扩展 / Extension
+
 ### [beck-8/subs-check](https://github.com/beck-8/subs-check)
 - **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
 
@@ -186,9 +189,6 @@
 
 ### [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
 - **Description:** Your AI Operator for Web, Android, Automation & Testing.
-
-### [omegaee/my-fingerprint](https://github.com/omegaee/my-fingerprint)
-- **Description:** 保护你的浏览器指纹 | Protect Your Browser Fingerprints | Chrome, Edge, Firefox | 扩展 / Extension
 
 ### [zqq-nuli/Claude-auto-register](https://github.com/zqq-nuli/Claude-auto-register)
 - **Description:** Claude-auto-register
@@ -937,7 +937,7 @@
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
 
 ### [oiov/wr.do](https://github.com/oiov/wr.do)
-- **Description:** 📧🔗🌏 Shorten links, manage emails and control subdomains—all on one platform.
+- **Description:** 📧🔗🌏 Shorten links, manage emails, file storage and control subdomains—all on one platform.
 
 ### [iovxw/rssbot](https://github.com/iovxw/rssbot)
 - **Description:** Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
