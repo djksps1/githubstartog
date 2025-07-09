@@ -937,7 +937,7 @@
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
 
 ### [oiov/wr.do](https://github.com/oiov/wr.do)
-- **Description:** 📧🔗🌏 Shorten links, manage emails, file storage and control subdomains—all on one platform.
+- **Description:** 📧🔗🌏 Shorten links, manage emails, cloud storage and control subdomains—all on one platform.
 
 ### [iovxw/rssbot](https://github.com/iovxw/rssbot)
 - **Description:** Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
@@ -1151,7 +1151,7 @@
 - **Description:** 优雅地将网易云音乐（或其他音乐平台）的歌单转换到 QQ 音乐
 
 ### [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
-- **Description:** 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+- **Description:** 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 
 ### [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun)
 - **Description:** 油猴脚本 - 一个免费开源的网盘下载助手
