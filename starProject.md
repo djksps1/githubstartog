@@ -1085,7 +1085,7 @@
 - **Description:** 微信公众号的后端，为其他系统提供微信登录验证功能
 
 ### [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat)
-- **Description:** 脚本猫，一个可以执行用户脚本的浏览器扩展
+- **Description:** ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 
 ### [fanmingming/live](https://github.com/fanmingming/live)
 - **Description:** ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
@@ -1186,7 +1186,7 @@
 ### [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release)
 
 ### [amchii/tg-signer](https://github.com/amchii/tg-signer)
-- **Description:** 电报每日自动签到/个人、群组、频道消息监控与自动回复; Telegram Daily Auto Sign-in / Personal, Group, and Channel Message Monitoring and Auto Reply
+- **Description:** 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (check-ins, sending messages, keyboard clicks, AI replies, etc.); monitoring, forwarding, and auto-replying to private, group, and channel messages.
 
 ### [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
 - **Description:** :scream: A curated list of amazingly awesome OSINT
