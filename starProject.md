@@ -13,7 +13,7 @@
 - **Description:** convert jetbrains-ai to openai
 
 ### [ezyshu/UserScript](https://github.com/ezyshu/UserScript)
-- **Description:** 自用的 GM 油猴脚本。
+- **Description:** 这是一个实用的油猴脚本（UserScript）集合仓库，包含了多个实用的浏览器增强脚本。这些脚本旨在提升网页浏览体验，增加网站功能，优化用户界面等。
 
 ### [ddCat-main/OutlookManager](https://github.com/ddCat-main/OutlookManager)
 - **Description:** 一个基于FastAPI和现代Web技术构建的Outlook邮件管理系统，支持多账户管理、邮件查看、搜索过滤等功能。
