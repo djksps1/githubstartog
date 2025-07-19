@@ -1,5 +1,5 @@
 ### [jeffernn/BPB-Panel-Vulnerability-Tool](https://github.com/jeffernn/BPB-Panel-Vulnerability-Tool)
-- **Description:** 旧版BPB面板漏洞自动获取节点
+- **Description:** 旧版BPB面板漏洞自动获取节点，优选节点自动上传，自动获取优质优选节点
 
 ### [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor)
 - **Description:** 一个基于 Playwright 和AI过滤分析的闲鱼多任务实时监控与智能分析工具，配备了功能完善的 Web 管理界面。
