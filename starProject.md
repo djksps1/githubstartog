@@ -1,3 +1,6 @@
+### [SwaggyMacro/LottieViewConvert](https://github.com/SwaggyMacro/LottieViewConvert)
+- **Description:** A powerful cross-platform desktop application for converting TGS (Telegram Stickers), Discord animmated stickers and Lottie animations to various formats including GIF, WebP, APNG, MP4, MKV, AVIF, and WebM. Support download telegram sticker from sticker link. 电报、Discord、Lottie动画转换工具，支持 Gif、WebP、APNG、MP4 等常见格式，支持直接下载电报、Discord贴纸包。
+
 ### [jeffernn/BPB-Panel-Vulnerability-Tool](https://github.com/jeffernn/BPB-Panel-Vulnerability-Tool)
 - **Description:** 旧版BPB面板漏洞自动获取节点，优选节点自动上传，自动获取优质优选节点
 
