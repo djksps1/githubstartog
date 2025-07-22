@@ -1,3 +1,6 @@
+### [opsre/version_manager](https://github.com/opsre/version_manager)
+- **Description:** 一站式版本管理、文件存储与权限控制解决方案
+
 ### [SwaggyMacro/LottieViewConvert](https://github.com/SwaggyMacro/LottieViewConvert)
 - **Description:** A powerful cross-platform desktop application for converting TGS (Telegram Stickers), Discord animmated stickers and Lottie animations to various formats including GIF, WebP, APNG, MP4, MKV, AVIF, and WebM. Support download telegram sticker from sticker link. 电报、Discord、Lottie动画转换工具，支持 Gif、WebP、APNG、MP4 等常见格式，支持直接下载电报、Discord贴纸包。
 
@@ -495,7 +498,7 @@
 - **Description:** Python-based turnstile solver using the patchright library, featuring multi-threaded execution, API integration, and support for different browsers.
 
 ### [amclubs/am-cf-tunnel](https://github.com/amclubs/am-cf-tunnel)
-- **Description:** 这是一个基于 Cloudflare Workers 和 Pages平台的脚本,通过EDtunnel修改，使用该脚本可以自动生成VLESS免费节点,并配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中。
+- **Description:** 这是一个基于 Cloudflare Workers 和 Pages平台的脚本,通过EDtunnel修改，使用该脚本可以自动生成VLESS、Trojan免费节点,并配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中。
 
 ### [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader)
 - **Description:** A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
