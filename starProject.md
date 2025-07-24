@@ -999,7 +999,7 @@
 ### [Shadownc/tuapi-img](https://github.com/Shadownc/tuapi-img)
 
 ### [baidu/dperf](https://github.com/baidu/dperf)
-- **Description:** dperf – High-Performance DPDK-based Network Load Testing Tool
+- **Description:** dperf: High-Performance Network Load Testing Tool Based on DPDK
 
 ### [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot)
 - **Description:** TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit.
