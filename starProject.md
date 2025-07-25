@@ -1,3 +1,9 @@
+### [Junaid433/Hecker-CHK](https://github.com/Junaid433/Hecker-CHK)
+- **Description:** Simple CC Checker Telegram Bot With Fairly Enough Features. Made with PHP. 
+
+### [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king)
+- **Description:** 人人都是哈基米大王
+
 ### [opsre/version_manager](https://github.com/opsre/version_manager)
 - **Description:** 一站式版本管理、文件存储与权限控制解决方案
 
@@ -664,7 +670,7 @@
 - **Description:** A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.
 
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
-- **Description:** Explore the ultimate curated list of best root apps,powerful Magisk, KernelSU & LSPosed(Xposed) modules, must-have tools and step-by-step rooting guides to control, boost performance, and customize your device 
+- **Description:** Ultimate curated list of best root apps, Magisk, KernelSU & LSPosed(Xposed) modules, must-have tools and step-by-step rooting guides to control, boost performance, and customize your device.
 
 ### [ccbikai/Sink](https://github.com/ccbikai/Sink)
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
