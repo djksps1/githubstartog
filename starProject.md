@@ -236,7 +236,7 @@
 - **Description:** 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 
 ### [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio)
-- **Description:**  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+- **Description:**  A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  AI视频翻译配音工具，99种语言双向翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 
 ### [t0saki/xAI-Image-Gen-API-Refine](https://github.com/t0saki/xAI-Image-Gen-API-Refine)
 - **Description:** A proxy for the xAI API, specifically handling image generation requests and preserving only the parameters supported in the documentation.
@@ -958,7 +958,7 @@
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
 
 ### [oiov/wr.do](https://github.com/oiov/wr.do)
-- **Description:** 🌏 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
+- **Description:** 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 
 ### [iovxw/rssbot](https://github.com/iovxw/rssbot)
 - **Description:** Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
