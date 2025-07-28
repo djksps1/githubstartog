@@ -1063,7 +1063,7 @@
 - **Description:** DDos-Attack Is A Python script online Attack
 
 ### [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)
-- **Description:** 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
+- **Description:** 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
 
 ### [g1879/DrissionPage](https://github.com/g1879/DrissionPage)
 - **Description:** Python based web automation tool. Powerful and elegant.
