@@ -617,7 +617,7 @@
 ### [xchenya/linux.do](https://github.com/xchenya/linux.do)
 
 ### [ezyshu/linuxdo-scripts](https://github.com/ezyshu/linuxdo-scripts)
-- **Description:** LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
+- **Description:** LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
 
 ### [Kamikadze4GAME/cloudflare-bypasser](https://github.com/Kamikadze4GAME/cloudflare-bypasser)
 - **Description:** A simple Node.js module to bypass Cloudflare anti-DDOS page
