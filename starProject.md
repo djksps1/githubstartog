@@ -1,3 +1,6 @@
+### [tbphp/gpt-load](https://github.com/tbphp/gpt-load)
+- **Description:** 智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.
+
 ### [ceocok/Docker_container_migration](https://github.com/ceocok/Docker_container_migration)
 - **Description:** This is a lossless one-click script for automatically migrating Docker containers — efficient, convenient, and very easy to use.
 
