@@ -1,3 +1,6 @@
+### [cmliu/CF-Workers-CheckProxyIP](https://github.com/cmliu/CF-Workers-CheckProxyIP)
+- **Description:** 部署在 Cloudflare Workers 上的轻量级 ProxyIP 验证工具。它能够快速、准确地检测代理IP的可用性，帮助用户筛选出有效的代理服务器。
+
 ### [RohitKushvaha01/TaskManager](https://github.com/RohitKushvaha01/TaskManager)
 - **Description:** A Task Manager for android
 
@@ -23,7 +26,7 @@
 - **Description:** 旧版BPB面板漏洞自动获取节点，优选节点自动上传，自动获取优质优选节点
 
 ### [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor)
-- **Description:** 一个基于 Playwright 和AI过滤分析的闲鱼多任务实时监控与智能分析工具，配备了功能完善的 Web 管理界面。
+- **Description:** 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
 
 ### [mirrorange/clove](https://github.com/mirrorange/clove)
 - **Description:** A Claude.ai reverse proxy
