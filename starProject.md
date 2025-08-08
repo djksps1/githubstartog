@@ -417,7 +417,7 @@
 - **Description:** Fork client of Telegram app for Android.
 
 ### [codexu/note-gen](https://github.com/codexu/note-gen)
-- **Description:** A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- **Description:** A cross-platform Markdown AI note-taking software.
 
 ### [risin42/NagramX](https://github.com/risin42/NagramX)
 - **Description:** A variant of Nagram with additional features.
@@ -585,7 +585,7 @@
 ### [ddgksf2013/EmbyToolbox](https://github.com/ddgksf2013/EmbyToolbox)
 
 ### [vbskycn/iptv](https://github.com/vbskycn/iptv)
-- **Description:** iptv最新可用直播源iptv4/iptv6。直播电视系统，这里有折腾好了的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
+- **Description:** iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
 
 ### [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 - **Description:** auto sign cursor
