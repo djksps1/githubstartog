@@ -682,7 +682,7 @@
 - **Description:** A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.
 
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
-- **Description:** Ultimate curated list of best root apps, Magisk, KernelSU & LSPosed(Xposed) modules, must-have tools and step-by-step rooting guides to control, boost performance, and customize your device.
+- **Description:** Ultimate curated list of best root apps, Magisk/KernelSU/APtach/KernelSU-Next/Sukisu-Ultra & LSPosed(Xposed) modules & step-by-step rooting guides to control, boost performance, debloat & customize your device.
 
 ### [ccbikai/Sink](https://github.com/ccbikai/Sink)
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
