@@ -410,7 +410,7 @@
 ### [Fung-2025/potplayer-translation-openaiapi](https://github.com/Fung-2025/potplayer-translation-openaiapi)
 - **Description:** PotPlayer translation plugin, compatible with OpenAI API.
 
-### [zetxtech/wssocks](https://github.com/zetxtech/wssocks)
+### [zetxtech/linksocks](https://github.com/zetxtech/linksocks)
 - **Description:** A SOCKS proxy implementation over WebSocket protocol.
 
 ### [forkgram/TelegramAndroid](https://github.com/forkgram/TelegramAndroid)
