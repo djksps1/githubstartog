@@ -1,3 +1,6 @@
+### [ctkqiang/LQZ](https://github.com/ctkqiang/LQZ)
+- **Description:** 灵取证是一款功能强大且专业的安卓设备数据取证工具，专门为执法部门、司法机构和安全调查人员设计开发。本工具采用先进的取证技术，确保数据提取过程的完整性和准确性。本工具的开发和使用严格遵循相关法律法规框架，确保所有数据提取操作都在合法授权范围内进行。通过专业的数据处理流程，为执法调查工作提供可靠的电子证据支持。
+
 ### [cmliu/CF-Workers-CheckProxyIP](https://github.com/cmliu/CF-Workers-CheckProxyIP)
 - **Description:** 部署在 Cloudflare Workers 上的轻量级 ProxyIP 验证工具。它能够快速、准确地检测代理IP的可用性，帮助用户筛选出有效的代理服务器。
 
@@ -102,9 +105,6 @@
 
 ### [Rico00121/decktap](https://github.com/Rico00121/decktap)
 - **Description:** A lightweight local-network presentation remote. Control your slides wirelessly from your phone.
-
-### [rzc0d3r/ESET-KeyGen](https://github.com/rzc0d3r/ESET-KeyGen)
-- **Description:** ESET-KeyGen - Trial-Key & Account generator for ESET Products
 
 ### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
 - **Description:** Save Telegram files to multiple storage 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content.
@@ -755,7 +755,7 @@
 - **Description:** 基于LQ的chat2api项目，搭建一个共享站，方便给自己的小伙伴们使用
 
 ### [himanshupapola/sk_based_checker](https://github.com/himanshupapola/sk_based_checker)
-- **Description:** PHP Based Checker, For education and testing purpose only
+- **Description:** This PHP-based checker is created strictly for educational and testing purposes only. It is intended to help users understand API functionality and debug/test their own implementations. Any misuse, unauthorized access, or illegal activity using this tool is strictly prohibited. 
 
 ### [yangtb2024/OneTimeMessagePHP](https://github.com/yangtb2024/OneTimeMessagePHP)
 
