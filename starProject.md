@@ -1,3 +1,12 @@
+### [vikiboss/60s](https://github.com/vikiboss/60s)
+- **Description:** ⏰ 60s API，每天 60 秒看世界、在线翻译、Epic 免费游戏、哪吒 2 票房、KFC 疯狂星期四｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+
+### [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)
+- **Description:** 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
+
+### [0voice/Campus_recruitment_interview_questions](https://github.com/0voice/Campus_recruitment_interview_questions)
+- **Description:** 2025 最新校招面试题合集， 面向 2026 届应届生，全网最全整理！收录 1000+道真实面试题以及面经，涵盖阿里、腾讯、字节、美团、百度、华为、小米、英伟达、微软、米哈游等百家大中小厂。每题配备视频解析 or 文字讲解，持续更新中，助力拿下 Dream Offer！
+
 ### [ctkqiang/LQZ](https://github.com/ctkqiang/LQZ)
 - **Description:** 灵取证是一款功能强大且专业的安卓设备数据取证工具，专门为执法部门、司法机构和安全调查人员设计开发。本工具采用先进的取证技术，确保数据提取过程的完整性和准确性。本工具的开发和使用严格遵循相关法律法规框架，确保所有数据提取操作都在合法授权范围内进行。通过专业的数据处理流程，为执法调查工作提供可靠的电子证据支持。
 
@@ -60,7 +69,7 @@
 ### [Veloera/Veloera](https://github.com/Veloera/Veloera)
 
 ### [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie)
-- **Description:** A browser extension that syncs and manages your cookies to your cloudflare （support localStorage)）
+- **Description:** A browser extension that syncs and manages your cookies & localStorage to your cloudflare
 
 ### [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react)
 - **Description:** Apple's Liquid Glass effect for React
@@ -755,7 +764,7 @@
 - **Description:** 基于LQ的chat2api项目，搭建一个共享站，方便给自己的小伙伴们使用
 
 ### [himanshupapola/sk_based_checker](https://github.com/himanshupapola/sk_based_checker)
-- **Description:** This PHP-based checker is created strictly for educational and testing purposes only. It is intended to help users understand API functionality and debug/test their own implementations. Any misuse, unauthorized access, or illegal activity using this tool is strictly prohibited. 
+- **Description:** This PHP-based sk checker created strictly for educational and testing purposes only.
 
 ### [yangtb2024/OneTimeMessagePHP](https://github.com/yangtb2024/OneTimeMessagePHP)
 
