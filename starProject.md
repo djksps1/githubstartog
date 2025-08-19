@@ -419,7 +419,7 @@
 ### [Fung-2025/potplayer-translation-openaiapi](https://github.com/Fung-2025/potplayer-translation-openaiapi)
 - **Description:** PotPlayer translation plugin, compatible with OpenAI API.
 
-### [zetxtech/linksocks](https://github.com/zetxtech/linksocks)
+### [linksocks/linksocks](https://github.com/linksocks/linksocks)
 - **Description:** A SOCKS proxy implementation over WebSocket protocol.
 
 ### [forkgram/TelegramAndroid](https://github.com/forkgram/TelegramAndroid)
@@ -1336,8 +1336,8 @@
 ### [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)
 - **Description:** A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
-### [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
-- **Description:** 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+### [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+- **Description:** The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 
 ### [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 - **Description:** Showcase your skills on your Github readme or resumé with ease ✨
