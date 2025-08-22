@@ -461,7 +461,7 @@
 - **Description:** 一个强大的 Telegram 用户举报自动化工具
 
 ### [Done-0/Jank](https://github.com/Done-0/Jank)
-- **Description:** Jank，一个轻量级的博客系统，基于 Go 语言和 Echo 框架开发，强调极简、低耦合和高扩展。
+- **Description:** 一个轻量级的博客系统，基于 Go 语言和 hertz 框架开发，支持多主题和多插件。
 
 ### [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
 - **Description:** 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
