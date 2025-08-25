@@ -69,7 +69,7 @@
 ### [Veloera/Veloera](https://github.com/Veloera/Veloera)
 
 ### [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie)
-- **Description:** A browser extension that syncs and manages your cookies & localStorage to your cloudflare
+- **Description:** A browser extension that syncs your cookies & localStorage to your cloudflare and manages  them
 
 ### [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react)
 - **Description:** Apple's Liquid Glass effect for React
@@ -215,7 +215,7 @@
 ### [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
 
 ### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
-- **Description:** 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.
+- **Description:** 🔍  A powerful Telegram chat search tool with vector search and semantic matching capabilities.
 
 ### [PrintNow/LLM-Compare](https://github.com/PrintNow/LLM-Compare)
 - **Description:** LLM 对比测试平台，支持多个模型同屏同时响应回答，方便测试模型区别
