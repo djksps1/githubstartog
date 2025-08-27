@@ -1,5 +1,5 @@
 ### [vikiboss/60s](https://github.com/vikiboss/60s)
-- **Description:** ⏰ 60s API，每天 60 秒看世界、在线翻译、Epic 免费游戏、哪吒 2 票房、KFC 疯狂星期四｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+- **Description:** ⏰ 60s API，每天 60 秒看世界、壁纸、热搜、翻译、Epic 游戏、转二维码、哪吒票房、KFC 段子｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 
 ### [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)
 - **Description:** 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
@@ -17,7 +17,7 @@
 - **Description:** A Task Manager for android
 
 ### [tbphp/gpt-load](https://github.com/tbphp/gpt-load)
-- **Description:** 智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.
+- **Description:** Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 
 ### [ceocok/Docker_container_migration](https://github.com/ceocok/Docker_container_migration)
 - **Description:** This is a lossless one-click script for automatically migrating Docker containers — efficient, convenient, and very easy to use.
