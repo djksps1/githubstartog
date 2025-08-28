@@ -798,9 +798,6 @@
 ### [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror)
 - **Description:** 🚀 一键部署个人的 ChatGPT 镜像站
 
-### [clashbk/ChromeBot](https://github.com/clashbk/ChromeBot)
-- **Description:** Chrome浏览器机器人
-
 ### [hzhilong/bilibili-backup](https://github.com/hzhilong/bilibili-backup)
 - **Description:** 一键对B站账号进行数据备份和还原，方便账号数据迁移/快速转生(哔哩哔哩 bilibili)。One-click backup and restore of B station account data, convenient account data migration/quick reincarnation.
 
