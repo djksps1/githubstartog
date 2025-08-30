@@ -1,3 +1,6 @@
+### [jorhelp/Ingram](https://github.com/jorhelp/Ingram)
+- **Description:** 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
+
 ### [vikiboss/60s](https://github.com/vikiboss/60s)
 - **Description:** ⏰ 60s API，每天 60 秒看世界、壁纸、热搜、翻译、Epic 游戏、转二维码、哪吒票房、KFC 段子｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 
