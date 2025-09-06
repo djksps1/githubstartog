@@ -1,3 +1,9 @@
+### [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill)
+- **Description:** Yet another sanguosha clone, written in Qt and Lua.
+
+### [bin456789/reinstall](https://github.com/bin456789/reinstall)
+- **Description:** 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
 ### [eoao/cloud-mail](https://github.com/eoao/cloud-mail)
 - **Description:** cloudflare email 邮箱  临时邮箱 邮件发送 mail
 
@@ -275,7 +281,7 @@
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
 
 ### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-- **Description:** ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+- **Description:** ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
 
 ### [ses4255/Versatile-OCR-Program](https://github.com/ses4255/Versatile-OCR-Program)
 - **Description:** Multi-modal OCR pipeline optimized for ML training (text, figure, math, tables, diagrams)
@@ -1032,7 +1038,7 @@
 - **Description:** dperf: High-Performance Network Load Testing Tool Based on DPDK
 
 ### [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot)
-- **Description:** TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit.
+- **Description:** TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-5, DALL·E , Groq, Gemini 2.5 Pro/Flash and the official Claude4.1 API using Python on Zeabur, fly.io and Replit.
 
 ### [Dolov/chrome-best-cookier](https://github.com/Dolov/chrome-best-cookier)
 - **Description:** Easily manage your cookies.
