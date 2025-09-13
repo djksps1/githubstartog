@@ -1,3 +1,6 @@
+### [marktext/marktext](https://github.com/marktext/marktext)
+- **Description:** 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
 ### [eun1e/sublinkE](https://github.com/eun1e/sublinkE)
 - **Description:** 在 sublinkX 基础上二次开发，支持更多协议和高度自定义的开源订阅转换管理工具。
 
@@ -271,7 +274,7 @@
 ### [Warma10032/VideoAdGuard](https://github.com/Warma10032/VideoAdGuard)
 - **Description:** 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 
-### [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio)
+### [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)
 - **Description:**  A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  AI视频翻译配音工具，99种语言双向翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 
 ### [t0saki/xAI-Image-Gen-API-Refine](https://github.com/t0saki/xAI-Image-Gen-API-Refine)
@@ -483,9 +486,6 @@
 
 ### [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)
 - **Description:** End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
-
-### [SISUBEN/FairySearch](https://github.com/SISUBEN/FairySearch)
-- **Description:** FairySearch, An Open, Free and Intelligent Search Engine
 
 ### [sbdelse/MoyuLinuxdo](https://github.com/sbdelse/MoyuLinuxdo)
 - **Description:** 一个 Linux.do 论坛的 Command-Line 简易客户端
