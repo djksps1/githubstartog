@@ -1,3 +1,6 @@
+### [clddup/F-Proxy](https://github.com/clddup/F-Proxy)
+- **Description:** 用于在FOFA上搜索免费代理订阅
+
 ### [marktext/marktext](https://github.com/marktext/marktext)
 - **Description:** 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
@@ -266,7 +269,7 @@
 - **Description:** AI 视频笔记生成工具 让 AI 为你的视频做笔记
 
 ### [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
-- **Description:** 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution
+- **Description:** 跨平台剪贴板同步、历史记录管理工具 / Cross-platform cipboard syncing, history management tool
 
 ### [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter)
 - **Description:** Utility to convert between various subscription format
