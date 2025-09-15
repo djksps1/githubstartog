@@ -604,8 +604,6 @@
 ### [carlliuxx/shortcuts_for_android](https://github.com/carlliuxx/shortcuts_for_android)
 - **Description:** 为安卓设备打造快捷指令，用语音实现自动化操作！
 
-### [thuhollow2/myconfig](https://github.com/thuhollow2/myconfig)
-
 ### [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS)
 - **Description:** Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 
