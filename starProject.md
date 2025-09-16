@@ -1,3 +1,6 @@
+### [MemeCrafters/meme-generator-rs](https://github.com/MemeCrafters/meme-generator-rs)
+- **Description:** 表情包生成器，用于制作各种沙雕表情包
+
 ### [clddup/F-Proxy](https://github.com/clddup/F-Proxy)
 - **Description:** 用于在FOFA上搜索免费代理订阅
 
@@ -509,9 +512,6 @@
 
 ### [idoknow/Campux](https://github.com/idoknow/Campux)
 - **Description:** 校园墙自动化 和 校内服务统一认证解决方案 ｜ 自助投稿、网页审核、自动发说说｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
-
-### [Scrut1ny/Malwarebytes-Premium-Bypass](https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass)
-- **Description:** Confuse Malwarebytes
 
 ### [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
 - **Description:** Alibaba Cloud Karpenter Provider
