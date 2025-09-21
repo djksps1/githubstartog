@@ -1,3 +1,9 @@
+### [winfunc/opcode](https://github.com/winfunc/opcode)
+- **Description:** A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+
+### [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+- **Description:** Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+
 ### [adminzcem/HW](https://github.com/adminzcem/HW)
 
 ### [oDaiSuno/OutlookManager](https://github.com/oDaiSuno/OutlookManager)
@@ -740,7 +746,7 @@
 - **Description:** An open-source, cross-platform terminal for seamless workflows
 
 ### [abgox/PSCompletions](https://github.com/abgox/PSCompletions)
-- **Description:** A completion manager for better and simpler use completions in PowerShell.  一个 PowerShell 命令补全管理模块，更简单、更方便的在 PowerShell 中使用命令补全。
+- **Description:** A completion manager for better and simpler use completions in PowerShell.
 
 ### [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
 - **Description:** 带带弟弟 通用验证码识别OCR pypi版
