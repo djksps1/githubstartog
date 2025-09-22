@@ -1,3 +1,6 @@
+### [idinging/freemail](https://github.com/idinging/freemail)
+- **Description:** Cloudflare 域名邮箱系统搭建 domain mail tempmail
+
 ### [winfunc/opcode](https://github.com/winfunc/opcode)
 - **Description:** A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 
@@ -33,7 +36,7 @@
 - **Description:** 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
 
 ### [vikiboss/60s](https://github.com/vikiboss/60s)
-- **Description:** ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、天气、翻译、壁纸、Epic 游戏、二维码、票房、KFC、段子｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+- **Description:** ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 
 ### [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)
 - **Description:** 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
@@ -620,7 +623,7 @@
 ### [ddgksf2013/EmbyToolbox](https://github.com/ddgksf2013/EmbyToolbox)
 
 ### [vbskycn/iptv](https://github.com/vbskycn/iptv)
-- **Description:** iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
+- **Description:** iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
 
 ### [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 - **Description:** auto sign cursor
