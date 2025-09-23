@@ -74,7 +74,7 @@
 ### [jeffernn/BPB-Panel-Vulnerability-Tool](https://github.com/jeffernn/BPB-Panel-Vulnerability-Tool)
 - **Description:** 旧版BPB面板漏洞自动获取节点，优选节点自动上传，自动获取优质优选节点
 
-### [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor)
+### [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
 - **Description:** 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
 
 ### [mirrorange/clove](https://github.com/mirrorange/clove)
@@ -1015,9 +1015,6 @@
 
 ### [nkanaev/yarr](https://github.com/nkanaev/yarr)
 - **Description:** yet another rss reader
-
-### [WAADRI/ChaoXing_node_signin](https://github.com/WAADRI/ChaoXing_node_signin)
-- **Description:** 学习通在线自动签到系统第三方节点接入程序，用于自行部署可接入学习通在线自动签到系统的第三方节点，该程序需配合学习通在线自动签到系统使用
 
 ### [bisnuray/CC-Scrapper](https://github.com/bisnuray/CC-Scrapper)
 - **Description:** CC Scrapper: An advanced Telegram bot script to scrape credit cards from specified Telegram groups and channels.
