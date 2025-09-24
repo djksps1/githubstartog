@@ -273,7 +273,7 @@
 - **Description:** Claude-auto-register
 
 ### [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train)
-- **Description:** LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications
+- **Description:** All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 
 ### [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo)
 - **Description:** A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
@@ -294,7 +294,7 @@
 - **Description:** 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 
 ### [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)
-- **Description:**  A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  AI视频翻译配音工具，99种语言双向翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+- **Description:** Video translation and dubbing tool powered by LLMs. The video translator offers 99 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，99种语言双向翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容
 
 ### [t0saki/xAI-Image-Gen-API-Refine](https://github.com/t0saki/xAI-Image-Gen-API-Refine)
 - **Description:** A proxy for the xAI API, specifically handling image generation requests and preserving only the parameters supported in the documentation.
