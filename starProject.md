@@ -147,7 +147,7 @@
 - **Description:** Proxy server to bypass Cloudflare protection
 
 ### [fengzhizi715/Monica](https://github.com/fengzhizi715/Monica)
-- **Description:** Monica 是一款跨平台的桌面图片编辑软件，使用 Kotlin Compose Desktop 作为 UI 框架。部分算法使用 Kotlin 实现，其余的算法使用 OpenCV 、 深度学习来实现。
+- **Description:** Monica – Cross-platform open-source image editor with AI features, RAW support, and a modern customizable UI.
 
 ### [Rico00121/decktap](https://github.com/Rico00121/decktap)
 - **Description:** A lightweight local-network presentation remote. Control your slides wirelessly from your phone.
@@ -294,7 +294,7 @@
 - **Description:** 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 
 ### [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)
-- **Description:** Video translation and dubbing tool powered by LLMs. The video translator offers 99 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，99种语言双向翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容
+- **Description:** Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配
 
 ### [t0saki/xAI-Image-Gen-API-Refine](https://github.com/t0saki/xAI-Image-Gen-API-Refine)
 - **Description:** A proxy for the xAI API, specifically handling image generation requests and preserving only the parameters supported in the documentation.
