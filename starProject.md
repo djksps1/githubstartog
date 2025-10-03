@@ -1,3 +1,6 @@
+### [4ev-link/4ev.link](https://github.com/4ev-link/4ev.link)
+- **Description:** If you want short custom urls, like url shortening to a custom slug
+
 ### [idinging/freemail](https://github.com/idinging/freemail)
 - **Description:** Cloudflare 域名邮箱系统搭建 domain mail tempmail
 
@@ -720,7 +723,7 @@
 - **Description:** A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.
 
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
-- **Description:** Discover 400+ best root apps, Magisk/KernelSU/APatch/LSPosed(xposed) modules, and step-by-step guides for every device. 
+- **Description:** Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
 
 ### [ccbikai/Sink](https://github.com/ccbikai/Sink)
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
