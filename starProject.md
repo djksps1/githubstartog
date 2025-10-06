@@ -1,3 +1,12 @@
+### [buyi06/-Linux-](https://github.com/buyi06/-Linux-)
+- **Description:** 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
+
+### [Archeb/opentrace](https://github.com/Archeb/opentrace)
+- **Description:** A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。
+
+### [hyb-oyqq/hajimi-king-pro](https://github.com/hyb-oyqq/hajimi-king-pro)
+- **Description:** 人人都是【超级】哈基米大王
+
 ### [4ev-link/4ev.link](https://github.com/4ev-link/4ev.link)
 - **Description:** If you want short custom urls, like url shortening to a custom slug
 
