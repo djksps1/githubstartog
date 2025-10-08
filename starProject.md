@@ -1,3 +1,8 @@
+### [agluo/ql-script-hub](https://github.com/agluo/ql-script-hub)
+- **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控、薅羊毛，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|Leaflow
+
+### [eduky/EDUKY-Monitor](https://github.com/eduky/EDUKY-Monitor)
+
 ### [buyi06/-Linux-](https://github.com/buyi06/-Linux-)
 - **Description:** 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
 
