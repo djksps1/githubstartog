@@ -1,3 +1,5 @@
+### [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases)
+
 ### [agluo/ql-script-hub](https://github.com/agluo/ql-script-hub)
 - **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控、薅羊毛，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|Leaflow
 
@@ -503,7 +505,7 @@
 - **Description:** Use the Mistral Strongest OCR to convert the PDF and Image to markdown.
 
 ### [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
-- **Description:** AI模型聚合管理分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+- **Description:** AI模型聚合管理中转分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 ### [open-webui/open-webui](https://github.com/open-webui/open-webui)
 - **Description:** User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
