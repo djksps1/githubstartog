@@ -415,7 +415,7 @@
 - **Description:** Web extension to set a default speed for video and audio 
 
 ### [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat)
-- **Description:** Lazyeat｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
+- **Description:** Lazyeat（懒人手势）｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
 
 ### [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena)
 - **Description:** LLM Arena by KCORES team
@@ -544,6 +544,9 @@
 
 ### [idoknow/Campux](https://github.com/idoknow/Campux)
 - **Description:** 校园墙自动化 和 校内服务统一认证解决方案 ｜ 自助投稿、网页审核、自动发说说｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
+
+### [Scrut1ny/Malwarebytes-Premium-Bypass](https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass)
+- **Description:** Confuse Malwarebytes
 
 ### [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
 - **Description:** Alibaba Cloud Karpenter Provider
@@ -712,7 +715,7 @@
 ### [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
 - **Description:** A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
-### [petercat-ai/petercat](https://github.com/petercat-ai/petercat)
+### [neovateai/petercat](https://github.com/neovateai/petercat)
 - **Description:** A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
 
 ### [OxOOo/ProxyPoolWithUI](https://github.com/OxOOo/ProxyPoolWithUI)
