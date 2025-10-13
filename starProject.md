@@ -1,4 +1,5 @@
 ### [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases)
+- **Description:** 源代码
 
 ### [agluo/ql-script-hub](https://github.com/agluo/ql-script-hub)
 - **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控、薅羊毛，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|Leaflow
@@ -1038,6 +1039,9 @@
 ### [nkanaev/yarr](https://github.com/nkanaev/yarr)
 - **Description:** yet another rss reader
 
+### [WAADRI/ChaoXing_node_signin](https://github.com/WAADRI/ChaoXing_node_signin)
+- **Description:** 学习通在线自动签到系统第三方节点接入程序，用于自行部署可接入学习通在线自动签到系统的第三方节点，该程序需配合学习通在线自动签到系统使用
+
 ### [bisnuray/CC-Scrapper](https://github.com/bisnuray/CC-Scrapper)
 - **Description:** CC Scrapper: An advanced Telegram bot script to scrape credit cards from specified Telegram groups and channels.
 
@@ -1382,7 +1386,7 @@
 - **Description:** A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ### [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
-- **Description:** The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+- **Description:** 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 
 ### [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 - **Description:** Showcase your skills on your Github readme or resumé with ease ✨
