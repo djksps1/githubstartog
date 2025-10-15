@@ -1,3 +1,6 @@
+### [eoao/cloud-mail](https://github.com/eoao/cloud-mail)
+- **Description:** cloudflare email 邮箱  临时邮箱 邮件发送 mail
+
 ### [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases)
 - **Description:** 源代码
 
@@ -48,9 +51,6 @@
 
 ### [bin456789/reinstall](https://github.com/bin456789/reinstall)
 - **Description:** 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-### [eoao/cloud-mail](https://github.com/eoao/cloud-mail)
-- **Description:** cloudflare email 邮箱  临时邮箱 邮件发送 mail
 
 ### [jorhelp/Ingram](https://github.com/jorhelp/Ingram)
 - **Description:** 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
@@ -272,7 +272,7 @@
 ### [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
 
 ### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
-- **Description:** 🔍  A powerful Telegram chat search tool with vector search and semantic matching capabilities.
+- **Description:** 🔍  Easily find and export your Telegram messages with powerful semantic search, supporting all languages and unsegmented sentences.
 
 ### [PrintNow/LLM-Compare](https://github.com/PrintNow/LLM-Compare)
 - **Description:** LLM 对比测试平台，支持多个模型同屏同时响应回答，方便测试模型区别
