@@ -1,4 +1,4 @@
-### [eoao/cloud-mail](https://github.com/eoao/cloud-mail)
+### [MailLab/cloud-mail](https://github.com/MailLab/cloud-mail)
 - **Description:** cloudflare email 邮箱  临时邮箱 邮件发送 mail
 
 ### [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases)
@@ -1622,7 +1622,7 @@
 - **Description:** A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 
 ### [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump)
-- **Description:** 获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。
+- **Description:** 删库
 
 ### [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
 - **Description:** Crawl a site to generate knowledge files to create your own custom GPT from a URL
