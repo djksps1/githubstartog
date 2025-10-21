@@ -1,4 +1,4 @@
-### [MailLab/cloud-mail](https://github.com/MailLab/cloud-mail)
+### [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
 - **Description:** cloudflare email 邮箱  临时邮箱 邮件发送 mail
 
 ### [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases)
