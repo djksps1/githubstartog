@@ -272,7 +272,7 @@
 ### [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
 
 ### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
-- **Description:** 🔍  Easily find and export your Telegram messages with powerful semantic search, supporting all languages and unsegmented sentences.
+- **Description:** 🔍  Search your telegram messages wisely | 明智地搜索您的 Telegram 聊天记录
 
 ### [PrintNow/LLM-Compare](https://github.com/PrintNow/LLM-Compare)
 - **Description:** LLM 对比测试平台，支持多个模型同屏同时响应回答，方便测试模型区别
@@ -685,7 +685,7 @@
 - **Description:** 自动获取免费网站的节点信息
 
 ### [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme)
-- **Description:** 语燕拼音输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
+- **Description:** 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
 
 ### [xchenya/linux.do](https://github.com/xchenya/linux.do)
 
