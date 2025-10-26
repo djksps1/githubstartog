@@ -1198,7 +1198,7 @@
 ### [ychappyman/SSHTGBot](https://github.com/ychappyman/SSHTGBot)
 
 ### [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-- **Description:** Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- **Description:** Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 
 ### [xykt/IPQuality](https://github.com/xykt/IPQuality)
 - **Description:** IP质量检测脚本 - IP Quality Check Script
