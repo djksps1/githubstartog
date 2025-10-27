@@ -1506,7 +1506,7 @@
 - **Description:** Cali 的个人官网开源项目
 
 ### [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
-- **Description:** Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- **Description:** Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
 
 ### [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 - **Description:** 程序员应该访问的最佳网站中文版
