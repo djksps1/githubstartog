@@ -1,3 +1,9 @@
+### [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
+- **Description:** The simplest, fastest repository for training/finetuning medium-sized GPTs.
+
+### [Chevey339/kelivo](https://github.com/Chevey339/kelivo)
+- **Description:** A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.
+
 ### [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
 - **Description:** cloudflare email 邮箱  临时邮箱 邮件发送 mail
 
