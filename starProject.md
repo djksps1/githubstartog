@@ -11,7 +11,7 @@
 - **Description:** cloudflare email 邮箱  临时邮箱 邮件发送 mail
 
 ### [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases)
-- **Description:** 源代码
+- **Description:** 源代码(开源版本到0.8)，后续版本会继续更新但不会开源
 
 ### [agluo/ql-script-hub](https://github.com/agluo/ql-script-hub)
 - **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控、薅羊毛，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|Leaflow
@@ -213,7 +213,7 @@
 ### [Kylsky/pandora-helper-with-linux-do-oauth](https://github.com/Kylsky/pandora-helper-with-linux-do-oauth)
 - **Description:** 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目
 
-### [TheFalloutOf76/CDP-bug-MouseEvent-.screenX-.screenY-patcher](https://github.com/TheFalloutOf76/CDP-bug-MouseEvent-.screenX-.screenY-patcher)
+### [ObjectAscended/CDP-bug-MouseEvent-.screenX-.screenY-patcher](https://github.com/ObjectAscended/CDP-bug-MouseEvent-.screenX-.screenY-patcher)
 
 ### [u14app/deep-research](https://github.com/u14app/deep-research)
 - **Description:** Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
