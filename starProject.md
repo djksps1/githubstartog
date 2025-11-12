@@ -1068,7 +1068,7 @@
 - **Description:** Hcaptcha enterprise challenge solver
 
 ### [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)
-- **Description:** 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
+- **Description:** edgetunnel 2.0 VLESS/Trojan 多功能面板
 
 ### [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg)
 - **Description:** 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
@@ -1103,7 +1103,7 @@
 - **Description:** 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 
 ### [miloira/wxhook](https://github.com/miloira/wxhook)
-- **Description:** 一个简单，好用，接口多的python微信机器人框架，支持微信4.0.3.22、4.1.0.34、4.1.2.17版本
+- **Description:** Python微信机器人框架，支持微信4.0.3.22、4.1.0.34、4.1.2.17版本
 
 ### [lemodragon/Siliconflow2cow](https://github.com/lemodragon/Siliconflow2cow)
 - **Description:** Siliconflow2cow 是一个强大的 chatgpt-on-wechat 插件，允许用户通过简单的命令生成各种风格的图像。该插件支持多种模型，包括文本到图像和图像到图像的转换，为用户提供了丰富的图像生成选项。
@@ -1158,7 +1158,7 @@
 - **Description:** 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
 
 ### [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
-- **Description:** Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- **Description:** Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ### [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 - **Description:** real time face swap and one-click video deepfake with only a single image
