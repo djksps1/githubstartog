@@ -1543,7 +1543,7 @@
 - **Description:** 用python编写的一些方便实用小工具
 
 ### [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai)
-- **Description:** Open AI Search, Support DeepResearch, DeepSeek R1, Ollama/LMStudio, SearXNG, Docker.  AI搜索引擎，支持DeepResearch, 本地模型、深度思考模型（DeepSeek R1）、聚合搜索引擎SearXNG，支持Docker一键部署。
+- **Description:** AI Search Chat , Support DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 本地模型、聚合搜索引擎SearXNG，支持Docker一键部署。
 
 ### [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs)
 - **Description:** Instantly generate AI-powered subtitles on your device. Works standalone or connects to DaVinci Resolve.
