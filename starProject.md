@@ -279,7 +279,7 @@
 ### [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
 
 ### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
-- **Description:** 🔍  Search your telegram messages wisely | 搜索您的 Telegram 聊天记录
+- **Description:** 🔍  Semantic search your Telegram chat history | 语义化搜索您的 Telegram 聊天记录
 
 ### [PrintNow/LLM-Compare](https://github.com/PrintNow/LLM-Compare)
 - **Description:** LLM 对比测试平台，支持多个模型同屏同时响应回答，方便测试模型区别
