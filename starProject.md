@@ -333,7 +333,7 @@
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
 
 ### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-- **Description:** ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+- **Description:** ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多消息平台（QQ, Telegram, 企微, 飞书, 钉钉等）集成，易用的插件系统，支持接入 OpenAI, Gemini, Anthropic, Dify, Coze, 阿里云百炼应用等平台，内置知识库、Agent 智能体
 
 ### [ses4255/Versatile-OCR-Program](https://github.com/ses4255/Versatile-OCR-Program)
 - **Description:** Multi-modal OCR pipeline optimized for ML training (text, figure, math, tables, diagrams)
@@ -779,7 +779,7 @@
 - **Description:** An open-source, cross-platform terminal for seamless workflows
 
 ### [abgox/PSCompletions](https://github.com/abgox/PSCompletions)
-- **Description:** A completion manager for better and simpler use completions in PowerShell.
+- **Description:** A completion manager for a better and simpler tab-completion experience in PowerShell.
 
 ### [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
 - **Description:** 带带弟弟 通用验证码识别OCR pypi版
