@@ -136,7 +136,7 @@
 ### [Veloera/Veloera](https://github.com/Veloera/Veloera)
 
 ### [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie)
-- **Description:** A browser extension that syncs your cookies & localStorage to your cloudflare and manages  them
+- **Description:** A browser extension for syncing cookies and localStorage to Cloudflare KV or GitHub Gist
 
 ### [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react)
 - **Description:** Apple's Liquid Glass effect for React
@@ -531,7 +531,7 @@
 - **Description:** 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
 ### [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)
-- **Description:** End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
+- **Description:** Offline translation server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译服务器
 
 ### [sbdelse/MoyuLinuxdo](https://github.com/sbdelse/MoyuLinuxdo)
 - **Description:** 一个 Linux.do 论坛的 Command-Line 简易客户端
