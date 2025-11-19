@@ -68,7 +68,7 @@
 - **Description:** 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
 
 ### [vikiboss/60s](https://github.com/vikiboss/60s)
-- **Description:** ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+- **Description:** ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 
 ### [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)
 - **Description:** 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
@@ -1313,7 +1313,7 @@
 - **Description:** Automated ACME SSL certificate generation for nginx-proxy
 
 ### [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
-- **Description:** A pure Unix shell script implementing ACME client protocol
+- **Description:** A pure Unix shell script ACME client for SSL / TLS certificate automation
 
 ### [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator)
 - **Description:** One-stop Proxies Crawling and Aggregation Platform
@@ -1542,7 +1542,7 @@
 - **Description:** 用python编写的一些方便实用小工具
 
 ### [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai)
-- **Description:** AI Search Chat , Support DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 本地模型、聚合搜索引擎SearXNG，支持Docker一键部署。
+- **Description:** AI Search Chat , Support DeepResearch, OpenAI/Anthropic/VertexAI/Gemini, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。
 
 ### [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs)
 - **Description:** Instantly generate AI-powered subtitles on your device. Works standalone or connects to DaVinci Resolve.
