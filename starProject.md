@@ -4,7 +4,7 @@
 - **Description:** CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ### [FakeOAI/tokens](https://github.com/FakeOAI/tokens)
-- **Description:** 逆向Tokens管理平台，逆向ChatGPT、Cursor、Grok、Claude、Gemini、Sora、Codex、Flow、GeminiCli等平台转OpenAI API标准格式，支持Claude Code、Codex原生工具调用
+- **Description:** 逆向Tokens管理平台，逆向ChatGPT、Cursor、Grok、Claude、Gemini、Sora、Codex、Flow、GeminiCli、Antigravity等平台转OpenAI API标准格式，支持Claude Code、Codex原生工具调用
 
 ### [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - **Description:** The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -259,7 +259,7 @@
 - **Description:** Trojan Panel installation script / Trojan Panel 一键安装脚本
 
 ### [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
-- **Description:** Python + FastAPI + Playwright + Camoufox 中间层代理服务器，兼容 OpenAI API且支持部分参数设置。项目通过网页自动化模拟人工将请求转发到 Google AI Studio 网页，并同样按照OpenAI标准格式返回输出的工具。课余时间有限，随缘更新
+- **Description:** FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化模拟人工操作将API请求转发到 Google AI Studio 网页，并同样按照OpenAI标准格式返回的工具
 
 ### [fish2018/ClashForge](https://github.com/fish2018/ClashForge)
 - **Description:** 代理节点全自动采集、聚合、去重、批量检测、移除失效节点，按延迟/下载速度排序，一键生成clash、singbox永久订阅链接，支持mac、linux、windows、docker，支持WebUI操作 
