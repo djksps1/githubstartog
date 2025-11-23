@@ -185,7 +185,7 @@
 - **Description:** A lightweight local-network presentation remote. Control your slides wirelessly from your phone.
 
 ### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
-- **Description:** Save Telegram files to multiple storage 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content.
+- **Description:** Save any Telegram file, anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram.
 
 ### [yamadashy/repomix](https://github.com/yamadashy/repomix)
 - **Description:** 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
