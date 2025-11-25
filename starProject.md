@@ -1,3 +1,6 @@
+### [karami8/FlashID2Chinese](https://github.com/karami8/FlashID2Chinese)
+- **Description:** FlashID 一键汉化
+
 ### [cpploveme/SubMangerBot](https://github.com/cpploveme/SubMangerBot)
 
 ### [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
@@ -967,7 +970,7 @@
 - **Description:** 哔哩哔哩缓存导出工具
 
 ### [certimate-go/certimate](https://github.com/certimate-go/certimate)
-- **Description:** An open-source and free self-hosted SSL certificates ACME tool that automates the lifecycle of issuance, deployment, renewal, and notification. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、通知全流程自动化，支持各大主流云厂商。
+- **Description:** An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, and renewal visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期全流程自动化可视化，支持各大主流云厂商。
 
 ### [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)
 - **Description:** Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
@@ -1102,7 +1105,7 @@
 - **Description:** 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 
 ### [miloira/wxhook](https://github.com/miloira/wxhook)
-- **Description:** Python微信机器人框架，支持微信3.9.2.23、3.9.5.81、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17版本
+- **Description:** Python微信机器人框架，支持微信3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17版本
 
 ### [lemodragon/Siliconflow2cow](https://github.com/lemodragon/Siliconflow2cow)
 - **Description:** Siliconflow2cow 是一个强大的 chatgpt-on-wechat 插件，允许用户通过简单的命令生成各种风格的图像。该插件支持多种模型，包括文本到图像和图像到图像的转换，为用户提供了丰富的图像生成选项。
