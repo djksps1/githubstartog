@@ -1,3 +1,6 @@
+### [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)
+- **Description:** 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
+
 ### [karami8/FlashID2Chinese](https://github.com/karami8/FlashID2Chinese)
 - **Description:** FlashID 一键汉化
 
@@ -1105,7 +1108,7 @@
 - **Description:** 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 
 ### [miloira/wxhook](https://github.com/miloira/wxhook)
-- **Description:** Python微信机器人框架，支持微信3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17版本
+- **Description:** Python微信机器人框架，支持微信3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17版本，企业微信4.1.0.6011，4.1.22.6014，4.1.33.6009，5.0.0.6008版本。
 
 ### [lemodragon/Siliconflow2cow](https://github.com/lemodragon/Siliconflow2cow)
 - **Description:** Siliconflow2cow 是一个强大的 chatgpt-on-wechat 插件，允许用户通过简单的命令生成各种风格的图像。该插件支持多种模型，包括文本到图像和图像到图像的转换，为用户提供了丰富的图像生成选项。
