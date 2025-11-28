@@ -191,7 +191,7 @@
 - **Description:** A lightweight local-network presentation remote. Control your slides wirelessly from your phone.
 
 ### [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot)
-- **Description:** Save any Telegram file, anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram.
+- **Description:** Save Any Telegram File to Anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram.
 
 ### [yamadashy/repomix](https://github.com/yamadashy/repomix)
 - **Description:** 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
@@ -443,7 +443,7 @@
 - **Description:** Web builder AI-Agent 
 
 ### [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro)
-- **Description:** All in one YouTube App with downloader, background player, Google Gemini ✨ and many more features.
+- **Description:** Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.
 
 ### [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp)
 
@@ -1590,9 +1590,6 @@
 
 ### [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)
 - **Description:** Official Code for DragGAN (SIGGRAPH 2023)
-
-### [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant)
-- **Description:** 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
 
 ### [wkeyuan/DWSurvey](https://github.com/wkeyuan/DWSurvey)
 - **Description:** Survey System. 最好用的开源问卷调查系统、表单系统。
