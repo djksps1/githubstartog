@@ -202,8 +202,6 @@
 ### [pavlobu/deskreen](https://github.com/pavlobu/deskreen)
 - **Description:** Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 
-### [shiyi11yi/Sub-Hub](https://github.com/shiyi11yi/Sub-Hub)
-
 ### [aurora-develop/aurora](https://github.com/aurora-develop/aurora)
 - **Description:** free
 
