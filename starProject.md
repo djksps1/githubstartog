@@ -65,7 +65,7 @@
 - **Description:** 在 sublinkX 基础上二次开发，支持更多协议和高度自定义的开源订阅转换管理工具。
 
 ### [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill)
-- **Description:** Yet another sanguosha clone, written in Qt and Lua.
+- **Description:** An open source board game engine, written in Qt and Lua.
 
 ### [bin456789/reinstall](https://github.com/bin456789/reinstall)
 - **Description:** 一键DD/重装脚本 (One-click reinstall OS on VPS)
