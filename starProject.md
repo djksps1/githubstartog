@@ -1,3 +1,6 @@
+### [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list)
+- **Description:** 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
+
 ### [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)
 - **Description:** 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
 
@@ -1588,6 +1591,9 @@
 
 ### [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)
 - **Description:** Official Code for DragGAN (SIGGRAPH 2023)
+
+### [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant)
+- **Description:** 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
 
 ### [wkeyuan/DWSurvey](https://github.com/wkeyuan/DWSurvey)
 - **Description:** Survey System. 最好用的开源问卷调查系统、表单系统。
