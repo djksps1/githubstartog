@@ -1,3 +1,6 @@
+### [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)
+- **Description:** 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [商店版本 1.3.0，最新版本 1.4.0+，可选择本地安装抢先体验新功能，具体版本差异见下方 release note]
+
 ### [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list)
 - **Description:** 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 
@@ -342,7 +345,7 @@
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
 
 ### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-- **Description:** ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多消息平台（QQ, Telegram, 企微, 飞书, 钉钉等）集成，易用的插件系统，支持接入 OpenAI, Gemini, Anthropic, Dify, Coze, 阿里云百炼应用等平台，内置知识库、Agent 智能体
+- **Description:** ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / Telegram / 企微 / 飞书 / 钉钉等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
 
 ### [ses4255/Versatile-OCR-Program](https://github.com/ses4255/Versatile-OCR-Program)
 - **Description:** Multi-modal OCR pipeline optimized for ML training (text, figure, math, tables, diagrams)
@@ -832,7 +835,7 @@
 - **Description:** 基于LQ的chat2api项目，搭建一个共享站，方便给自己的小伙伴们使用
 
 ### [himanshupapola/sk_based_checker](https://github.com/himanshupapola/sk_based_checker)
-- **Description:** This PHP-based sk checker created strictly for educational and testing purposes only.
+- **Description:** This PHP-based sk checker created strictly for educational and testing purposes of Stripe security only.
 
 ### [yangtb2024/OneTimeMessagePHP](https://github.com/yangtb2024/OneTimeMessagePHP)
 
@@ -1548,7 +1551,7 @@
 ### [guobao2333/Python-HandyTool](https://github.com/guobao2333/Python-HandyTool)
 - **Description:** 用python编写的一些方便实用小工具
 
-### [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai)
+### [sear-chat/SearChat](https://github.com/sear-chat/SearChat)
 - **Description:** AI Search Chat , Support DeepResearch, OpenAI/Anthropic/VertexAI/Gemini, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。
 
 ### [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs)
