@@ -16,7 +16,7 @@
 - **Description:** CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ### [FakeOAI/tokens](https://github.com/FakeOAI/tokens)
-- **Description:** 逆向Tokens管理平台，逆向ChatGPT、Cursor、Grok、Claude、Gemini、Sora、Codex、Flow、GeminiCli、Antigravity等平台转OpenAI API标准格式，支持Claude Code、Codex原生工具调用
+- **Description:** 逆向Tokens管理平台，逆向ChatGPT、Cursor、Grok、Claude、Gemini、Sora、Codex、Flow、GeminiCli、Antigravity、Gemini Business等平台转OpenAI API标准格式，支持Claude Code、Codex原生工具调用
 
 ### [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - **Description:** The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -764,7 +764,7 @@
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
 - **Description:** Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
 
-### [ccbikai/Sink](https://github.com/ccbikai/Sink)
+### [miantiao-me/Sink](https://github.com/miantiao-me/Sink)
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 
 ### [Ac-Wiki/Ac-Wiki](https://github.com/Ac-Wiki/Ac-Wiki)
@@ -1145,7 +1145,7 @@
 
 ### [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui)
 
-### [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)
+### [miantiao-me/BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel)
 - **Description:** Turn your Telegram Channel into a MicroBlog.
 
 ### [Ha3MrX/DDos-Attack](https://github.com/Ha3MrX/DDos-Attack)
