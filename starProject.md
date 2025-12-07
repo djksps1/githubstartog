@@ -1,3 +1,6 @@
+### [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)
+- **Description:** 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
+
 ### [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)
 - **Description:** 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [商店版本 1.3.0，最新版本 1.4.0+，可选择本地安装抢先体验新功能，具体版本差异见下方 release note]
 
@@ -560,7 +563,7 @@
 - **Description:** ⚡基于 Cloudflare Workers 优化LLM流式输出，支持多种格式API，转换大型响应块，带Web管理页，原生Fetch请求（ShadowFetch），支持多KEY负载均衡
 
 ### [beilunyang/moemail](https://github.com/beilunyang/moemail)
-- **Description:** 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
+- **Description:** 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉
 
 ### [idoknow/Campux](https://github.com/idoknow/Campux)
 - **Description:** 校园墙自动化 和 校内服务统一认证解决方案 ｜ 自助投稿、网页审核、自动发说说｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
