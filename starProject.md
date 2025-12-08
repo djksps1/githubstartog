@@ -1,8 +1,11 @@
+### [leon7482/SheerID-Tool](https://github.com/leon7482/SheerID-Tool)
+- **Description:** Official front-end UI showcase for the SheerID Auto Verification Tool. Features a responsive design, real-time log display, and a modern user interface.
+
 ### [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)
 - **Description:** 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 
 ### [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)
-- **Description:** 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [商店版本 1.3.0，最新版本 1.4.0+，可选择本地安装抢先体验新功能，具体版本差异见下方 release note]
+- **Description:** 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly[建议统一走商店安装，本地安装后续不好同步更新]
 
 ### [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list)
 - **Description:** 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
@@ -19,7 +22,7 @@
 - **Description:** CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ### [FakeOAI/tokens](https://github.com/FakeOAI/tokens)
-- **Description:** 逆向Tokens管理平台，逆向ChatGPT、Cursor、Grok、Claude、Gemini、Sora、Codex、Flow、GeminiCli、Antigravity、Gemini Business等平台转OpenAI API标准格式，支持Claude Code、Codex原生工具调用
+- **Description:** 逆向Tokens管理平台，逆向ChatGPT、Cursor、Grok、Claude、Gemini官网、Sora、Codex、Flow、GeminiCli、Antigravity、Gemini Business等平台转OpenAI API标准格式，支持Claude Code、Codex原生工具调用
 
 ### [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - **Description:** The simplest, fastest repository for training/finetuning medium-sized GPTs.
