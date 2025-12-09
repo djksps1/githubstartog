@@ -1426,7 +1426,7 @@
 - **Description:** 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 
 ### [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit)
-- **Description:** 一个简易的AI语音工具箱 | A user-friendly audio toolkit for voice recognition, voice transcription, voice conversion etc.
+- **Description:** A user-friendly audio toolkit for voice recognition, voice transcription, voice conversion etc. | 一个简易的AI语音工具箱
 
 ### [afosne/DNS-UNLOCK](https://github.com/afosne/DNS-UNLOCK)
 - **Description:** 加速网络解析速度，解锁Netflix、hulu、disney等网页
