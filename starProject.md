@@ -312,7 +312,7 @@
 - **Description:** Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 
 ### [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
-- **Description:** Your AI Operator for Web, Android, Automation & Testing.
+- **Description:** Driving all platforms UI automation with vision-based model
 
 ### [zqq-nuli/Claude-auto-register](https://github.com/zqq-nuli/Claude-auto-register)
 - **Description:** Claude-auto-register
