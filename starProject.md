@@ -968,7 +968,7 @@
 - **Description:** 64Gram (unofficial Telegram Desktop)
 
 ### [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo)
-- **Description:** 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.新增页面右下角导航；2.通过调用 JavaScript 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91porn/hitomi/紳士漫畫/禁漫天堂/等视频&ACG&小说&漫画网站上的弹窗广告&视频广告&Gif图片广告等，保持网页清爽干净无打扰！ P.S. 欢迎提交issue
+- **Description:** 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.导航 2.通过 JS/CSS 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91porn/hitomi/紳士漫畫/禁漫天堂/等视频&ACG&小说&漫画网站上的弹窗广告&视频广告&Gif广告，沉浸式翻译/提取M3U8等，保持网页清爽干净无打扰！ P.S. 欢迎提交issue
 
 ### [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
 - **Description:** Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
@@ -1558,7 +1558,7 @@
 - **Description:** 用python编写的一些方便实用小工具
 
 ### [sear-chat/SearChat](https://github.com/sear-chat/SearChat)
-- **Description:** AI Search Chat , Support DeepResearch, OpenAI/Anthropic/VertexAI/Gemini, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。
+- **Description:** Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。
 
 ### [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs)
 - **Description:** Instantly generate AI-powered subtitles on your device. Works standalone or connects to DaVinci Resolve.
@@ -1665,7 +1665,7 @@
 - **Description:** An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 
 ### [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- **Description:** This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- **Description:** Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ### [CofbroTeam/Doraemon](https://github.com/CofbroTeam/Doraemon)
 - **Description:** ⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！
