@@ -1,3 +1,6 @@
+### [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor)
+- **Description:** 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 CPU、GPU、内存、磁盘、网络等系统性能。支持横竖屏显示、多语言、主题切换、透明度显示、三色报警，界面简洁且高度可配置。A lightweight and customizable desktop hardware monitoring tool — real-time monitoring of system performance such as CPU, GPU, memory, disk, and network.
+
 ### [leon7482/SheerID-Tool](https://github.com/leon7482/SheerID-Tool)
 - **Description:** Official front-end UI showcase for the SheerID Auto Verification Tool. Features a responsive design, real-time log display, and a modern user interface.
 
@@ -5,7 +8,7 @@
 - **Description:** 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 
 ### [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)
-- **Description:** 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly[建议统一走商店安装，本地安装后续不好同步更新]
+- **Description:** 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly[正在开发 Sidebar 高级功能，敬请期待]
 
 ### [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list)
 - **Description:** 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
