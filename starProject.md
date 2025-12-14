@@ -1,3 +1,6 @@
+### [tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker)
+- **Description:** 🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具)
+
 ### [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor)
 - **Description:** 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 CPU、GPU、内存、磁盘、网络等系统性能。支持横竖屏显示、多语言、主题切换、透明度显示、三色报警，界面简洁且高度可配置。A lightweight and customizable desktop hardware monitoring tool — real-time monitoring of system performance such as CPU, GPU, memory, disk, and network.
 
@@ -665,7 +668,7 @@
 ### [guioalis/miaogejqr](https://github.com/guioalis/miaogejqr)
 - **Description:** 喵哥AI群管机器人
 
-### [carlliuxx/shortcuts_for_android](https://github.com/carlliuxx/shortcuts_for_android)
+### [carlliuxx/jianjiao](https://github.com/carlliuxx/jianjiao)
 - **Description:** 为安卓设备打造快捷指令，用语音实现自动化操作！
 
 ### [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS)
