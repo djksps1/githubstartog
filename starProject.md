@@ -1,3 +1,6 @@
+### [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus)
+- **Description:** The All in One Framework to Build Undefeatable Scrapers
+
 ### [tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker)
 - **Description:** 🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具)
 
@@ -43,7 +46,7 @@
 - **Description:** 源代码(开源版本到0.8)，后续版本会继续更新但不会开源
 
 ### [agluo/ql-script-hub](https://github.com/agluo/ql-script-hub)
-- **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控、薅羊毛，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|Leaflow
+- **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|Leaflow
 
 ### [buyi06/-Linux-](https://github.com/buyi06/-Linux-)
 - **Description:** 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
@@ -303,7 +306,7 @@
 ### [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
 
 ### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
-- **Description:** 🔍  Semantic search your Telegram chat history | 语义化搜索您的 Telegram 聊天记录
+- **Description:** 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 
 ### [PrintNow/LLM-Compare](https://github.com/PrintNow/LLM-Compare)
 - **Description:** LLM 对比测试平台，支持多个模型同屏同时响应回答，方便测试模型区别
@@ -1432,7 +1435,7 @@
 - **Description:** 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 
 ### [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit)
-- **Description:** A user-friendly audio toolkit for voice recognition, voice transcription, voice conversion etc. | 一个简易的AI语音工具箱
+- **Description:** A user-friendly audio toolkit for voice recognition, voice transcription, voice conversion etc.
 
 ### [afosne/DNS-UNLOCK](https://github.com/afosne/DNS-UNLOCK)
 - **Description:** 加速网络解析速度，解锁Netflix、hulu、disney等网页
