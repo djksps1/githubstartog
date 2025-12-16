@@ -40,7 +40,7 @@
 - **Description:** A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.
 
 ### [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
-- **Description:** cloudflare email 邮箱  临时邮箱 邮件发送 mail
+- **Description:** Cloud Mail - Simple Email Service on Cloudflare  | 基于 Cloudflare 的简约响应式邮箱服务  | Cloudflare Email 邮箱 Mail
 
 ### [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases)
 - **Description:** 源代码(开源版本到0.8)，后续版本会继续更新但不会开源
