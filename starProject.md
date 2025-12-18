@@ -1,3 +1,6 @@
+### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
+- **Description:** 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
+
 ### [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus)
 - **Description:** The All in One Framework to Build Undefeatable Scrapers
 
@@ -304,9 +307,6 @@
 - **Description:** 法克劳德，啥也不是。
 
 ### [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
-
-### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
-- **Description:** 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 
 ### [PrintNow/LLM-Compare](https://github.com/PrintNow/LLM-Compare)
 - **Description:** LLM 对比测试平台，支持多个模型同屏同时响应回答，方便测试模型区别
