@@ -1,3 +1,6 @@
+### [lzskyline/VocabMeld](https://github.com/lzskyline/VocabMeld)
+- **Description:** 智能替换网页词汇，创造沉浸式双语学习环境，在日常浏览中自然习得语言。
+
 ### [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
 - **Description:** 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 
