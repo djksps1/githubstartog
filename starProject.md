@@ -1,3 +1,6 @@
+### [fasnow/fine](https://github.com/fasnow/fine)
+- **Description:** 网络空间资产测绘、ICP备案、天眼查股权结构图、端口扫描、指纹识别、小程序敏感信息提取。
+
 ### [lzskyline/VocabMeld](https://github.com/lzskyline/VocabMeld)
 - **Description:** 智能替换网页词汇，创造沉浸式双语学习环境，在日常浏览中自然习得语言。
 
