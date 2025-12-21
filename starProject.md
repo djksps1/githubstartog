@@ -1,3 +1,6 @@
+### [Unicorn369/HookEuicc](https://github.com/Unicorn369/HookEuicc)
+- **Description:** 伪装支持eSIM，获取eSIM激活码
+
 ### [fasnow/fine](https://github.com/fasnow/fine)
 - **Description:** 网络空间资产测绘、ICP备案、天眼查股权结构图、端口扫描、指纹识别、小程序敏感信息提取。
 
@@ -1350,7 +1353,7 @@
 - **Description:** One-stop Proxies Crawling and Aggregation Platform
 
 ### [imsyy/SPlayer](https://github.com/imsyy/SPlayer)
-- **Description:** 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
+- **Description:** 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player
 
 ### [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya)
 - **Description:** 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
