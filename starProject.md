@@ -49,7 +49,7 @@
 - **Description:** The simplest, fastest repository for training/finetuning medium-sized GPTs.
 
 ### [Chevey339/kelivo](https://github.com/Chevey339/kelivo)
-- **Description:** A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.
+- **Description:** A Flutter LLM Chat Client. Support Mobile & Desktop.
 
 ### [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
 - **Description:** Cloud Mail - Simple Email Service on Cloudflare  | 基于 Cloudflare 的简约响应式邮箱服务  | Cloudflare Email 邮箱 Mail
