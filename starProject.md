@@ -1,3 +1,9 @@
+### [shack2/SuperSQLInjectionV1](https://github.com/shack2/SuperSQLInjectionV1)
+- **Description:** 超级SQL注入工具（SSQLInjection）是一款基于HTTP协议自组包的SQL注入工具,采用C#开发，直接操作TCP会话来进行HTTP交互，支持出现在HTTP协议任意位置的SQL注入，支持各种类型的SQL注入，支持HTTPS模式注入；支持以盲注、错误显示、Union注入等方式来获取数据；支持Access/MySQL/SQLServer/Oracle/PostgreSQL/DB2/SQLite/Informix等数据库；支持手动灵活的进行SQL注入绕过，可自定义进行字符替换等绕过注入防护。本工具为渗透测试人员、信息安全工程师等掌握SQL注入技能的人员设计，需要使用人员对SQL注入有一定了解。 
+
+### [hezhizheng/go-wxpush](https://github.com/hezhizheng/go-wxpush)
+- **Description:** 极简且免费的微信消息推送服务 (基于golang)
+
 ### [Unicorn369/HookEuicc](https://github.com/Unicorn369/HookEuicc)
 - **Description:** 伪装支持eSIM，获取eSIM激活码
 
@@ -64,7 +70,7 @@
 - **Description:** 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
 
 ### [Archeb/opentrace](https://github.com/Archeb/opentrace)
-- **Description:** A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。
+- **Description:** Cross-platform GUI traceroute tool. 一个跨平台可视化路由追踪工具。
 
 ### [hyb-oyqq/hajimi-king-pro](https://github.com/hyb-oyqq/hajimi-king-pro)
 - **Description:** 人人都是【超级】哈基米大王
