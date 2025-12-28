@@ -1635,7 +1635,7 @@
 - **Description:** 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 
 ### [Kuingsmile/word-GPT-Plus](https://github.com/Kuingsmile/word-GPT-Plus)
-- **Description:** Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.
+- **Description:** Word GPT Plus is a word add-in which integrates the AI&Agent into Microsoft Word. 
 
 ### [bee-san/Ciphey](https://github.com/bee-san/Ciphey)
 - **Description:** ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
