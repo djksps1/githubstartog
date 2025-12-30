@@ -1,3 +1,9 @@
+### [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)
+- **Description:** 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
+
+### [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
+- **Description:** CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
 ### [oDaiSuno/OutlookManager](https://github.com/oDaiSuno/OutlookManager)
 
 ### [shack2/SuperSQLInjectionV1](https://github.com/shack2/SuperSQLInjectionV1)
@@ -30,9 +36,6 @@
 ### [leon7482/SheerID-Tool](https://github.com/leon7482/SheerID-Tool)
 - **Description:** Official front-end UI showcase for the SheerID Auto Verification Tool. Features a responsive design, real-time log display, and a modern user interface.
 
-### [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)
-- **Description:** 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
-
 ### [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)
 - **Description:** 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly[正在开发 Sidebar 高级功能，敬请期待]
 
@@ -46,9 +49,6 @@
 - **Description:** FlashID 一键汉化
 
 ### [cpploveme/SubMangerBot](https://github.com/cpploveme/SubMangerBot)
-
-### [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
-- **Description:** CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ### [FakeOAI/tokens](https://github.com/FakeOAI/tokens)
 - **Description:** 逆向Tokens管理平台，逆向ChatGPT、Cursor、Grok、Claude、Gemini官网、Sora、Codex、Flow、GeminiCli、Antigravity、Gemini Business等平台转OpenAI API标准格式，支持Claude Code、Codex原生工具调用
@@ -375,7 +375,7 @@
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
 
 ### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-- **Description:** ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / Telegram / 企微 / 飞书 / 钉钉等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
+- **Description:** ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / 企微 / 飞书 / 钉钉 / Discord 等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
 
 ### [ses4255/Versatile-OCR-Program](https://github.com/ses4255/Versatile-OCR-Program)
 - **Description:** Multi-modal OCR pipeline optimized for ML training (text, figure, math, tables, diagrams)
@@ -573,7 +573,7 @@
 - **Description:** 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
 ### [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)
-- **Description:** Offline translation server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译服务器
+- **Description:** Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
 
 ### [sbdelse/MoyuLinuxdo](https://github.com/sbdelse/MoyuLinuxdo)
 - **Description:** 一个 Linux.do 论坛的 Command-Line 简易客户端
