@@ -375,7 +375,7 @@
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
 
 ### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-- **Description:** ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / 企微 / 飞书 / 钉钉 / Discord 等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
+- **Description:** Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. ✨
 
 ### [ses4255/Versatile-OCR-Program](https://github.com/ses4255/Versatile-OCR-Program)
 - **Description:** Multi-modal OCR pipeline optimized for ML training (text, figure, math, tables, diagrams)
