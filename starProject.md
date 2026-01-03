@@ -60,7 +60,7 @@
 - **Description:** A Flutter LLM Chat Client. Support Mobile & Desktop.
 
 ### [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
-- **Description:** Cloud Mail - Simple Email Service on Cloudflare  | 基于 Cloudflare 的简约响应式邮箱服务  | Cloudflare Email 邮箱 Mail
+- **Description:** A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
 ### [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases)
 - **Description:** 源代码(开源版本到0.8)，后续版本会继续更新但不会开源
@@ -245,7 +245,7 @@
 - **Description:** free
 
 ### [timerring/CloudCheckin](https://github.com/timerring/CloudCheckin)
-- **Description:** 基于 CI/CD 以及 Cloudflare Workers  的 Nodeseek V2EX 一亩三分地 自动签到及答题 (Daily check in the nodeseek and V2EX 1point3acres)
+- **Description:** 基于 CI/CD 以及 Cloudflare Workers  的 Nodeseek V2EX 一亩三分地 Deepflood 自动签到及答题 (Daily check in the nodeseek V2EX 1point3acres Deepflood)
 
 ### [tlanyan/tg-antispam](https://github.com/tlanyan/tg-antispam)
 - **Description:** Telegram 防止垃圾用户（主要是 Premium 用户）的 bot
@@ -1265,7 +1265,7 @@
 - **Description:** Tailor是一款视频智能裁剪、视频生成和视频优化的视频剪辑工具。目前的目标是通过人工智能技术减少视频剪辑的繁琐操作，让普通人也能简单实现专业剪辑人的水准！长远目标是让视频剪辑实现真正的AIGC！
 
 ### [hooke007/mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit)
-- **Description:** 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 汉化文档 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config ； 着色器 shader 滤镜 filter 整合方案
+- **Description:** 🔄 mpv player 播放器折腾记录 Windows conf | 中文注释配置 汉化文档 快速帮助入门 | mpv-lazy 懒人包 Win11 x64 config | 着色器 shader 滤镜 filter 整合方案
 
 ### [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager)
 - **Description:** 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
@@ -1576,7 +1576,7 @@
 - **Description:** 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
 
 ### [qiye45/wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload)
-- **Description:** 微信视频号下载工具，支持视频、直播回放、直播下载
+- **Description:** 微信视频号下载工具，支持视频号视频、直播回放、直播、图片下载
 
 ### [guobao2333/Python-HandyTool](https://github.com/guobao2333/Python-HandyTool)
 - **Description:** 用python编写的一些方便实用小工具
