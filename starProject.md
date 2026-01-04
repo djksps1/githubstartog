@@ -1489,7 +1489,7 @@
 - **Description:** Multi-purpose proxy service management system
 
 ### [okxlin/appstore](https://github.com/okxlin/appstore)
-- **Description:** 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
+- **Description:** 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerbox)
 
 ### [pmarks-net/ipvfoo](https://github.com/pmarks-net/ipvfoo)
 - **Description:** Display the current page's IP version and addresses
