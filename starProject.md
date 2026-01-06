@@ -611,7 +611,7 @@
 - **Description:** Windows 11-like custom directory icon.
 
 ### [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup)
-- **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+- **Description:** 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 
 ### [jadu/test-payment-cards](https://github.com/jadu/test-payment-cards)
 
@@ -713,7 +713,7 @@
 - **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 
 ### [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-- **Description:** 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+- **Description:** Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
 
 ### [Cunninger/ocr-based-deepseek](https://github.com/Cunninger/ocr-based-deepseek)
 - **Description:** 基于deepseek 的OCR
