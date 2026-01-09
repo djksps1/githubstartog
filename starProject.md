@@ -72,7 +72,7 @@
 - **Description:** 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
 
 ### [Archeb/opentrace](https://github.com/Archeb/opentrace)
-- **Description:** Open Source Visualized Network Tracing Tool for macOS, Windows, and Linux. 跨平台可视化路由追踪工具。
+- **Description:** Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux. 跨平台可视化路由追踪工具。
 
 ### [hyb-oyqq/hajimi-king-pro](https://github.com/hyb-oyqq/hajimi-king-pro)
 - **Description:** 人人都是【超级】哈基米大王
