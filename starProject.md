@@ -1,3 +1,11 @@
+### [zoidberg-xgd/TeleSubmit-v2](https://github.com/zoidberg-xgd/TeleSubmit-v2)
+- **Description:** 功能强大的 Telegram 频道投稿机器人，支持媒体上传、全文搜索、热度统计、标签系统等功能
+
+### [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
+- **Description:** We have made you a wrapper you can't refuse
+
+### [Leclee/auto_bitbrowser](https://github.com/Leclee/auto_bitbrowser)
+
 ### [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)
 - **Description:** 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 
@@ -152,7 +160,7 @@
 - **Description:** 旧版BPB面板漏洞自动获取节点，优选节点自动上传，自动获取优质优选节点
 
 ### [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
-- **Description:** 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
+- **Description:** 本项目基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
 
 ### [mirrorange/clove](https://github.com/mirrorange/clove)
 - **Description:** A Claude.ai reverse proxy
