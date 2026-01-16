@@ -1,3 +1,12 @@
+### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+- **Description:** An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+### [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
+- **Description:** Proxy server to bypass Cloudflare protection
+
+### [lyon-le/cf-mail](https://github.com/lyon-le/cf-mail)
+- **Description:** Cloudflare domain mail tempmail 
+
 ### [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
 - **Description:** Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 
@@ -230,9 +239,6 @@
 
 ### [zhaochengcube/telegram-msg-forwarder](https://github.com/zhaochengcube/telegram-msg-forwarder)
 - **Description:** 一个功能强大的Telegram机器人，能够转发指定链接的消息，支持随机消息获取和批量消息管理。
-
-### [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
-- **Description:** Proxy server to bypass Cloudflare protection
 
 ### [fengzhizi715/Monica](https://github.com/fengzhizi715/Monica)
 - **Description:** Monica – Cross-platform open-source image editor with AI features, RAW support, and a modern customizable UI.
