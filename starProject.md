@@ -19,7 +19,7 @@
 ### [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 - **Description:** We have made you a wrapper you can't refuse
 
-### [Leclee/auto_bitbrowser](https://github.com/Leclee/auto_bitbrowser)
+### [Leclee/Auto_All_System](https://github.com/Leclee/Auto_All_System)
 
 ### [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify)
 - **Description:** 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
@@ -613,7 +613,7 @@
 - **Description:** 校园墙自动化 和 校内服务统一认证解决方案 ｜ 自助投稿、网页审核、自动发说说｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
 
 ### [Scrut1ny/Malwarebytes-Premium-Bypass](https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass)
-- **Description:** Confuse Malwarebytes
+- **Description:** Malwarebytes premium trial resetter
 
 ### [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
 - **Description:** Alibaba Cloud Karpenter Provider
