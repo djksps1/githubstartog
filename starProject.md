@@ -1,3 +1,6 @@
+### [Theyka/Turnstile-Solver](https://github.com/Theyka/Turnstile-Solver)
+- **Description:** Python-based turnstile solver using the patchright library, featuring multi-threaded execution, API integration, and support for different browsers.
+
 ### [Leclee/Auto_All_System](https://github.com/Leclee/Auto_All_System)
 
 ### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
@@ -513,8 +516,6 @@
 ### [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
 - **Description:** No fortress, purely open ground.  OpenManus is Coming.
 
-### [DAXXTEAM/VCLUB-AUTO-HITTER](https://github.com/DAXXTEAM/VCLUB-AUTO-HITTER)
-
 ### [kuizuo/js-deobfuscator](https://github.com/kuizuo/js-deobfuscator)
 - **Description:** js 代码反混淆
 
@@ -640,9 +641,6 @@
 
 ### [Vita0519/WeChatAI](https://github.com/Vita0519/WeChatAI)
 - **Description:** WeChatAI 是一款基于 Python 开发的微信群聊/个人智能助手，支持多种大语言模型，可以实现智能对话、自动回复等功能。采用现代化的界面设计，操作简单直观。
-
-### [Theyka/Turnstile-Solver](https://github.com/Theyka/Turnstile-Solver)
-- **Description:** Python-based turnstile solver using the patchright library, featuring multi-threaded execution, API integration, and support for different browsers.
 
 ### [amclubs/am-cf-tunnel](https://github.com/amclubs/am-cf-tunnel)
 - **Description:** 这是一个基于 Cloudflare Workers 和 Pages平台的脚本,通过EDtunnel修改，使用该脚本可以自动生成VLESS、Trojan免费节点,并配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中。
@@ -1376,7 +1374,7 @@
 - **Description:** One-stop Proxies Crawling and Aggregation Platform
 
 ### [imsyy/SPlayer](https://github.com/imsyy/SPlayer)
-- **Description:** 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，评论区，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, song downloads, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
+- **Description:** 🎉 一个简约的音乐播放器，支持逐字歌词，评论区，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
 
 ### [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya)
 - **Description:** 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
