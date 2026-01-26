@@ -1154,7 +1154,7 @@
 - **Description:** linux.do Daily Check-In. 每日签到，每日打卡
 
 ### [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-- **Description:** 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+- **Description:** :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 
 ### [miloira/wxhook](https://github.com/miloira/wxhook)
 - **Description:** Python微信机器人框架，支持微信3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17版本，企业微信4.1.0.6011，4.1.22.6014，4.1.33.6009，5.0.0.6008版本。
