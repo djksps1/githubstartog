@@ -57,7 +57,7 @@
 - **Description:** 🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具)
 
 ### [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor)
-- **Description:** 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 CPU、GPU、内存、磁盘、网络等系统性能。支持横竖屏显示、多语言、主题切换、透明度显示、三色报警，界面简洁且高度可配置。A lightweight and customizable desktop hardware monitoring tool — real-time monitoring of system performance such as CPU, GPU, memory, disk, and network.
+- **Description:** 一款轻量级、高度可定制的 Windows桌面和任务栏硬件性能监控工具，支持监测 CPU、GPU、内存、磁盘、网速、FPS 计数、插件扩展及内存清理。A lightweight, customizable hardware monitor for the Windows desktop & taskbar. Features CPU/GPU/RAM/Network monitoring, FPS counter, plugin support, and memory optimization.
 
 ### [leon7482/SheerID-Tool](https://github.com/leon7482/SheerID-Tool)
 - **Description:** Official front-end UI showcase for the SheerID Auto Verification Tool. Features a responsive design, real-time log display, and a modern user interface.
@@ -573,7 +573,7 @@
 - **Description:** Use the Mistral Strongest OCR to convert the PDF and Image to markdown.
 
 ### [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
-- **Description:** AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 A Unified AI Model Management & Distribution System. Aggregate all your LLMs into one app and access them via an OpenAI-compatible API, with native support for Claude (Messages) and Gemini formats.
+- **Description:** A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 
 ### [open-webui/open-webui](https://github.com/open-webui/open-webui)
 - **Description:** User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
