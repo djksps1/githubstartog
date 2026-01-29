@@ -395,7 +395,7 @@
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
 
 ### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-- **Description:** Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. ✨
+- **Description:** Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your clawdbot alternative. ✨
 
 ### [ses4255/Versatile-OCR-Program](https://github.com/ses4255/Versatile-OCR-Program)
 - **Description:** Multi-modal OCR pipeline optimized for ML training (text, figure, math, tables, diagrams)
@@ -517,7 +517,7 @@
 - **Description:** No fortress, purely open ground.  OpenManus is Coming.
 
 ### [kuizuo/js-deobfuscator](https://github.com/kuizuo/js-deobfuscator)
-- **Description:** js 代码反混淆
+- **Description:** 让混淆不再成为逆向分析中的绊脚石。基于 Babel AST 的自动化 JS 反混淆工具，提供在线 Playground、命令行与可编程 API。
 
 ### [wiidede/exif-gallery-nuxt](https://github.com/wiidede/exif-gallery-nuxt)
 - **Description:** A full-stack photo album solution that integrates AI intelligent processing, browser image compression, and other functions.
