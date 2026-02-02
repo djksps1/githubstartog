@@ -77,7 +77,7 @@
 ### [cpploveme/SubMangerBot](https://github.com/cpploveme/SubMangerBot)
 
 ### [FakeOAI/tokens](https://github.com/FakeOAI/tokens)
-- **Description:** 逆向Tokens管理平台，逆向ChatGPT、Cursor、Grok、Claude、Gemini官网、Sora、Codex、Flow、GeminiCli、Antigravity、Gemini Business等平台转OpenAI API标准格式，支持Claude Code、Codex原生工具调用
+- **Description:** 商用逆向Tokens管理平台，逆向ChatGPT、Cursor、Grok、Claude、Gemini官网、Sora、Codex、Flow、GeminiCli、Antigravity、Gemini Business等平台转OpenAI API标准格式，支持Claude Code、Codex原生工具调用
 
 ### [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - **Description:** The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -1374,7 +1374,7 @@
 - **Description:** One-stop Proxies Crawling and Aggregation Platform
 
 ### [imsyy/SPlayer](https://github.com/imsyy/SPlayer)
-- **Description:** 🎉 一个简约的音乐播放器，支持逐字歌词，任务栏歌词，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
+- **Description:** 🎉 一个简约的音乐播放器，支持逐字歌词，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
 
 ### [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya)
 - **Description:** 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
@@ -1510,7 +1510,7 @@
 - **Description:** Display the current page's IP version and addresses
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+- **Description:** 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
 
 ### [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)
 - **Description:** 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
