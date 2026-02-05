@@ -221,7 +221,7 @@
 - **Description:** 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 
 ### [imzyb/MiSub](https://github.com/imzyb/MiSub)
-- **Description:** 测试站，密码admin
+- **Description:** 测试站，密码admin123
 
 ### [MiaoMagic/miaospeed](https://github.com/MiaoMagic/miaospeed)
 - **Description:** Yet another server for universal connectivity debugging.
@@ -405,9 +405,6 @@
 
 ### [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
 - **Description:** AutoBangumi - 全自动追番工具
-
-### [HCLonely/bili-senior-newbie-qa](https://github.com/HCLonely/bili-senior-newbie-qa)
-- **Description:** 哔哩哔哩硬核会员搜题脚本
 
 ### [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha)
 - **Description:** :key: Curated list of awesome captcha libraries and crack tools.
