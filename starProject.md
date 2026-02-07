@@ -1175,7 +1175,7 @@
 - **Description:** SmartSystemMenu extends system menu of all windows in the system
 
 ### [baihengaead/wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)
-- **Description:** WiFi密码暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
+- **Description:** WiFi暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
 
 ### [snailyp/yeschat-reverse](https://github.com/snailyp/yeschat-reverse)
 
@@ -1374,7 +1374,7 @@
 - **Description:** One-stop Proxies Crawling and Aggregation Platform
 
 ### [imsyy/SPlayer](https://github.com/imsyy/SPlayer)
-- **Description:** 🎉 一个简约的音乐播放器，支持逐字歌词，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
+- **Description:** 🎉 支持逐字歌词，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
 
 ### [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya)
 - **Description:** 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
