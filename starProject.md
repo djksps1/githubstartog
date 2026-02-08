@@ -243,7 +243,7 @@
 ### [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)
 - **Description:** 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 
-### [zhaochengcube/telegram-msg-forwarder](https://github.com/zhaochengcube/telegram-msg-forwarder)
+### [cubezhao/telegram-msg-forwarder](https://github.com/cubezhao/telegram-msg-forwarder)
 - **Description:** 一个功能强大的Telegram机器人，能够转发指定链接的消息，支持随机消息获取和批量消息管理。
 
 ### [fengzhizi715/Monica](https://github.com/fengzhizi715/Monica)
@@ -1174,8 +1174,8 @@
 ### [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu)
 - **Description:** SmartSystemMenu extends system menu of all windows in the system
 
-### [baihengaead/wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)
-- **Description:** WiFi暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
+### [baihengaead/wlan-sec-test-tool](https://github.com/baihengaead/wlan-sec-test-tool)
+- **Description:** 无线网络安全测试工具，支持测试WPA/WPA2/WPA3、多开并发、自动化测试连接，需自定义密码本
 
 ### [snailyp/yeschat-reverse](https://github.com/snailyp/yeschat-reverse)
 
