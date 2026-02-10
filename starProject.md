@@ -142,7 +142,7 @@
 - **Description:** 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
 
 ### [vikiboss/60s](https://github.com/vikiboss/60s)
-- **Description:** ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+- **Description:** ⏰ 60s API 免费接口。每天 60 秒看世界、冬奥会奖牌榜 🏅、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 
 ### [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)
 - **Description:** 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
@@ -520,7 +520,7 @@
 - **Description:** 让混淆不再成为逆向分析中的绊脚石。基于 Babel AST 的自动化 JS 反混淆工具，提供在线 Playground、命令行与可编程 API。
 
 ### [wiidede/exif-gallery-nuxt](https://github.com/wiidede/exif-gallery-nuxt)
-- **Description:** A full-stack photo album solution that integrates AI intelligent processing, browser image compression, and other functions.
+- **Description:** A free personal photo gallery deployable on Cloudflare, with AI image analysis and browser-side image compression  可免费部署在 Cloudflare 的个人相册网站，支持AI图像分析，浏览器压缩图片
 
 ### [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
 - **Description:** 简简单单的看直播
