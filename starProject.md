@@ -608,7 +608,7 @@
 - **Description:** ⚡基于 Cloudflare Workers 优化LLM流式输出，支持多种格式API，转换大型响应块，带Web管理页，原生Fetch请求（ShadowFetch），支持多KEY负载均衡
 
 ### [beilunyang/moemail](https://github.com/beilunyang/moemail)
-- **Description:** 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉
+- **Description:** A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉  
 
 ### [idoknow/Campux](https://github.com/idoknow/Campux)
 - **Description:** 校园墙自动化 和 校内服务统一认证解决方案 ｜ 自助投稿、网页审核、自动发说说｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
