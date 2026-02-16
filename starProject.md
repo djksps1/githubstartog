@@ -520,7 +520,7 @@
 - **Description:** 让混淆不再成为逆向分析中的绊脚石。基于 Babel AST 的自动化 JS 反混淆工具，提供在线 Playground、命令行与可编程 API。
 
 ### [wiidede/exif-gallery-nuxt](https://github.com/wiidede/exif-gallery-nuxt)
-- **Description:** A free personal photo gallery deployable on Cloudflare, with AI image analysis and browser-side image compression  可免费部署在 Cloudflare 的个人相册网站，支持AI图像分析，浏览器压缩图片
+- **Description:** A free personal photo gallery (nuxt + nuxthub) deployable on Cloudflare, with AI image analysis and browser-side image compression  可免费部署在 Cloudflare 的个人相册网站，支持AI图像分析，浏览器压缩图片
 
 ### [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
 - **Description:** 简简单单的看直播
