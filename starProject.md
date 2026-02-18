@@ -398,7 +398,7 @@
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
 
 ### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-- **Description:** Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your openclaw alternative. ✨
+- **Description:** Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
 ### [ses4255/Versatile-OCR-Program](https://github.com/ses4255/Versatile-OCR-Program)
 - **Description:** Multi-modal OCR pipeline optimized for ML training (text, figure, math, tables, diagrams)
