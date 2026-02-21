@@ -77,8 +77,6 @@
 ### [karami8/FlashID2Chinese](https://github.com/karami8/FlashID2Chinese)
 - **Description:** FlashID 一键汉化
 
-### [cpploveme/SubMangerBot](https://github.com/cpploveme/SubMangerBot)
-
 ### [FakeOAI/tokens](https://github.com/FakeOAI/tokens)
 - **Description:** 商用逆向Tokens管理平台，轮训号池将各大平台的模型能力转化为OpenAI、Anthropic、Gemini等平台的API接口标准格式，支持Claude Code、Codex、GeminiCli等终端调用
 
@@ -225,8 +223,6 @@
 
 ### [MiaoMagic/miaospeed](https://github.com/MiaoMagic/miaospeed)
 - **Description:** Yet another server for universal connectivity debugging.
-
-### [cpploveme/MSPing](https://github.com/cpploveme/MSPing)
 
 ### [friend-nicen/wepush](https://github.com/friend-nicen/wepush)
 - **Description:** WePush 是一个通过模拟人工点击PC微信实现的微信消息推送机器人，具有安全稳定、零封号风险的特点。
@@ -434,8 +430,6 @@
 - **Description:** MTO is a powerful information gathering tool specifically designed for cybersecurity professionals. It integrates modules from Hunter, Fofa, and Quake, making it convenient for users to extract valuable information from various data sources.
 
 ### [adm1nSQL/Sub_Manager](https://github.com/adm1nSQL/Sub_Manager)
-
-### [cpploveme/SubShareBot](https://github.com/cpploveme/SubShareBot)
 
 ### [Heavrnl/Mail2Telegram](https://github.com/Heavrnl/Mail2Telegram)
 - **Description:** Forward emails to Telegram/把邮件转发到Telegram
