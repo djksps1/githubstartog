@@ -1,3 +1,6 @@
+### [Fantasy-AMAP/fantasy-portrait](https://github.com/Fantasy-AMAP/fantasy-portrait)
+- **Description:** FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers
+
 ### [Lany798/Cli-Proxy-API-Management-Center](https://github.com/Lany798/Cli-Proxy-API-Management-Center)
 - **Description:** This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring.
 
