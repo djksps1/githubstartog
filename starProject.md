@@ -1507,7 +1507,7 @@
 - **Description:** Display the current page's IP version and addresses
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
+- **Description:** 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
 
 ### [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)
 - **Description:** 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
@@ -1701,7 +1701,7 @@
 - **Description:** An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 
 ### [f/prompts.chat](https://github.com/f/prompts.chat)
-- **Description:** a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- **Description:** f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ### [CofbroTeam/Doraemon](https://github.com/CofbroTeam/Doraemon)
 - **Description:** ⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！
