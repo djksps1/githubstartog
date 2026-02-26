@@ -188,7 +188,7 @@
 - **Description:** 保护你的浏览器指纹 | Protect Your Browser Fingerprints | Chrome, Edge, Firefox | 扩展 / Extension
 
 ### [beck-8/subs-check](https://github.com/beck-8/subs-check)
-- **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
+- **Description:** 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式订阅的工具
 
 ### [lonelam/subconverter-rs](https://github.com/lonelam/subconverter-rs)
 - **Description:** 一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
