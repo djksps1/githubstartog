@@ -1019,7 +1019,7 @@
 - **Description:** 哔哩哔哩缓存导出工具
 
 ### [certimate-go/certimate](https://github.com/certimate-go/certimate)
-- **Description:** An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, and renewal visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期全流程自动化可视化，支持各大主流云厂商。
+- **Description:** An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
 
 ### [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)
 - **Description:** Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
@@ -1507,7 +1507,7 @@
 - **Description:** Display the current page's IP version and addresses
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
+- **Description:** 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 
 ### [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)
 - **Description:** 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
