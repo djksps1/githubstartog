@@ -324,7 +324,7 @@
 - **Description:** Trojan Panel installation script / Trojan Panel 一键安装脚本
 
 ### [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
-- **Description:** FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化模拟人工操作将API请求转发到 Google AI Studio 网页，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
+- **Description:** FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio 网页，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
 
 ### [fish2018/ClashForge](https://github.com/fish2018/ClashForge)
 - **Description:** 代理节点全自动采集、聚合、去重、批量检测、移除失效节点，按延迟/下载速度排序，一键生成clash、singbox永久订阅链接，支持mac、linux、windows、docker，支持WebUI操作 
@@ -1154,7 +1154,7 @@
 - **Description:** The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 
 ### [miloira/wxhook](https://github.com/miloira/wxhook)
-- **Description:** Python微信机器人框架，支持微信3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17、4.1.5.16、4.1.6.14版本，企业微信4.1.0.6011，4.1.22.6014，4.1.33.6009，5.0.0.6008版本。
+- **Description:** Python微信机器人框架，支持微信3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17、4.1.5.16、4.1.6.14、4.1.7.30版本，企业微信4.1.0.6011，4.1.22.6014，4.1.33.6009，5.0.0.6008版本。
 
 ### [lemodragon/Siliconflow2cow](https://github.com/lemodragon/Siliconflow2cow)
 - **Description:** Siliconflow2cow 是一个强大的 chatgpt-on-wechat 插件，允许用户通过简单的命令生成各种风格的图像。该插件支持多种模型，包括文本到图像和图像到图像的转换，为用户提供了丰富的图像生成选项。
