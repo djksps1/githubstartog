@@ -99,13 +99,13 @@
 - **Description:** 源代码(开源版本到0.8)，后续版本会继续更新但不会开源
 
 ### [agluo/ql-script-hub](https://github.com/agluo/ql-script-hub)
-- **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|Leaflow
+- **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|成都地铁
 
 ### [buyi06/-Linux-](https://github.com/buyi06/-Linux-)
 - **Description:** 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
 
 ### [Archeb/opentrace](https://github.com/Archeb/opentrace)
-- **Description:** Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux. 跨平台可视化路由追踪工具。
+- **Description:** Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux.
 
 ### [hyb-oyqq/hajimi-king-pro](https://github.com/hyb-oyqq/hajimi-king-pro)
 - **Description:** 人人都是【超级】哈基米大王
@@ -807,7 +807,7 @@
 - **Description:** A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.
 
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
-- **Description:** Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
+- **Description:** Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
 
 ### [miantiao-me/Sink](https://github.com/miantiao-me/Sink)
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
@@ -921,7 +921,7 @@
 - **Description:** text2pic
 
 ### [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old)
-- **Description:** 新版已重构！详细查看README。基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
+- **Description:** An online clipboard and file sharing service based on Cloudflare Workers, supporting Markdown, burn-after-reading, text/file sharing, password protection, and more.
 
 ### [hmhm2022/gpt-cursor-auto](https://github.com/hmhm2022/gpt-cursor-auto)
 - **Description:** Python脚本 一键获取 ChatGpt 的 Access Token，Cursor Pro 自动保活
