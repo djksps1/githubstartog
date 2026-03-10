@@ -1,8 +1,8 @@
-### [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
-- **Description:** A repo for jailbreaking various LLMs, mainly Claude
-
 ### [Kylsky/chatgpt-team-helper](https://github.com/Kylsky/chatgpt-team-helper)
 - **Description:** 一站式Team账号管理
+
+### [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
+- **Description:** A repo for jailbreaking various LLMs, mainly Claude
 
 ### [Fantasy-AMAP/fantasy-portrait](https://github.com/Fantasy-AMAP/fantasy-portrait)
 - **Description:** FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers
