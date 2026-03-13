@@ -1,3 +1,6 @@
+### [wgpsec/fofa_viewer](https://github.com/wgpsec/fofa_viewer)
+- **Description:** A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
+
 ### [fantasticjoe/cpa-warden](https://github.com/fantasticjoe/cpa-warden)
 - **Description:** Interactive CLI for CPA auth inventory scanning, usage probing, and account maintenance in known CPA management environments.
 
@@ -34,7 +37,7 @@
 - **Description:** Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 
 ### [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
-- **Description:** 别养虾了，来试试养鱼吧！本项目基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+- **Description:** 别养小龙虾了，来试试养鱼吧！本项目基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
 ### [zoidberg-xgd/TeleSubmit-v2](https://github.com/zoidberg-xgd/TeleSubmit-v2)
 - **Description:** 功能强大的 Telegram 频道投稿机器人，支持媒体上传、全文搜索、热度统计、标签系统等功能
@@ -526,7 +529,7 @@
 - **Description:** No fortress, purely open ground.  OpenManus is Coming.
 
 ### [kuizuo/js-deobfuscator](https://github.com/kuizuo/js-deobfuscator)
-- **Description:** 让混淆不再成为逆向分析中的绊脚石。基于 Babel AST 的自动化 JS 反混淆工具，提供在线 Playground、命令行与可编程 API。
+- **Description:** An automated JavaScript deobfuscation tool based on Babel AST, with an online playground, CLI, and programmable API.
 
 ### [wiidede/exif-gallery-nuxt](https://github.com/wiidede/exif-gallery-nuxt)
 - **Description:** A free personal photo gallery (nuxt + nuxthub) deployable on Cloudflare, with AI image analysis and browser-side image compression  可免费部署在 Cloudflare 的个人相册网站，支持AI图像分析，浏览器压缩图片
@@ -842,7 +845,7 @@
 - **Description:** A MacOS-style Alt-Tab window/app switcher replacement for Windows
 
 ### [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
-- **Description:** An open-source, cross-platform terminal for seamless workflows
+- **Description:** An open-source, AI-integrated, cross-platform terminal for seamless workflows
 
 ### [abgox/PSCompletions](https://github.com/abgox/PSCompletions)
 - **Description:** A completion manager for a better and simpler tab-completion experience in PowerShell.
