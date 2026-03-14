@@ -126,7 +126,7 @@
 - **Description:** If you want short custom urls, like url shortening to a custom slug
 
 ### [idinging/freemail](https://github.com/idinging/freemail)
-- **Description:** Cloudflare 域名邮箱系统搭建 domain mail tempmail
+- **Description:** Cloudflare 域名邮箱系统 临时邮箱系统 domain mail tempmail
 
 ### [winfunc/opcode](https://github.com/winfunc/opcode)
 - **Description:** A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
