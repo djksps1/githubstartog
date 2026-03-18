@@ -1,3 +1,6 @@
+### [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus)
+- **Description:** 优化一下功能和使用
+
 ### [wgpsec/fofa_viewer](https://github.com/wgpsec/fofa_viewer)
 - **Description:** A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
 
