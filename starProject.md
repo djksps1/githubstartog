@@ -1,5 +1,8 @@
+### [router-for-me/CLIProxyAPIPlus](https://github.com/router-for-me/CLIProxyAPIPlus)
+- **Description:** The Plus version of CLIProxyAPI
+
 ### [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus)
-- **Description:** 优化一下功能和使用
+- **Description:** Outlookmail Plus：专为注册而生 OutlookMail Plus 是一款面向个人与团队的注册邮箱管理器。  与市面上通用型邮箱客户端不同，它更聚焦在**注册与验证**场景，并围绕注册流程做了深度优化。 演示站点密码：12345678
 
 ### [wgpsec/fofa_viewer](https://github.com/wgpsec/fofa_viewer)
 - **Description:** A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
@@ -900,7 +903,7 @@
 ### [yangtb2024/OneTimeMessagePHP](https://github.com/yangtb2024/OneTimeMessagePHP)
 
 ### [fangyuan99/cookie-share](https://github.com/fangyuan99/cookie-share)
-- **Description:** Cookie-share is a extension/script that allows users to send and receive cookies between different devices or browsers. It can be used for multi-account switching, sharing video memberships, co-renting planets, and other scenarios. A self-hosted Cloudflare Worker ensures data security.
+- **Description:** Cookie-share is a tampermonkey script that allows users to send and receive cookies between different devices or browsers. It can be used for multi-account switching, sharing video memberships, co-renting planets, and other scenarios. A self-hosted Cloudflare Worker ensures data security.
 
 ### [BBD-YZZ/week-passwd](https://github.com/BBD-YZZ/week-passwd)
 - **Description:** FTP,SSH,MYSQL,MSSQL等弱口令爆破工具！
