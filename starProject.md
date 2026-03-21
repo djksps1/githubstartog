@@ -2,7 +2,7 @@
 - **Description:** The Plus version of CLIProxyAPI
 
 ### [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus)
-- **Description:** Outlookmail Plus：专为注册而生 OutlookMail Plus 是一款面向个人与团队的注册邮箱管理器。  与市面上通用型邮箱客户端不同，它更聚焦在**注册与验证**场景，并围绕注册流程做了深度优化。 演示站点密码：12345678
+- **Description:**  Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |  
 
 ### [wgpsec/fofa_viewer](https://github.com/wgpsec/fofa_viewer)
 - **Description:** A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
@@ -1175,7 +1175,7 @@
 - **Description:** The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 
 ### [miloira/wxhook](https://github.com/miloira/wxhook)
-- **Description:** Python微信机器人框架，支持微信3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17、4.1.5.16、4.1.6.14、4.1.7.30版本，企业微信4.1.0.6011，4.1.22.6014，4.1.33.6009，5.0.0.6008版本。
+- **Description:** Python微信机器人框架，支持微信3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17、4.1.5.16、4.1.6.14、4.1.7.30，4.1.8.27版本，企业微信4.1.0.6011，4.1.22.6014，4.1.33.6009，5.0.0.6008版本。
 
 ### [lemodragon/Siliconflow2cow](https://github.com/lemodragon/Siliconflow2cow)
 - **Description:** Siliconflow2cow 是一个强大的 chatgpt-on-wechat 插件，允许用户通过简单的命令生成各种风格的图像。该插件支持多种模型，包括文本到图像和图像到图像的转换，为用户提供了丰富的图像生成选项。
