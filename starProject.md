@@ -1,3 +1,6 @@
+### [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
+- **Description:** A repo for jailbreaking various LLMs, mainly Claude
+
 ### [router-for-me/CLIProxyAPIPlus](https://github.com/router-for-me/CLIProxyAPIPlus)
 - **Description:** The Plus version of CLIProxyAPI
 
@@ -15,9 +18,6 @@
 
 ### [Kylsky/chatgpt-team-helper](https://github.com/Kylsky/chatgpt-team-helper)
 - **Description:** 一站式Team账号管理
-
-### [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
-- **Description:** A repo for jailbreaking various LLMs, mainly Claude
 
 ### [Fantasy-AMAP/fantasy-portrait](https://github.com/Fantasy-AMAP/fantasy-portrait)
 - **Description:** FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers
@@ -43,7 +43,7 @@
 - **Description:** Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 
 ### [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
-- **Description:** 别养小龙虾了，来试试养鱼吧！本项目基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+- **Description:** 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
 ### [zoidberg-xgd/TeleSubmit-v2](https://github.com/zoidberg-xgd/TeleSubmit-v2)
 - **Description:** 功能强大的 Telegram 频道投稿机器人，支持媒体上传、全文搜索、热度统计、标签系统等功能
@@ -102,7 +102,7 @@
 - **Description:** FlashID 一键汉化
 
 ### [FakeOAI/tokens](https://github.com/FakeOAI/tokens)
-- **Description:** 商用逆向Tokens管理平台，轮训号池将各大平台的模型能力转化为OpenAI、Anthropic、Gemini等平台的API接口标准格式，支持Claude Code、Codex、GeminiCli等终端调用
+- **Description:** 商用逆向Tokens管理平台，调度管理号池将各大国外AI平台的模型转化为OpenAI、Anthropic、Gemini等平台的API接口标准格式，支持Claude Code、Codex、GeminiCli等终端调用
 
 ### [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - **Description:** The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -117,7 +117,7 @@
 - **Description:** 源代码(开源版本到0.8)，后续版本会继续更新但不会开源
 
 ### [agluo/ql-script-hub](https://github.com/agluo/ql-script-hub)
-- **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|成都地铁
+- **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|成都地铁|塔斯汀汉堡
 
 ### [buyi06/-Linux-](https://github.com/buyi06/-Linux-)
 - **Description:** 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
