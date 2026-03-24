@@ -1,3 +1,6 @@
+### [PastKing/xi-mail](https://github.com/PastKing/xi-mail)
+- **Description:** 基于 Cloud Mail 二次开发的 Cloudflare 邮箱服务，Linear 风格 UI 重设计 + 功能扩展
+
 ### [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
 - **Description:** A repo for jailbreaking various LLMs, mainly Claude
 
@@ -631,7 +634,7 @@
 ### [idoknow/Campux](https://github.com/idoknow/Campux)
 - **Description:** 校园墙自动化 和 校内服务统一认证解决方案 ｜ 自助投稿、网页审核、自动发说说｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
 
-### [Scrut1ny/Malwarebytes-Premium-Bypass](https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass)
+### [Scrut1ny/MB-Premium-Reset](https://github.com/Scrut1ny/MB-Premium-Reset)
 - **Description:** Malwarebytes premium trial resetter
 
 ### [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
