@@ -426,7 +426,7 @@
 ### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
 - **Description:** Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
-### [ses4255/Versatile-OCR-Program](https://github.com/ses4255/Versatile-OCR-Program)
+### [raphael-seo/Versatile-OCR-Program](https://github.com/raphael-seo/Versatile-OCR-Program)
 - **Description:** Multi-modal OCR pipeline optimized for ML training (text, figure, math, tables, diagrams)
 
 ### [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
