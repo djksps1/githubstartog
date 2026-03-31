@@ -508,9 +508,6 @@
 ### [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
 - **Description:** Web extension to set a default speed for video and audio 
 
-### [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat)
-- **Description:** Lazyeat（懒人手势）｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
-
 ### [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena)
 - **Description:** LLM Arena by KCORES team
 
@@ -1474,7 +1471,7 @@
 - **Description:** A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ### [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
-- **Description:** 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- **Description:** 🔥 The Web Data API for AI - Power AI agents with clean web data
 
 ### [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 - **Description:** Showcase your skills on your Github readme or resumé with ease ✨
