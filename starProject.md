@@ -96,7 +96,7 @@
 - **Description:** Official front-end UI showcase for the SheerID Auto Verification Tool. Features a responsive design, real-time log display, and a modern user interface.
 
 ### [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)
-- **Description:** 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly  【29元500次sonnet，下方wx扫码联系】
+- **Description:** 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly 【Ucloud 6.9元 Coding Plan: http://compshare.cn/?ytag=GPU_YY_JL_git_zenfeed】
 
 ### [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list)
 - **Description:** 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
@@ -330,7 +330,7 @@
 - **Description:** Deobfuscate Javascript code using ChatGPT
 
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-- **Description:** Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- **Description:** Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 
 ### [HirotakaDango/HDBoard](https://github.com/HirotakaDango/HDBoard)
 - **Description:** 4chan clone in php and sqlite database with only a single file.
