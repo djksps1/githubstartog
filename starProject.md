@@ -390,9 +390,6 @@
 ### [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
 - **Description:** AI-powered, vision-driven UI automation for every platform.
 
-### [zqq-nuli/Claude-auto-register](https://github.com/zqq-nuli/Claude-auto-register)
-- **Description:** Claude-auto-register
-
 ### [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train)
 - **Description:** All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 
@@ -466,9 +463,6 @@
 
 ### [Heavrnl/Mail2Telegram](https://github.com/Heavrnl/Mail2Telegram)
 - **Description:** Forward emails to Telegram/把邮件转发到Telegram
-
-### [zqq-nuli/Cloudflare-Navihive](https://github.com/zqq-nuli/Cloudflare-Navihive)
-- **Description:** NaviHive 是一个精美的个人网站导航管理系统，帮助你整理和管理你收藏的网站链接。支持分组管理、拖拽排序、暗色模式等功能，让你的网站收藏更有条理、更易访问。
 
 ### [chenyk2016/Browser-Manager](https://github.com/chenyk2016/Browser-Manager)
 - **Description:** 一个基于Electron的多浏览器实例管理工具，支持创建和管理多个独立的Chrome浏览器实例。
@@ -923,9 +917,6 @@
 ### [13337356453/FofaSpider](https://github.com/13337356453/FofaSpider)
 - **Description:** 基于java的fofa爬虫。
 
-### [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare)
-- **Description:** ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
-
 ### [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController)
 - **Description:** 一个Emby管理网站
 
@@ -1146,7 +1137,7 @@
 - **Description:** Hcaptcha enterprise challenge solver
 
 ### [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)
-- **Description:** edgetunnel 2.0 VLESS/Trojan 多功能面板
+- **Description:** edgetunnel2 VLESS/Trojan 多功能面板
 
 ### [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg)
 - **Description:** 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
