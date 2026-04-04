@@ -1,3 +1,6 @@
+### [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store)
+- **Description:** 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+
 ### [munew/cloudflare-turnstile-solver](https://github.com/munew/cloudflare-turnstile-solver)
 - **Description:** Cloudflare Turnstile Solver (request-based, fully reversed)
 
