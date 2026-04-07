@@ -508,6 +508,9 @@
 ### [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
 - **Description:** Web extension to set a default speed for video and audio 
 
+### [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat)
+- **Description:** Lazyeat（懒人手势）｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
+
 ### [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena)
 - **Description:** LLM Arena by KCORES team
 
@@ -1528,7 +1531,7 @@
 - **Description:** Display the current page's IP version and addresses
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
+- **Description:** 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
 
 ### [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)
 - **Description:** 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
