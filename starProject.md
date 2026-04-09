@@ -126,7 +126,7 @@
 - **Description:** A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
 ### [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases)
-- **Description:** 源代码(开源版本到0.8)，后续版本会继续更新但不会开源
+- **Description:** 源代码
 
 ### [agluo/ql-script-hub](https://github.com/agluo/ql-script-hub)
 - **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|成都地铁|塔斯汀汉堡
