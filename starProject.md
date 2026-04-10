@@ -1,3 +1,6 @@
+### [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner)
+- **Description:** Scan for misconfigured S3 buckets across S3-compatible APIs!
+
 ### [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store)
 - **Description:** 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 
