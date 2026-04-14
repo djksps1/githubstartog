@@ -430,7 +430,7 @@
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
 
 ### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-- **Description:** Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+- **Description:** AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
 ### [raphael-seo/Versatile-OCR-Program](https://github.com/raphael-seo/Versatile-OCR-Program)
 - **Description:** Multi-modal OCR pipeline optimized for ML training (text, figure, math, tables, diagrams)
@@ -1152,7 +1152,7 @@
 - **Description:** 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 
 ### [wux1an/wxapkg](https://github.com/wux1an/wxapkg)
-- **Description:** 微信小程序反编译工具，.wxapkg 文件扫描 + 解密 + 解包工具
+- **Description:** 微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具
 
 ### [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel)
 - **Description:** 使用vercel的functions，将ai功能加入微信公众号
