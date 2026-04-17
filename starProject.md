@@ -1034,7 +1034,7 @@
 - **Description:** 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.导航 2.通过 JS/CSS 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91porn/hitomi/紳士漫畫/禁漫天堂/等视频&ACG&小说&漫画网站上的弹窗广告&视频广告&Gif广告，沉浸式翻译/提取M3U8等，保持网页清爽干净无打扰！ P.S. 欢迎提交issue
 
 ### [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
-- **Description:** Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
+- **Description:** A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 
 ### [basecamp/omakub](https://github.com/basecamp/omakub)
 - **Description:** Opinionated Ubuntu Setup
@@ -1152,7 +1152,7 @@
 - **Description:** 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 
 ### [wux1an/wxapkg](https://github.com/wux1an/wxapkg)
-- **Description:** 微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具
+- **Description:** 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具
 
 ### [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel)
 - **Description:** 使用vercel的functions，将ai功能加入微信公众号
