@@ -1,3 +1,5 @@
+### [chaogei/windsurf-account-manager-simple](https://github.com/chaogei/windsurf-account-manager-simple)
+
 ### [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner)
 - **Description:** Scan for misconfigured S3 buckets across S3-compatible APIs!
 
