@@ -1,3 +1,6 @@
+### [AERT-7Y/kiro-auto](https://github.com/AERT-7Y/kiro-auto)
+- **Description:** kiro自动注册机
+
 ### [chaogei/windsurf-account-manager-simple](https://github.com/chaogei/windsurf-account-manager-simple)
 
 ### [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner)
