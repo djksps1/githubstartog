@@ -21,9 +21,6 @@
 ### [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
 - **Description:** A repo for jailbreaking various LLMs, mainly Claude
 
-### [router-for-me/CLIProxyAPIPlus](https://github.com/router-for-me/CLIProxyAPIPlus)
-- **Description:** The Plus version of CLIProxyAPI
-
 ### [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus)
 - **Description:**  Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |  
 
