@@ -928,6 +928,9 @@
 ### [13337356453/FofaSpider](https://github.com/13337356453/FofaSpider)
 - **Description:** 基于java的fofa爬虫。
 
+### [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare)
+- **Description:** ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
+
 ### [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController)
 - **Description:** 一个Emby管理网站
 
