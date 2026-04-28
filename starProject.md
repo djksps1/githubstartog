@@ -1,3 +1,9 @@
+### [DanOps-1/gpt-pp-team](https://github.com/DanOps-1/gpt-pp-team)
+- **Description:** ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research
+
+### [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api)
+- **Description:** ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口协议，在线批量生成图像，号池管理，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
+
 ### [AERT-7Y/kiro-auto](https://github.com/AERT-7Y/kiro-auto)
 - **Description:** kiro自动注册机
 
@@ -134,7 +140,7 @@
 - **Description:** 源代码
 
 ### [agluo/ql-script-hub](https://github.com/agluo/ql-script-hub)
-- **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|成都地铁|塔斯汀汉堡
+- **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|成都地铁|塔斯汀汉堡|PassNAT
 
 ### [buyi06/-Linux-](https://github.com/buyi06/-Linux-)
 - **Description:** 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
@@ -341,7 +347,7 @@
 - **Description:** Deobfuscate Javascript code using ChatGPT
 
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-- **Description:** Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+- **Description:** Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.
 
 ### [HirotakaDango/HDBoard](https://github.com/HirotakaDango/HDBoard)
 - **Description:** 4chan clone in php and sqlite database with only a single file.
