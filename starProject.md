@@ -1,5 +1,5 @@
-### [DanOps-1/gpt-pp-team](https://github.com/DanOps-1/gpt-pp-team)
-- **Description:** ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research
+### [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment)
+- **Description:** ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
 
 ### [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api)
 - **Description:** ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口协议，在线批量生成图像，号池管理，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
@@ -815,7 +815,7 @@
 ### [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
 - **Description:** A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
-### [neovateai/petercat](https://github.com/neovateai/petercat)
+### [afx-team/petercat](https://github.com/afx-team/petercat)
 - **Description:** A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
 
 ### [OxOOo/ProxyPoolWithUI](https://github.com/OxOOo/ProxyPoolWithUI)
