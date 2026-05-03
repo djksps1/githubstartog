@@ -1091,7 +1091,7 @@
 - **Description:** NekoBox for Android / sing-box / universal proxy toolchain for Android
 
 ### [SamurAIGPT/AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator)
-- **Description:** A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
+- **Description:** Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping — free, no watermarks, no per-clip credits.
 
 ### [xmexg/xyks](https://github.com/xmexg/xyks)
 - **Description:** 小猿口算逆向笔记 (已实现纯协议答题模板)
