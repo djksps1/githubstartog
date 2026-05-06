@@ -1,3 +1,6 @@
+### [sarperavci/CloudflareBypassForScraping](https://github.com/sarperavci/CloudflareBypassForScraping)
+- **Description:** A cloudflare verification bypass script for webscraping
+
 ### [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment)
 - **Description:** ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
 
@@ -623,7 +626,7 @@
 - **Description:** 一个轻量级的博客系统，基于 Go 语言和 hertz 框架开发，支持多主题和多插件。
 
 ### [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
-- **Description:** 🚀 「大模型」2小时完全从0训练64M的小参数LLM！🌏 Train a 64M-parameter LLM from scratch in just 2h!
+- **Description:** 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
 
 ### [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)
 - **Description:** Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
