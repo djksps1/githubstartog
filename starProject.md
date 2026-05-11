@@ -116,7 +116,7 @@
 - **Description:** Official front-end UI showcase for the SheerID Auto Verification Tool. Features a responsive design, real-time log display, and a modern user interface.
 
 ### [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)
-- **Description:** 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly   [gpt-5.5 -> https://pay.ldxp.cn/shop/8465P8HU 0.2 倍率, 0.2元当1刀花，比官方便宜35倍]
+- **Description:** 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly   [作者新开的Gpt模型中转站 - 0.2 倍率, 0.2元当1刀花，比官方便宜35倍 https://token.glidea.app]
 
 ### [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list)
 - **Description:** 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
