@@ -414,7 +414,7 @@
 - **Description:** A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 ### [xming521/WeClone](https://github.com/xming521/WeClone)
-- **Description:** 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  
+- **Description:** 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  
 
 ### [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)
 - **Description:** AI 视频笔记生成工具 让 AI 为你的视频做笔记
