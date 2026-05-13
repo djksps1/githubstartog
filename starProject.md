@@ -1433,7 +1433,7 @@
 ### [qiuxinfa/springboot-shiro-vue-stu](https://github.com/qiuxinfa/springboot-shiro-vue-stu)
 - **Description:** 基于springBoot,shiro,vue的前后端分离的学生信息管理系统
 
-### [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext)
+### [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext)
 - **Description:** 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 
 ### [purpleru/AutoStudy](https://github.com/purpleru/AutoStudy)
@@ -1566,7 +1566,7 @@
 - **Description:** Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 
 ### [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin)
-- **Description:** A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。
+- **Description:** A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
 ### [nineya/halo-theme-dream2.0](https://github.com/nineya/halo-theme-dream2.0)
 - **Description:** 适配halo2.x的dream主题
@@ -1645,9 +1645,6 @@
 
 ### [euphrat1ca/Security-List](https://github.com/euphrat1ca/Security-List)
 - **Description:** If you have any good suggestions or comments during the search process, please feedback some index experience in issues. Thank you for your participation.查阅过程中，如果有什么好的意见或建议，请在Issues反馈，感谢您的参与。
-
-### [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
-- **Description:** 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、探索版、K1思考模型、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 
 ### [cxOrz/chaoxing-signin](https://github.com/cxOrz/chaoxing-signin)
 - **Description:** 超星学习通签到：支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测、QQ机器人签到与推送。
