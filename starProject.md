@@ -145,7 +145,7 @@
 ### [agluo/ql-script-hub](https://github.com/agluo/ql-script-hub)
 - **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|成都地铁|塔斯汀汉堡|PassNAT
 
-### [buyi06/-Linux-](https://github.com/buyi06/-Linux-)
+### [buyi06/optimize_extreme](https://github.com/buyi06/optimize_extreme)
 - **Description:** 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
 
 ### [Archeb/opentrace](https://github.com/Archeb/opentrace)
@@ -649,7 +649,7 @@
 - **Description:** A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉  
 
 ### [idoknow/Campux](https://github.com/idoknow/Campux)
-- **Description:** 校园墙自动化 和 校内服务统一认证解决方案 ｜ 自助投稿、网页审核、自动发说说｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
+- **Description:** QQ 校园墙自动化平台 ｜ 自助投稿、网页审核、自动发说说、数据分析、多号管理｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
 
 ### [Scrut1ny/MB-Premium-Reset](https://github.com/Scrut1ny/MB-Premium-Reset)
 - **Description:** Malwarebytes premium trial resetter
@@ -1488,7 +1488,7 @@
 - **Description:** A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ### [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
-- **Description:** 🔥 The API to search, scrape, and interact with the web for AI
+- **Description:** 🔥 Search, scrape, and clean the web for AI agents.
 
 ### [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 - **Description:** Showcase your skills on your Github readme or resumé with ease ✨
@@ -1559,8 +1559,8 @@
 ### [talebook/talebook](https://github.com/talebook/talebook)
 - **Description:** 一个简单好用的个人书库
 
-### [oh-my-live2d/oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d)
-- **Description:** 应用于浏览器环境且开箱即用的Live2D组件, 它支持所有版本的Live2D模型, 使用方式足够简单并且高可自定义, 可以快速为您的个人网站添加Live2D看板娘, 使您的个人网站变得更具有特色.
+### [hacxy/l2d-widget](https://github.com/hacxy/l2d-widget)
+- **Description:** Drop a Live2D character onto any web page. One function call, zero framework dependencies.
 
 ### [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
 - **Description:** Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
