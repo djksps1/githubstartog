@@ -1192,7 +1192,7 @@
 - **Description:** linux.do Daily Check-In. 每日签到，每日打卡
 
 ### [lobehub/lobehub](https://github.com/lobehub/lobehub)
-- **Description:** The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+- **Description:** LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 
 ### [miloira/wxhook](https://github.com/miloira/wxhook)
 - **Description:** Python微信机器人框架，支持微信3.6.0.18、3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、3.9.12.51、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17、4.1.5.16、4.1.6.14、4.1.6.46、4.1.7.30，4.1.8.27、4.1.8.67版本，企业微信4.1.0.6011，4.1.22.6014，4.1.33.6009，5.0.0.6008版本。
