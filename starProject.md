@@ -1,3 +1,6 @@
+### [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
+- **Description:** A repo for jailbreaking various LLMs, mainly Claude
+
 ### [PastKing/xi-mail](https://github.com/PastKing/xi-mail)
 - **Description:** 基于 Cloud Mail 二次开发的 Cloudflare 邮箱服务，Linear 风格 UI 重设计 + 功能扩展
 
@@ -26,9 +29,6 @@
 
 ### [Kwisma/cf-worker-mihomo](https://github.com/Kwisma/cf-worker-mihomo)
 - **Description:** 快速生成mihomo（clash  meta）配置文件,  适用于软路由 mihomo 内核，clash meta 客户端等
-
-### [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
-- **Description:** A repo for jailbreaking various LLMs, mainly Claude
 
 ### [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus)
 - **Description:**  Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |  
@@ -1485,7 +1485,7 @@
 - **Description:** 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
 ### [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)
-- **Description:** A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+- **Description:** A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ### [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 - **Description:** 🔥 Search, scrape, and clean the web for AI agents.
