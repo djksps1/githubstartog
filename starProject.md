@@ -1160,7 +1160,7 @@
 - **Description:** Hcaptcha enterprise challenge solver
 
 ### [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)
-- **Description:** edgetunnel2 VLESS/Trojan 多功能面板
+- **Description:** edgetunnel2 VLESS/Trojan/SS 多功能面板
 
 ### [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg)
 - **Description:** 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
@@ -1634,7 +1634,7 @@
 ### [guobao2333/Python-HandyTool](https://github.com/guobao2333/Python-HandyTool)
 - **Description:** 用python编写的一些方便实用小工具
 
-### [sear-chat/SearChat](https://github.com/sear-chat/SearChat)
+### [yokingma/SearChat](https://github.com/yokingma/SearChat)
 - **Description:** Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。
 
 ### [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs)
