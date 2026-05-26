@@ -1,3 +1,6 @@
+### [klsf/codex-register](https://github.com/klsf/codex-register)
+- **Description:** 用于批量注册 OpenAI 账号、授权Codex登录生成授权文件，可直接导入cliproxyapi使用，以及批量检查凭证剩余可用额度。
+
 ### [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
 - **Description:** A repo for jailbreaking various LLMs, mainly Claude
 
