@@ -1,3 +1,6 @@
+### [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+- **Description:** Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
+
 ### [klsf/codex-register](https://github.com/klsf/codex-register)
 - **Description:** 用于批量注册 OpenAI 账号、授权Codex登录生成授权文件，可直接导入cliproxyapi使用，以及批量检查凭证剩余可用额度。
 
@@ -14,7 +17,7 @@
 - **Description:** ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
 
 ### [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api)
-- **Description:** ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
+- **Description:** ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 
 ### [AERT-7Y/kiro-auto](https://github.com/AERT-7Y/kiro-auto)
 - **Description:** kiro自动注册机
@@ -1641,7 +1644,7 @@
 - **Description:** Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。
 
 ### [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs)
-- **Description:** Instantly generate AI-powered subtitles on your device. Works standalone or connects to DaVinci Resolve.
+- **Description:** On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
 
 ### [Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install)
 - **Description:** 针对 LiteLoaderQQNT 的安装脚本
