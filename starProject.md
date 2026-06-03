@@ -19,9 +19,6 @@
 ### [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api)
 - **Description:** ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 
-### [AERT-7Y/kiro-auto](https://github.com/AERT-7Y/kiro-auto)
-- **Description:** kiro自动注册机
-
 ### [chaogei/windsurf-account-manager-simple](https://github.com/chaogei/windsurf-account-manager-simple)
 
 ### [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner)
@@ -1118,7 +1115,7 @@
 - **Description:** Paper_Copilot 是一款基于向量索引和大模型的高级文献分析命令行工具，旨在帮助学术研究人员高效管理、检索和分析海量文献。通过本地自建知识库并与大模型的交互，它能够为用户提供专业且精准的解答，显著提升文献研究的效率与准确性。
 
 ### [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)
-- **Description:** Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install.
+- **Description:** Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
 
 ### [RunningFelix/openai-api-tester](https://github.com/RunningFelix/openai-api-tester)
 - **Description:** 一个测试OpenAI格式API的可用性的工具（A tool to test the availability of OpenAI's formatted API.）
@@ -1318,7 +1315,7 @@
 - **Description:** Wall是一款快速分享资源应用程序。俗称“照片墙、视频墙”，基于Vue3 + Spring Boot开发的云共享资源应用系统。
 
 ### [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
-- **Description:** 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
+- **Description:** 自动删除 Windows 和 Mac 电脑端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 
 ### [FutureUniant/Tailor](https://github.com/FutureUniant/Tailor)
 - **Description:** Tailor是一款视频智能裁剪、视频生成和视频优化的视频剪辑工具。目前的目标是通过人工智能技术减少视频剪辑的繁琐操作，让普通人也能简单实现专业剪辑人的水准！长远目标是让视频剪辑实现真正的AIGC！
@@ -1440,7 +1437,7 @@
 - **Description:** 基于springBoot,shiro,vue的前后端分离的学生信息管理系统
 
 ### [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext)
-- **Description:** 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+- **Description:** Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required.
 
 ### [purpleru/AutoStudy](https://github.com/purpleru/AutoStudy)
 - **Description:** 超星学习通和柠檬学堂刷课项目，这是一个能够快速完成你的大学课程的项目，目前实现了两个课程平台（超星学习通和柠檬学堂）
