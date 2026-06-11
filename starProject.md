@@ -24,8 +24,8 @@
 ### [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner)
 - **Description:** Scan for misconfigured S3 buckets across S3-compatible APIs!
 
-### [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store)
-- **Description:** 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+### [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store)
+- **Description:** 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 
 ### [munew/cloudflare-turnstile-solver](https://github.com/munew/cloudflare-turnstile-solver)
 - **Description:** Cloudflare Turnstile Solver (request-based, fully reversed)
