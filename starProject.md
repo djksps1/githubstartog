@@ -652,7 +652,7 @@
 - **Description:** A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉  
 
 ### [idoknow/Campux](https://github.com/idoknow/Campux)
-- **Description:** QQ 校园墙自动化平台 ｜ 自助投稿、网页审核、自动发说说、数据分析、多号管理｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
+- **Description:** “你一直在找的 QQ 校园墙自动化平台” ｜ 一键部署、自助开墙、自助投稿、网页审核、自动发说说、数据分析、多号管理｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
 
 ### [Scrut1ny/MB-Premium-Reset](https://github.com/Scrut1ny/MB-Premium-Reset)
 - **Description:** Malwarebytes premium trial resetter
