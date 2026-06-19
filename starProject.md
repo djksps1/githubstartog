@@ -2,7 +2,7 @@
 - **Description:** github代码审查agent
 
 ### [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
-- **Description:** Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
+- **Description:** Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
 
 ### [klsf/codex-register](https://github.com/klsf/codex-register)
 - **Description:** 用于批量注册 OpenAI 账号、授权Codex登录生成授权文件，可直接导入cliproxyapi使用，以及批量检查凭证剩余可用额度。
@@ -341,7 +341,7 @@
 ### [u14app/deep-research](https://github.com/u14app/deep-research)
 - **Description:** Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 
-### [open-edge-platform/geti](https://github.com/open-edge-platform/geti)
+### [open-edge-platform/geti_v2](https://github.com/open-edge-platform/geti_v2)
 - **Description:** Build computer vision models in a fraction of the time and with less data.
 
 ### [find-xposed-magisk/cloudflare_temp_email](https://github.com/find-xposed-magisk/cloudflare_temp_email)
