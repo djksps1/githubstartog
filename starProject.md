@@ -317,7 +317,7 @@
 - **Description:** Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 
 ### [aurora-develop/aurora](https://github.com/aurora-develop/aurora)
-- **Description:** free
+- **Description:** free chatgpt api
 
 ### [timerring/CloudCheckin](https://github.com/timerring/CloudCheckin)
 - **Description:** 基于 CI/CD 以及 Cloudflare Workers  的 Nodeseek V2EX 一亩三分地 Deepflood 自动签到及答题 (Daily check in the nodeseek V2EX 1point3acres Deepflood)
