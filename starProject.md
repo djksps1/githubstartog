@@ -909,7 +909,7 @@
 ### [tonnie17/wxagent](https://github.com/tonnie17/wxagent)
 - **Description:** 支持工具调用的公众号聊天机器人
 
-### [bin64/redeem-hub](https://github.com/bin64/redeem-hub)
+### [nowubh/redeem-hub](https://github.com/nowubh/redeem-hub)
 
 ### [hamster1963/nezha-dash](https://github.com/hamster1963/nezha-dash)
 - **Description:** A simple dashboard for nezha.
