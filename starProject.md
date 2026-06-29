@@ -1,3 +1,6 @@
+### [Mxucc/xianyu-super-butler](https://github.com/Mxucc/xianyu-super-butler)
+- **Description:** 闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI 进行了全面重构，带来更加现代化、专业化的使用体验。
+
 ### [ayou123/codemate-review](https://github.com/ayou123/codemate-review)
 - **Description:** github代码审查agent
 
