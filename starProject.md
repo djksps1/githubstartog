@@ -1469,9 +1469,6 @@
 ### [shadow1ng/fscan](https://github.com/shadow1ng/fscan)
 - **Description:** 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
 
-### [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
-- **Description:** :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-
 ### [speauty/anto](https://github.com/speauty/anto)
 - **Description:** 字幕文件(srt)翻译工具，Windows专用
 
