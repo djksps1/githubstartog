@@ -532,7 +532,7 @@
 - **Description:** Web extension to set a default speed for video and audio 
 
 ### [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat)
-- **Description:** Lazyeat（懒人手势）｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!
+- **Description:** MECCHA CHAMELEON Trainer 2026 — Perfect Camo Hack, Unlimited Paint, God Mode Hider, Instant Seek. External overlay trainer for the Steam hide-and-seek painting game (App 4704690). Win10/11 · v1.1.5
 
 ### [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena)
 - **Description:** LLM Arena by KCORES team
