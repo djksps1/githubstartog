@@ -531,9 +531,6 @@
 ### [polywock/globalSpeed](https://github.com/polywock/globalSpeed)
 - **Description:** Web extension to set a default speed for video and audio 
 
-### [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat)
-- **Description:** MECCHA CHAMELEON Trainer 2026 — Perfect Camo Hack, Unlimited Paint, God Mode Hider, Instant Seek. External overlay trainer for the Steam hide-and-seek painting game (App 4704690). Win10/11 · v1.1.5
-
 ### [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena)
 - **Description:** LLM Arena by KCORES team
 
@@ -854,7 +851,7 @@
 - **Description:** A Model Context Protocol (MCP) server for interacting with Home Assistant. This server provides tools to control and monitor your Home Assistant devices through MCP-enabled applications.
 
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
-- **Description:** Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
+- **Description:** Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 
 ### [miantiao-me/Sink](https://github.com/miantiao-me/Sink)
 - **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
