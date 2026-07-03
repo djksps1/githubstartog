@@ -471,7 +471,7 @@
 - **Description:** jigsaw puzzle helper
 
 ### [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore)
-- **Description:** bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现
+- **Description:** bilibili 硬核会员 AI 自动答题脚本
 
 ### [xxnuo/serverless-markdown-convertor](https://github.com/xxnuo/serverless-markdown-convertor)
 - **Description:** Markdown Conversion
