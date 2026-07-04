@@ -128,7 +128,7 @@
 - **Description:** 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly
 
 ### [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list)
-- **Description:** 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
+- **Description:** a free rotating proxy API with tested HTTPS and SOCKS5 proxies from 100+ countries
 
 ### [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)
 - **Description:** 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
