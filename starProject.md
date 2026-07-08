@@ -36,7 +36,7 @@
 ### [munew/cloudflare-turnstile-solver](https://github.com/munew/cloudflare-turnstile-solver)
 - **Description:** Cloudflare Turnstile Solver (request-based, fully reversed)
 
-### [Kwisma/cf-worker-mihomo](https://github.com/Kwisma/cf-worker-mihomo)
+### [Kwisma/cf-SubCloud](https://github.com/Kwisma/cf-SubCloud)
 - **Description:** 快速生成mihomo（clash  meta）配置文件,  适用于软路由 mihomo 内核，clash meta 客户端等
 
 ### [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus)
