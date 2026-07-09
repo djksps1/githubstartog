@@ -251,9 +251,6 @@
 
 ### [Shinplex/rever](https://github.com/Shinplex/rever)
 
-### [zouyq/jetbrains-ai-proxy](https://github.com/zouyq/jetbrains-ai-proxy)
-- **Description:** convert jetbrains-ai to openai
-
 ### [anghunk/UserScript](https://github.com/anghunk/UserScript)
 - **Description:** 这是一个实用的油猴脚本（UserScript）集合仓库，包含了多个实用的浏览器增强脚本。这些脚本旨在提升网页浏览体验，增加网站功能，优化用户界面等。
 
