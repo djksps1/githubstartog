@@ -173,7 +173,7 @@
 - **Description:** A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 
 ### [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
-- **Description:** Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- **Description:** One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 
 ### [adminzcem/HW](https://github.com/adminzcem/HW)
 
@@ -1063,7 +1063,7 @@
 - **Description:** An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
 
 ### [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)
-- **Description:** Free web archiving and sharing service.
+- **Description:** Selfhost web archiving and sharing service.
 
 ### [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 - **Description:** A community-supported supercharged document management system: scan, index and archive all your documents
