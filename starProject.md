@@ -1651,7 +1651,7 @@
 - **Description:** Modern protocol-side framework based on NTQQ
 
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-- **Description:** 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- **Description:** 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
 ### [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
 
