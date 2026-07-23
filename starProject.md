@@ -342,7 +342,7 @@
 - **Description:** Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 
 ### [open-edge-platform/geti_v2](https://github.com/open-edge-platform/geti_v2)
-- **Description:** Build computer vision models in a fraction of the time and with less data.
+- **Description:** ⚠️ Legacy repository for Geti v2.x. For Geti v3.0+, visit https://github.com/open-edge-platform/geti
 
 ### [find-xposed-magisk/cloudflare_temp_email](https://github.com/find-xposed-magisk/cloudflare_temp_email)
 - **Description:** CloudFlare free temp domain email 免费 临时 域名邮箱
