@@ -5,7 +5,7 @@
 - **Description:** github代码审查agent
 
 ### [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
-- **Description:** Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
+- **Description:** Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
 
 ### [klsf/codex-register](https://github.com/klsf/codex-register)
 - **Description:** 用于批量注册 OpenAI 账号、授权Codex登录生成授权文件，可直接导入cliproxyapi使用，以及批量检查凭证剩余可用额度。
@@ -588,7 +588,7 @@
 - **Description:** Fork client of Telegram app for Android.
 
 ### [codexu/note-gen](https://github.com/codexu/note-gen)
-- **Description:** A cross-platform Markdown AI note-taking software.
+- **Description:** Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
 
 ### [risin42/NagramX](https://github.com/risin42/NagramX)
 - **Description:** A variant of Nagram with additional features.
