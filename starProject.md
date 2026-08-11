@@ -540,6 +540,9 @@
 ### [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro)
 - **Description:** Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.
 
+### [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp)
+- **Description:** 🎵 Control Ableton Live with Claude AI — create tracks, arrange clips & compose music via MCP
+
 ### [RenaLio/SubinfoChecker](https://github.com/RenaLio/SubinfoChecker)
 - **Description:** 订阅流量信息查询
 
