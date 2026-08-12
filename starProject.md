@@ -66,7 +66,7 @@
 ### [Leclee/Auto_All_System](https://github.com/Leclee/Auto_All_System)
 
 ### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-- **Description:** An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- **Description:** An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 ### [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
 - **Description:** Proxy server to bypass Cloudflare protection
