@@ -1,3 +1,6 @@
+### [LoseNine/ruyipage](https://github.com/LoseNine/ruyipage)
+- **Description:** 下一代Python的web自动化过检测框架，通过一切网站检测的Firefox内核浏览器。RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol.
+
 ### [Mxucc/xianyu-super-butler](https://github.com/Mxucc/xianyu-super-butler)
 - **Description:** 闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI 进行了全面重构，带来更加现代化、专业化的使用体验。
 
@@ -1304,7 +1307,7 @@
 ### [xykt/IPQuality](https://github.com/xykt/IPQuality)
 - **Description:** IP质量检测脚本 - IP Quality Check Script
 
-### [CN-Grace/Wechat-Emotion-Parser](https://github.com/CN-Grace/Wechat-Emotion-Parser)
+### [CN-Grace/Wechat-Emoticon-Parser](https://github.com/CN-Grace/Wechat-Emoticon-Parser)
 - **Description:** Parse the emotion in your Wechat account with a simple python script
 
 ### [super-tongyao/wall](https://github.com/super-tongyao/wall)
