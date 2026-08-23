@@ -1,3 +1,6 @@
+### [sarperavci/CloudflareBypassForScraping](https://github.com/sarperavci/CloudflareBypassForScraping)
+- **Description:** A cloudflare verification bypass script for webscraping
+
 ### [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser)
 - **Description:** 指纹浏览器
 
@@ -21,9 +24,6 @@
 
 ### [PastKing/xi-mail](https://github.com/PastKing/xi-mail)
 - **Description:** 基于 Cloud Mail 二次开发的 Cloudflare 邮箱服务，Linear 风格 UI 重设计 + 功能扩展
-
-### [sarperavci/CloudflareBypassForScraping](https://github.com/sarperavci/CloudflareBypassForScraping)
-- **Description:** A cloudflare verification bypass script for webscraping
 
 ### [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment)
 - **Description:** ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
@@ -779,7 +779,7 @@
 - **Description:** CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
 ### [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-- **Description:** 😎 Awesome lists about all kinds of interesting topics
+- **Description:** 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 
 ### [bestruirui/BestSub](https://github.com/bestruirui/BestSub)
 - **Description:** Best Sub, Best for Your Net
