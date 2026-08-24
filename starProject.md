@@ -618,7 +618,7 @@
 - **Description:** Use the Mistral Strongest OCR to convert the PDF and Image to markdown.
 
 ### [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
-- **Description:** A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+- **Description:** A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
 
 ### [open-webui/open-webui](https://github.com/open-webui/open-webui)
 - **Description:** User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
