@@ -1231,7 +1231,7 @@
 - **Description:** 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 
 ### [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui)
-- **Description:** 开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。
+- **Description:** Open-source AI video localization and dubbing for YouTube/Bilibili: speech recognition, subtitle translation, voice cloning, audio mixing and rendering. 开源 AI 视频翻译配音工具。
 
 ### [miantiao-me/BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel)
 - **Description:** Turn your Telegram Channel into a MicroBlog.
