@@ -1148,9 +1148,6 @@
 ### [WAADRI/ChaoXing_node_signin](https://github.com/WAADRI/ChaoXing_node_signin)
 - **Description:** 学习通在线自动签到系统第三方节点接入程序，用于自行部署可接入学习通在线自动签到系统的第三方节点，该程序需配合学习通在线自动签到系统使用
 
-### [bisnuray/CC-Scrapper](https://github.com/bisnuray/CC-Scrapper)
-- **Description:** CC Scrapper: An advanced Telegram bot script to scrape credit cards from specified Telegram groups and channels.
-
 ### [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack)
 - **Description:** 非付费会员，fofa数据采集工具
 
