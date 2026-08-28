@@ -86,7 +86,7 @@
 ### [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
 - **Description:** 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
-### [zoidberg-xgd/TeleSubmit-v2](https://github.com/zoidberg-xgd/TeleSubmit-v2)
+### [redtidev1918/TelePost](https://github.com/redtidev1918/TelePost)
 - **Description:** 功能强大的 Telegram 频道投稿机器人，支持媒体上传、全文搜索、热度统计、标签系统等功能
 
 ### [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
@@ -1535,7 +1535,7 @@
 - **Description:** Python scraper based on AI
 
 ### [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS)
-- **Description:** 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
+- **Description:** 拼多多、千牛、抖店 AI 客服机器人：自动回复客户咨询、商品答疑、售后申诉处理，支持微信、小红书、京东、抖音、B站、微博等多平台统一接待；可接入 DeepSeek / 通义千问 等大模型，支持自有知识库定制。
 
 ### [Anankke/SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM)
 - **Description:** Multi-purpose proxy service management system
