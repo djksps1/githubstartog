@@ -1055,7 +1055,7 @@
 - **Description:** 🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 
 ### [omacom/omakub](https://github.com/omacom/omakub)
-- **Description:** Opinionated Ubuntu Setup
+- **Description:** Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org
 
 ### [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip)
 - **Description:** cursor IDE enjoy VIP
