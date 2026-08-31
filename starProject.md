@@ -223,7 +223,7 @@
 - **Description:** A Task Manager for android
 
 ### [tbphp/gpt-load](https://github.com/tbphp/gpt-load)
-- **Description:** Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
+- **Description:** Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。
 
 ### [ceocok/Docker_container_migration](https://github.com/ceocok/Docker_container_migration)
 - **Description:** This is a lossless one-click script for automatically migrating Docker containers — efficient, convenient, and very easy to use.
@@ -547,7 +547,7 @@
 - **Description:** Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.
 
 ### [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp)
-- **Description:** 🎵 Control Ableton Live with Claude AI — create tracks, arrange clips & compose music via MCP
+- **Description:** Control Ableton Live with any LLM: create tracks, arrange clips & compose music via MCP
 
 ### [RenaLio/SubinfoChecker](https://github.com/RenaLio/SubinfoChecker)
 - **Description:** 订阅流量信息查询
