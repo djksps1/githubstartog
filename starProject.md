@@ -36,7 +36,7 @@
 ### [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner)
 - **Description:** Scan for misconfigured S3 buckets across S3-compatible APIs!
 
-### [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store)
+### [komi-store/komi-store](https://github.com/komi-store/komi-store)
 - **Description:** 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 
 ### [munew/cloudflare-turnstile-solver](https://github.com/munew/cloudflare-turnstile-solver)
