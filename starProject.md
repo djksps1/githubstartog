@@ -63,9 +63,6 @@
 ### [Fantasy-AMAP/fantasy-portrait](https://github.com/Fantasy-AMAP/fantasy-portrait)
 - **Description:** FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers
 
-### [Lany798/Cli-Proxy-API-Management-Center](https://github.com/Lany798/Cli-Proxy-API-Management-Center)
-- **Description:** This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring.
-
 ### [Theyka/Turnstile-Solver](https://github.com/Theyka/Turnstile-Solver)
 - **Description:** Python-based turnstile solver using the patchright library, featuring multi-threaded execution, API integration, and support for different browsers.
 
@@ -1146,7 +1143,7 @@
 - **Description:** yet another rss reader
 
 ### [WAADRI/ChaoXing_node_signin](https://github.com/WAADRI/ChaoXing_node_signin)
-- **Description:** 学习通在线自动签到系统第三方节点接入程序，用于自行部署可接入学习通在线自动签到系统的第三方节点，该程序需配合学习通在线自动签到系统使用
+- **Description:** 收到官方律师函，已删库。
 
 ### [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack)
 - **Description:** 非付费会员，fofa数据采集工具
