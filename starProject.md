@@ -1708,7 +1708,7 @@
 - **Description:** 基于Unity开源框架GameFramewrk实现的一款塔防游戏Demo
 
 ### [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
-- **Description:** ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- **Description:** ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 
 ### [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing)
 - **Description:** 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
