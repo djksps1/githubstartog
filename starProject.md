@@ -437,14 +437,14 @@
 ### [Warma10032/VideoAdGuard](https://github.com/Warma10032/VideoAdGuard)
 - **Description:** 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 
-### [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)
-- **Description:** AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube
+### [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
+- **Description:** Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.
 
 ### [t0saki/xAI-Image-Gen-API-Refine](https://github.com/t0saki/xAI-Image-Gen-API-Refine)
 - **Description:** A proxy for the xAI API, specifically handling image generation requests and preserving only the parameters supported in the documentation.
 
 ### [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
-- **Description:** 一分钟搭建影视站，支持Vercel/Docker等部署方式
+- **Description:** 一分钟搭建影视站，支持Docker等部署方式；演示：http://alturl.com/vgywg
 
 ### [stilleshan/subweb](https://github.com/stilleshan/subweb)
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
