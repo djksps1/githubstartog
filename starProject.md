@@ -359,7 +359,7 @@
 - **Description:** Deobfuscate Javascript code using ChatGPT
 
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-- **Description:** Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+- **Description:** Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
 
 ### [HirotakaDango/HDBoard](https://github.com/HirotakaDango/HDBoard)
 - **Description:** 4chan clone in php and sqlite database with only a single file.
@@ -434,7 +434,7 @@
 ### [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter)
 - **Description:** Utility to convert between various subscription format
 
-### [Warma10032/VideoAdGuard](https://github.com/Warma10032/VideoAdGuard)
+### [ZeroTang05/VideoAdGuard](https://github.com/ZeroTang05/VideoAdGuard)
 - **Description:** 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 
 ### [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
@@ -444,7 +444,7 @@
 - **Description:** A proxy for the xAI API, specifically handling image generation requests and preserving only the parameters supported in the documentation.
 
 ### [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
-- **Description:** 一分钟搭建影视站，支持Docker等部署方式；演示：http://alturl.com/vgywg
+- **Description:** 一分钟搭建影视站，支持Docker等部署方式
 
 ### [stilleshan/subweb](https://github.com/stilleshan/subweb)
 - **Description:** subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
