@@ -5,7 +5,7 @@
 - **Description:** 指纹浏览器
 
 ### [LoseNine/ruyipage](https://github.com/LoseNine/ruyipage)
-- **Description:** 下一代Python的web自动化过检测框架，AI自我调试运行，通过一切网站检测的Firefox内核浏览器。RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol.
+- **Description:** 下一代Python的web自动化过检测框架，AI自我调试运行，trace日志可分析一切网页链路，通过一切网站检测的Firefox指纹浏览器。RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol.
 
 ### [Mxucc/xianyu-super-butler](https://github.com/Mxucc/xianyu-super-butler)
 - **Description:** 闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI 进行了全面重构，带来更加现代化、专业化的使用体验。
@@ -1069,7 +1069,7 @@
 ### [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 - **Description:** A community-supported supercharged document management system: scan, index and archive all your documents
 
-### [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
+### [newsnext/newsnow](https://github.com/newsnext/newsnow)
 - **Description:** Elegant reading of real-time and hottest news
 
 ### [n8n-io/n8n](https://github.com/n8n-io/n8n)
@@ -1113,7 +1113,7 @@
 - **Description:** Paper_Copilot 是一款基于向量索引和大模型的高级文献分析命令行工具，旨在帮助学术研究人员高效管理、检索和分析海量文献。通过本地自建知识库并与大模型的交互，它能够为用户提供专业且精准的解答，显著提升文献研究的效率与准确性。
 
 ### [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)
-- **Description:** Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
+- **Description:** Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
 
 ### [RunningFelix/openai-api-tester](https://github.com/RunningFelix/openai-api-tester)
 - **Description:** 一个测试OpenAI格式API的可用性的工具（A tool to test the availability of OpenAI's formatted API.）
