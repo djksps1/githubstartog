@@ -1672,7 +1672,7 @@
 - **Description:** Official Code for DragGAN (SIGGRAPH 2023)
 
 ### [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant)
-- **Description:** ⚠️ 停止维护 - 微信助手，支持群发消息、定时任务、消息防撤回等功能
+- **Description:** 微信助手，支持群发消息、定时任务、消息防撤回等功能
 
 ### [wkeyuan/DWSurvey](https://github.com/wkeyuan/DWSurvey)
 - **Description:** Survey System. 最好用的开源问卷调查系统、表单系统。
