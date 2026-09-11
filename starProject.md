@@ -1202,7 +1202,7 @@
 - **Description:** Serv00控制面板自动登录脚本
 
 ### [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs)
-- **Description:** VPS Fusion Monster Server Test GO Version Aiming to be the most comprehensive server testing project, implemented in Go with zero environment dependencies.      VPS融合怪服务器测评项目 GO版本 尽量成为最全能的服务器测评项目，使用 Go 实现，无需任何环境依赖。
+- **Description:** VPS Fusion Monster — Server Benchmark (Go Edition) Aims to be the most comprehensive and fastest server benchmarking project, built in Go with zero external dependencies.  VPS 融合怪服务器测评项目 · Go 版本 致力于成为最全面和最快速的服务器测评项目，使用 Go 语言实现，零环境依赖。
 
 ### [share121/inter-knot](https://github.com/share121/inter-knot)
 - **Description:** 绳网
