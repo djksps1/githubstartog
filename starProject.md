@@ -84,7 +84,7 @@
 - **Description:** 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
 ### [redtidev1918/TelePost](https://github.com/redtidev1918/TelePost)
-- **Description:** 功能强大的 Telegram 频道投稿机器人，支持媒体上传、全文搜索、热度统计、标签系统等功能
+- **Description:** Telegram 频道投稿、审核与自动化发布平台，支持 Bot、Mini App、多 Bot 和 HTTP API。
 
 ### [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 - **Description:** We have made you a wrapper you can't refuse
@@ -849,7 +849,7 @@
 - **Description:** Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 
 ### [miantiao-me/Sink](https://github.com/miantiao-me/Sink)
-- **Description:** ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- **Description:** ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 
 ### [Ac-Wiki/Ac-Wiki](https://github.com/Ac-Wiki/Ac-Wiki)
 - **Description:** 高等教育学社基础知识开源建设工程｜青年大学习
