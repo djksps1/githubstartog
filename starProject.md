@@ -14,7 +14,7 @@
 - **Description:** github代码审查agent
 
 ### [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
-- **Description:** Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
+- **Description:** Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 
 ### [klsf/codex-register](https://github.com/klsf/codex-register)
 - **Description:** 用于批量注册 OpenAI 账号、授权Codex登录生成授权文件，可直接导入cliproxyapi使用，以及批量检查凭证剩余可用额度。
@@ -875,7 +875,7 @@
 - **Description:** An open-source, AI-integrated, cross-platform terminal for seamless workflows
 
 ### [abgox/PSCompletions](https://github.com/abgox/PSCompletions)
-- **Description:** A completion manager for a better and simpler tab-completion experience in PowerShell.
+- **Description:** A tab-completion manager for PowerShell, powered by Rust engine and interactive menu.
 
 ### [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
 - **Description:** 带带弟弟 通用验证码识别OCR pypi版
