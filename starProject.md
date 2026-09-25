@@ -910,7 +910,7 @@
 - **Description:** A simple dashboard for nezha.
 
 ### [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
-- **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+- **Description:** Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 
 ### [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
 - **Description:** A service that can convert ChatGPT on the web to OpenAI API format.
