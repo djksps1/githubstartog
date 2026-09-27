@@ -84,7 +84,7 @@
 - **Description:** 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
 ### [redtidev1918/TelePost](https://github.com/redtidev1918/TelePost)
-- **Description:** Telegram 频道投稿、审核与自动化发布平台，支持 Bot、Mini App、多 Bot 和 HTTP API。
+- **Description:** Telegram 频道投稿、审核与自动化发布平台，支持 Bot、Mini App、多 Bot 和 HTTP API。 | Telegram channel submission, moderation and automated publishing platform with Bot, Mini App, multi-bot and HTTP API support
 
 ### [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 - **Description:** We have made you a wrapper you can't refuse
