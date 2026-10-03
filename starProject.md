@@ -14,7 +14,7 @@
 - **Description:** github代码审查agent
 
 ### [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
-- **Description:** Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
+- **Description:** Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 
 ### [klsf/codex-register](https://github.com/klsf/codex-register)
 - **Description:** 用于批量注册 OpenAI 账号、授权Codex登录生成授权文件，可直接导入cliproxyapi使用，以及批量检查凭证剩余可用额度。
@@ -1484,7 +1484,7 @@
 - **Description:** A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ### [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
-- **Description:** 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- **Description:** Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 
 ### [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 - **Description:** Showcase your skills on your Github readme or resumé with ease ✨
