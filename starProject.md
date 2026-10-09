@@ -414,7 +414,7 @@
 - **Description:** Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 
 ### [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
-- **Description:** GUI Agent for E2E Testing
+- **Description:** See interfaces like a human. E2E testing in natural language.
 
 ### [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train)
 - **Description:** All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
