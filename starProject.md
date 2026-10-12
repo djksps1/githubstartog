@@ -347,9 +347,6 @@
 ### [open-edge-platform/geti_v2](https://github.com/open-edge-platform/geti_v2)
 - **Description:** ⚠️ Legacy repository for Geti v2.x. For Geti v3.0+, visit https://github.com/open-edge-platform/geti
 
-### [find-xposed-magisk/cloudflare_temp_email](https://github.com/find-xposed-magisk/cloudflare_temp_email)
-- **Description:** CloudFlare free temp domain email 免费 临时 域名邮箱
-
 ### [bohesocool/you2api](https://github.com/bohesocool/you2api)
 
 ### [star7th/coolmonitor](https://github.com/star7th/coolmonitor)
@@ -438,7 +435,7 @@
 - **Description:** 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 
 ### [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
-- **Description:** Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
+- **Description:** Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
 
 ### [t0saki/xAI-Image-Gen-API-Refine](https://github.com/t0saki/xAI-Image-Gen-API-Refine)
 - **Description:** A proxy for the xAI API, specifically handling image generation requests and preserving only the parameters supported in the documentation.
@@ -1545,9 +1542,6 @@
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
 - **Description:** 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
-
-### [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)
-- **Description:** 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
 
 ### [JumpAlang/Jusic-serve](https://github.com/JumpAlang/Jusic-serve)
 - **Description:** 一起听歌吧（同步点歌听歌）
