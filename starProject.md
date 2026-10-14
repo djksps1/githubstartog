@@ -1,3 +1,6 @@
+### [llyufenggotest/FlclashYF](https://github.com/llyufenggotest/FlclashYF)
+- **Description:** FlClash with verified custom protocol integrations
+
 ### [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
 - **Description:** ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
 
