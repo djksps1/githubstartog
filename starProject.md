@@ -1740,9 +1740,6 @@
 ### [CofbroTeam/Doraemon](https://github.com/CofbroTeam/Doraemon)
 - **Description:** ⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！
 
-### [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
-- **Description:** ALL IN ONE Hacking Tool For Hackers
-
 ### [magic-research/magic-edit](https://github.com/magic-research/magic-edit)
 - **Description:** MagicEdit: High-Fidelity Temporally Coherent Video Editing
 
