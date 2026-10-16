@@ -1,3 +1,5 @@
+### [wkpwn/CVE-2026-83834](https://github.com/wkpwn/CVE-2026-83834)
+
 ### [llyufenggotest/FlclashYF](https://github.com/llyufenggotest/FlclashYF)
 - **Description:** FlClash with verified custom protocol integrations
 
