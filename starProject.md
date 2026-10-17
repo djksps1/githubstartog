@@ -260,8 +260,6 @@
 ### [lonelam/subconverter-rs](https://github.com/lonelam/subconverter-rs)
 - **Description:** 一键部署rs/wasm版前后端，也可只部署native/docker版替换subconverter，实现 订阅转换 全量功能以及大量新feature。A more powerful utility to convert between proxy subscription formats, transformed from the original subconverter! Maintaining compatibility with the original.
 
-### [Shinplex/rever](https://github.com/Shinplex/rever)
-
 ### [anghunk/UserScript](https://github.com/anghunk/UserScript)
 - **Description:** 这是一个实用的油猴脚本（UserScript）集合仓库，包含了多个实用的浏览器增强脚本。这些脚本旨在提升网页浏览体验，增加网站功能，优化用户界面等。
 
@@ -270,8 +268,6 @@
 
 ### [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - **Description:** :link: Some useful websites for programmers.
-
-### [Veloera/Veloera](https://github.com/Veloera/Veloera)
 
 ### [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie)
 - **Description:** A browser extension for syncing cookies and localStorage to Cloudflare KV or GitHub Gist
