@@ -165,9 +165,6 @@
 ### [agluo/ql-script-hub](https://github.com/agluo/ql-script-hub)
 - **Description:** 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘|deepflood|成都地铁|塔斯汀汉堡|PassNAT
 
-### [buyi06/optimize_extreme](https://github.com/buyi06/optimize_extreme)
-- **Description:** 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
-
 ### [Archeb/opentrace](https://github.com/Archeb/opentrace)
 - **Description:** Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux.
 
@@ -876,7 +873,7 @@
 - **Description:** An open-source, AI-integrated, cross-platform terminal for seamless workflows
 
 ### [abgox/PSCompletions](https://github.com/abgox/PSCompletions)
-- **Description:** A tab-completion manager for PowerShell, powered by Rust engine and interactive menu.
+- **Description:** Powerful Shell Completions for PowerShell and other shells, powered by Rust and Lua.
 
 ### [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
 - **Description:** 带带弟弟 通用验证码识别OCR pypi版
