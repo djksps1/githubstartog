@@ -483,8 +483,6 @@
 ### [yaxigin/mto](https://github.com/yaxigin/mto)
 - **Description:** MTO is a powerful information gathering tool specifically designed for cybersecurity professionals. It integrates modules from Hunter, Fofa, and Quake, making it convenient for users to extract valuable information from various data sources.
 
-### [adm1nSQL/Sub_Manager](https://github.com/adm1nSQL/Sub_Manager)
-
 ### [Heavrnl/Mail2Telegram](https://github.com/Heavrnl/Mail2Telegram)
 - **Description:** Forward emails to Telegram/把邮件转发到Telegram
 
@@ -1734,6 +1732,9 @@
 
 ### [CofbroTeam/Doraemon](https://github.com/CofbroTeam/Doraemon)
 - **Description:** ⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！
+
+### [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
+- **Description:** ALL IN ONE Hacking Tool For Hackers
 
 ### [magic-research/magic-edit](https://github.com/magic-research/magic-edit)
 - **Description:** MagicEdit: High-Fidelity Temporally Coherent Video Editing
