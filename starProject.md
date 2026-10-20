@@ -157,7 +157,7 @@
 - **Description:** A Flutter LLM Chat Client. Support Mobile & Desktop.
 
 ### [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
-- **Description:** A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+- **Description:** An all-in-one email service platform powered by Cloudflare  | 基于 Cloudflare 的一站式邮箱服务平台  | Cloudflare Email 邮箱 Mail
 
 ### [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases)
 - **Description:** 源代码
@@ -431,9 +431,6 @@
 
 ### [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter)
 - **Description:** Utility to convert between various subscription format
-
-### [ZeroTang05/VideoAdGuard](https://github.com/ZeroTang05/VideoAdGuard)
-- **Description:** 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 
 ### [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
 - **Description:** Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
@@ -906,7 +903,7 @@
 - **Description:** A simple dashboard for nezha.
 
 ### [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
-- **Description:** Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+- **Description:** Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf
 
 ### [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
 - **Description:** A service that can convert ChatGPT on the web to OpenAI API format.
