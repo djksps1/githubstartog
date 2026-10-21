@@ -12,9 +12,6 @@
 ### [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser)
 - **Description:** 指纹浏览器
 
-### [LoseNine/ruyipage](https://github.com/LoseNine/ruyipage)
-- **Description:** 下一代Python的web自动化过检测框架，AI自我调试运行，trace日志可分析一切网页链路，通过一切网站检测的Firefox指纹浏览器。RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol.
-
 ### [Mxucc/xianyu-super-butler](https://github.com/Mxucc/xianyu-super-butler)
 - **Description:** 闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI 进行了全面重构，带来更加现代化、专业化的使用体验。
 
@@ -347,6 +344,9 @@
 
 ### [open-edge-platform/geti_v2](https://github.com/open-edge-platform/geti_v2)
 - **Description:** ⚠️ Legacy repository for Geti v2.x. For Geti v3.0+, visit https://github.com/open-edge-platform/geti
+
+### [find-xposed-magisk/cloudflare_temp_email](https://github.com/find-xposed-magisk/cloudflare_temp_email)
+- **Description:** CloudFlare free temp domain email 免费 临时 域名邮箱
 
 ### [bohesocool/you2api](https://github.com/bohesocool/you2api)
 
@@ -1186,7 +1186,7 @@
 - **Description:** 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 
 ### [miloira/wxhook](https://github.com/miloira/wxhook)
-- **Description:** Python微信机器人框架，支持微信3.6.0.18、3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、3.9.12.51、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17、4.1.5.16、4.1.6.14、4.1.6.46、4.1.7.30，4.1.8.27、4.1.8.67、4.1.11.24、4.1.12.26、4.1.12.55、4.1.13.12、4.1.13.56、4.1.15.50版本（微信最新版本），企业微信4.1.0.6011、4.1.22.6014、4.1.33.6009、5.0.0.6008、5.0.3.6005版本。
+- **Description:** Python微信机器人框架，支持微信3.6.0.18、3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、3.9.12.51、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17、4.1.5.16、4.1.6.14、4.1.6.46、4.1.7.30，4.1.8.27、4.1.8.67、4.1.11.24、4.1.12.26、4.1.12.55、4.1.13.12、4.1.13.56、4.1.15.56版本（微信最新版本），企业微信4.1.0.6011、4.1.22.6014、4.1.33.6009、5.0.0.6008、5.0.3.6005版本。
 
 ### [lemodragon/Siliconflow2cow](https://github.com/lemodragon/Siliconflow2cow)
 - **Description:** Siliconflow2cow 是一个强大的 chatgpt-on-wechat 插件，允许用户通过简单的命令生成各种风格的图像。该插件支持多种模型，包括文本到图像和图像到图像的转换，为用户提供了丰富的图像生成选项。
@@ -1538,6 +1538,9 @@
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
 - **Description:** 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
+
+### [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)
+- **Description:** 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
 
 ### [JumpAlang/Jusic-serve](https://github.com/JumpAlang/Jusic-serve)
 - **Description:** 一起听歌吧（同步点歌听歌）
