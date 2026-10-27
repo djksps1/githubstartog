@@ -421,7 +421,7 @@
 - **Description:** A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 ### [xming521/WeClone](https://github.com/xming521/WeClone)
-- **Description:** 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  
+- **Description:** Build a portrait of your life. Assistants that know you. Clones that talk like you.
 
 ### [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)
 - **Description:** AI 视频笔记生成工具 让 AI 为你的视频做笔记
@@ -431,6 +431,9 @@
 
 ### [MetaCubeX/subconverter](https://github.com/MetaCubeX/subconverter)
 - **Description:** Utility to convert between various subscription format
+
+### [ZeroTang05/VideoAdGuard](https://github.com/ZeroTang05/VideoAdGuard)
+- **Description:** 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 
 ### [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
 - **Description:** Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
