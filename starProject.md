@@ -337,8 +337,6 @@
 ### [Kylsky/pandora-helper-with-linux-do-oauth](https://github.com/Kylsky/pandora-helper-with-linux-do-oauth)
 - **Description:** 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目
 
-### [ObjectAscended/CDP-bug-MouseEvent-.screenX-.screenY-patcher](https://github.com/ObjectAscended/CDP-bug-MouseEvent-.screenX-.screenY-patcher)
-
 ### [u14app/deep-research](https://github.com/u14app/deep-research)
 - **Description:** Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 
@@ -763,7 +761,7 @@
 - **Description:** 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 
 ### [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-- **Description:** AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- **Description:** Your AI workspace for models, agents, and productivity.
 
 ### [Cunninger/ocr-based-deepseek](https://github.com/Cunninger/ocr-based-deepseek)
 - **Description:** 基于deepseek 的OCR
