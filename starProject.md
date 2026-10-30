@@ -102,8 +102,8 @@
 
 ### [oDaiSuno/OutlookManager](https://github.com/oDaiSuno/OutlookManager)
 
-### [shack2/SuperSQLInjectionV1](https://github.com/shack2/SuperSQLInjectionV1)
-- **Description:** 超级SQL注入工具（SSQLInjection）是一款基于HTTP协议自组包的SQL注入工具,采用C#开发，直接操作TCP会话来进行HTTP交互，支持出现在HTTP协议任意位置的SQL注入，支持各种类型的SQL注入，支持HTTPS模式注入；支持以盲注、错误显示、Union注入等方式来获取数据；支持Access/MySQL/SQLServer/Oracle/PostgreSQL/DB2/SQLite/Informix等数据库；支持手动灵活的进行SQL注入绕过，可自定义进行字符替换等绕过注入防护。本工具为渗透测试人员、信息安全工程师等掌握SQL注入技能的人员设计，需要使用人员对SQL注入有一定了解。 
+### [shack2/SuperSQLInjection](https://github.com/shack2/SuperSQLInjection)
+- **Description:** 超级SQL注入工具（SSQLInjection）是一款基于HTTP协议自组包的SQL注入工具支持各种类型的SQL注入，支持HTTPS模式注入；支持以盲注、错误显示、Union注入等方式来获取数据；支持常见数据库，可以采用自动化模式和手动模式，全新V2版本，包含命令行版本，桌面端版本，ai调用技能包。 
 
 ### [hezhizheng/go-wxpush](https://github.com/hezhizheng/go-wxpush)
 - **Description:** 极简且免费的微信消息推送服务 (基于golang)
