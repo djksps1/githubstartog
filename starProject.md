@@ -79,7 +79,7 @@
 ### [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
 - **Description:** Proxy server to bypass Cloudflare protection
 
-### [lino0n/cf-mail](https://github.com/lino0n/cf-mail)
+### [claaudy/cf-mail](https://github.com/claaudy/cf-mail)
 - **Description:** Cloudflare domain mail tempmail 
 
 ### [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
