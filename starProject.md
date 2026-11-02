@@ -649,6 +649,9 @@
 ### [idoknow/Campux](https://github.com/idoknow/Campux)
 - **Description:** “你一直在找的 QQ 校园墙自动化平台” ｜ 一键部署、自助开墙、自助投稿、网页审核、自动发说说、数据分析、多号管理｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
 
+### [Scrut1ny/MBPR](https://github.com/Scrut1ny/MBPR)
+- **Description:** Malwarebytes premium trial reset guide
+
 ### [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
 - **Description:** Alibaba Cloud Karpenter Provider
 
@@ -1538,7 +1541,7 @@
 - **Description:** Display the current page's IP version and addresses
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
+- **Description:** 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。
 
 ### [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)
 - **Description:** 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
