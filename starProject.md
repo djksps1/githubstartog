@@ -709,7 +709,7 @@
 - **Description:** 喵哥stripe 付款自动检查bin 结账工具
 
 ### [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-- **Description:** Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+- **Description:** Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan!
 
 ### [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor)
 - **Description:** telegram群消息监测与定时发送消息和邮件通知
@@ -871,9 +871,6 @@
 ### [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
 - **Description:** An open-source, AI-integrated, cross-platform terminal for seamless workflows
 
-### [abgox/PSCompletions](https://github.com/abgox/PSCompletions)
-- **Description:** Powerful Shell Completions for PowerShell and other shells, powered by Rust and Lua.
-
 ### [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
 - **Description:** 带带弟弟 通用验证码识别OCR pypi版
 
@@ -907,7 +904,7 @@
 - **Description:** A simple dashboard for nezha.
 
 ### [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
-- **Description:** Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf
+- **Description:** Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.
 
 ### [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
 - **Description:** A service that can convert ChatGPT on the web to OpenAI API format.
@@ -1556,7 +1553,7 @@
 - **Description:** Drop a Live2D character onto any web page. One function call, zero framework dependencies.
 
 ### [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
-- **Description:** Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+- **Description:** Decrypt and export passwords, cookies, history and more from 20 browsers on Windows, macOS and Linux. For authorized security research, incident response and DFIR.
 
 ### [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin)
 - **Description:** A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 UnoCSS。
