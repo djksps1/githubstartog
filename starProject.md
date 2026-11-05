@@ -227,9 +227,6 @@
 ### [ceocok/Docker_container_migration](https://github.com/ceocok/Docker_container_migration)
 - **Description:** This is a lossless one-click script for automatically migrating Docker containers — efficient, convenient, and very easy to use.
 
-### [Junaid433/Hecker-CHK](https://github.com/Junaid433/Hecker-CHK)
-- **Description:** Simple CC Checker Telegram Bot With Fairly Enough Features. Made with PHP. 
-
 ### [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king)
 - **Description:** 人人都是哈基米大王
 
@@ -648,9 +645,6 @@
 
 ### [idoknow/Campux](https://github.com/idoknow/Campux)
 - **Description:** “你一直在找的 QQ 校园墙自动化平台” ｜ 一键部署、自助开墙、自助投稿、网页审核、自动发说说、数据分析、多号管理｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
-
-### [Scrut1ny/MBPR](https://github.com/Scrut1ny/MBPR)
-- **Description:** Malwarebytes premium trial reset guide
 
 ### [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
 - **Description:** Alibaba Cloud Karpenter Provider
