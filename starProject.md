@@ -352,7 +352,7 @@
 - **Description:** Deobfuscate Javascript code using ChatGPT
 
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-- **Description:** Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+- **Description:** Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily.
 
 ### [HirotakaDango/HDBoard](https://github.com/HirotakaDango/HDBoard)
 - **Description:** 4chan clone in php and sqlite database with only a single file.
@@ -1133,6 +1133,9 @@
 ### [WAADRI/ChaoXing_node_signin](https://github.com/WAADRI/ChaoXing_node_signin)
 - **Description:** 收到官方律师函，已删库。
 
+### [bisnuray/CC-Scrapper](https://github.com/bisnuray/CC-Scrapper)
+- **Description:** CC Scrapper: An advanced Telegram bot script to scrape credit cards from specified Telegram groups and channels.
+
 ### [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack)
 - **Description:** 非付费会员，fofa数据采集工具
 
@@ -1178,10 +1181,10 @@
 - **Description:** linux.do Daily Check-In. 每日签到，每日打卡
 
 ### [lobehub/lobehub](https://github.com/lobehub/lobehub)
-- **Description:** 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- **Description:** 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 
 ### [miloira/wxhook](https://github.com/miloira/wxhook)
-- **Description:** Python微信机器人框架，支持微信3.6.0.18、3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、3.9.12.51、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17、4.1.5.16、4.1.6.14、4.1.6.46、4.1.7.30，4.1.8.27、4.1.8.67、4.1.11.24、4.1.12.26、4.1.12.55、4.1.13.12、4.1.13.65、4.2.0.12版本（微信最新版本），企业微信4.1.0.6011、4.1.22.6014、4.1.33.6009、5.0.0.6008、5.0.3.6005版本。
+- **Description:** Python微信机器人/企微机器人，支持微信3.6.0.18、3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、3.9.12.51、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17、4.1.5.16、4.1.6.14、4.1.6.46、4.1.7.30，4.1.8.27、4.1.8.67、4.1.11.24、4.1.12.26、4.1.12.55、4.1.13.12、4.1.13.65、4.2.0.12版本（微信最新版本），企业微信4.1.0.6011、4.1.22.6014、4.1.33.6009、5.0.0.6008、5.0.3.6005版本。
 
 ### [lemodragon/Siliconflow2cow](https://github.com/lemodragon/Siliconflow2cow)
 - **Description:** Siliconflow2cow 是一个强大的 chatgpt-on-wechat 插件，允许用户通过简单的命令生成各种风格的图像。该插件支持多种模型，包括文本到图像和图像到图像的转换，为用户提供了丰富的图像生成选项。
@@ -1280,7 +1283,7 @@
 - **Description:** 啥也不是
 
 ### [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box)
-- **Description:** ServerBox - server status & toolbox
+- **Description:** ServerBox - high performance server toolbox app & server written in Flutter & Rust.
 
 ### [PhantasmAI/FreeClaude35Assistant](https://github.com/PhantasmAI/FreeClaude35Assistant)
 
@@ -1292,7 +1295,7 @@
 ### [xykt/IPQuality](https://github.com/xykt/IPQuality)
 - **Description:** IP质量检测脚本 - IP Quality Check Script
 
-### [CN-Grace/Wechat-Emoticon-Parser](https://github.com/CN-Grace/Wechat-Emoticon-Parser)
+### [Zoeicx/Wechat-Emoticon-Parser](https://github.com/Zoeicx/Wechat-Emoticon-Parser)
 - **Description:** Parse the emotion in your Wechat account with a simple python script
 
 ### [super-tongyao/wall](https://github.com/super-tongyao/wall)
