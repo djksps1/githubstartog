@@ -416,7 +416,7 @@
 - **Description:** A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 ### [xming521/WeClone](https://github.com/xming521/WeClone)
-- **Description:** Build a portrait of your life. Assistants that know you. Clones that talk like you.
+- **Description:** Build a portrait of your life. Assistants that know you better. Clones that sound more like you.
 
 ### [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)
 - **Description:** AI 视频笔记生成工具 让 AI 为你的视频做笔记
