@@ -1,3 +1,6 @@
+### [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage)
+- **Description:** Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。
+
 ### [wkpwn/CVE-2026-83834](https://github.com/wkpwn/CVE-2026-83834)
 
 ### [llyufenggotest/FlclashYF](https://github.com/llyufenggotest/FlclashYF)
@@ -1074,9 +1077,6 @@
 ### [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot)
 - **Description:** 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复（国内主流AI模型，扣子，FastGpt，Dify全面支持！），⚡视频号解析，😄自定义程度丰富，小白也可轻松上手！
 
-### [geekscloud/ql-script](https://github.com/geekscloud/ql-script)
-- **Description:** 一些花里胡哨不知道干什么的东西
-
 ### [Meatbuns666/openai_reg](https://github.com/Meatbuns666/openai_reg)
 
 ### [bestZwei/Text2Voice-Web](https://github.com/bestZwei/Text2Voice-Web)
@@ -1187,7 +1187,7 @@
 - **Description:** 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 
 ### [miloira/wxhook](https://github.com/miloira/wxhook)
-- **Description:** Python微信机器人/企微机器人，支持微信3.6.0.18、3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、3.9.12.51、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17、4.1.5.16、4.1.6.14、4.1.6.46、4.1.7.30，4.1.8.27、4.1.8.67、4.1.11.24、4.1.12.26、4.1.12.55、4.1.13.12、4.1.13.65、4.2.0.12版本（微信最新版本），企业微信4.1.0.6011、4.1.22.6014、4.1.33.6009、5.0.0.6008、5.0.3.6005版本。
+- **Description:** Python微信机器人/企微机器人，支持微信3.6.0.18、3.9.2.23、3.9.5.81、3.9.10.19、3.9.10.27、3.9.11.17、3.9.12.15、3.9.12.45、3.9.12.51、4.0.1.21、4.0.3.22、4.1.0.34、4.1.2.17、4.1.5.16、4.1.6.14、4.1.6.46、4.1.7.30，4.1.8.27、4.1.8.67、4.1.11.24、4.1.12.26、4.1.12.55、4.1.13.12、4.1.13.65、4.2.0.52版本（微信最新版本），企业微信4.1.0.6011、4.1.22.6014、4.1.33.6009、5.0.0.6008、5.0.3.6005版本。
 
 ### [lemodragon/Siliconflow2cow](https://github.com/lemodragon/Siliconflow2cow)
 - **Description:** Siliconflow2cow 是一个强大的 chatgpt-on-wechat 插件，允许用户通过简单的命令生成各种风格的图像。该插件支持多种模型，包括文本到图像和图像到图像的转换，为用户提供了丰富的图像生成选项。
@@ -1640,7 +1640,7 @@
 - **Description:** 超星学习通签到：支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测、QQ机器人签到与推送。
 
 ### [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ)
-- **Description:** Modern protocol-side framework based on NTQQ
+- **Description:** Modern protocol-side framework
 
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - **Description:** 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
