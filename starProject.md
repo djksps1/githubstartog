@@ -1478,7 +1478,7 @@
 - **Description:** A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ### [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
-- **Description:** Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+- **Description:** Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
 
 ### [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 - **Description:** Showcase your skills on your Github readme or resumé with ease ✨
