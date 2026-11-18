@@ -33,9 +33,6 @@
 ### [PastKing/xi-mail](https://github.com/PastKing/xi-mail)
 - **Description:** 基于 Cloud Mail 二次开发的 Cloudflare 邮箱服务，Linear 风格 UI 重设计 + 功能扩展
 
-### [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment)
-- **Description:** ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
-
 ### [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api)
 - **Description:** ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件
 
@@ -624,7 +621,7 @@
 - **Description:** 一个轻量级的博客系统，基于 Go 语言和 hertz 框架开发，支持多主题和多插件。
 
 ### [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
-- **Description:** 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+- **Description:** 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
 
 ### [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)
 - **Description:** Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
