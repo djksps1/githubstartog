@@ -1174,7 +1174,7 @@
 ### [Dolov/chrome-best-cookier](https://github.com/Dolov/chrome-best-cookier)
 - **Description:** Easily manage your cookies.
 
-### [chen08209/FlClash](https://github.com/chen08209/FlClash)
+### [Vialibrex/FlClash](https://github.com/Vialibrex/FlClash)
 - **Description:** A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
 ### [doveppp/linuxdo-checkin](https://github.com/doveppp/linuxdo-checkin)
